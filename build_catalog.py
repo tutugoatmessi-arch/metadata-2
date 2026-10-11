@@ -1,0 +1,485 @@
+# -*- coding: utf-8 -*-
+"""
+build_catalog.py — Tự động quét toàn bộ metadata game trong repository và tạo catalog.json chuẩn.
+Chạy script này bất cứ khi nào thêm hoặc cập nhật game trong repository metadata-resource-games.
+"""
+from __future__ import annotations
+
+import os
+import sys
+import json
+import time
+import datetime
+import subprocess
+from pathlib import Path
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+import importlib
+
+# Try to import vault from several locations:
+# 1. Same directory as this script (if vault.py is co-located)
+# 2. Parent directory
+# 3. Sibling 0xshinky folder (dev machine convenience)
+# Failing silently and setting vault=None is OK — is_ready will use safe fallback.
+_script_dir = Path(__file__).resolve().parent
+for _vault_search in [
+    _script_dir,
+    _script_dir.parent,
+    _script_dir.parent / "0xshinky",
+    Path(r"E:\0xshinky"),
+    Path(r"D:\0xshinky"),
+]:
+    if (_vault_search / "vault.py").is_file():
+        sys.path.insert(0, str(_vault_search))
+        break
+
+try:
+    import vault
+except Exception:
+    vault = None
+
+
+_LANG_LABELS = {
+    "english":    "English",
+    "german":     "Deutsch (German)",
+    "french":     "Français (French)",
+    "koreana":    "한국어 (Korean)",
+    "tchinese":   "繁體中文 (Traditional Chinese)",
+    "schinese":   "简体中文 (Simplified Chinese)",
+    "russian":    "Русский (Russian)",
+    "polish":     "Polski (Polish)",
+    "czech":      "Čeština (Czech)",
+    "dutch":      "Nederlands (Dutch)",
+    "japanese":   "日本語 (Japanese)",
+    "spanish":    "Español (Spanish)",
+    "brazilian":  "Português (Brazilian)",
+    "italian":    "Italiano (Italian)",
+    "hungarian":  "Magyar (Hungarian)",
+    "portuguese": "Português (Portuguese)",
+    "romanian":   "Română (Romanian)",
+    "turkish":    "Türkçe (Turkish)",
+    "thai":       "ไทย (Thai)",
+    "bulgarian":  "Български (Bulgarian)",
+    "ukrainian":  "Українська (Ukrainian)",
+    "latam":      "Español Latinoamérica (LATAM)",
+}
+
+
+def _as_int(v) -> int:
+    try:
+        return int(v or 0)
+    except Exception:
+        return 0
+
+
+def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> dict:
+    """Trích xuất thông tin chuẩn của game từ file JSON metadata."""
+    common = data.get("common", {})
+    extended = data.get("extended", {})
+    assoc = common.get("associations", {})
+    dev = assoc.get("0", {}).get("name", "") if isinstance(assoc, dict) else extended.get("developer", "")
+    pub = extended.get("publisher", "")
+
+    # 1. Poster (Capsule) & Header Cover
+    capsule_rel = None
+    header_rel = None
+    assets_full = common.get("library_assets_full", {})
+    if isinstance(assets_full, dict):
+        capsule_obj = assets_full.get("library_capsule", {}).get("image", {})
+        if isinstance(capsule_obj, dict):
+            capsule_rel = capsule_obj.get("english") or next(iter(capsule_obj.values()), None)
+        header_obj = assets_full.get("library_header", {}).get("image", {})
+        if isinstance(header_obj, dict):
+            header_rel = header_obj.get("english") or next(iter(header_obj.values()), None)
+
+    if not capsule_rel:
+        la = common.get("library_assets", {})
+        if isinstance(la, dict):
+            c_val = la.get("library_capsule")
+            if isinstance(c_val, str) and "/" in c_val:
+                capsule_rel = c_val
+
+    if not header_rel:
+        hi = common.get("header_image", {})
+        if isinstance(hi, dict):
+            header_rel = hi.get("english") or next(iter(hi.values()), None)
+        elif isinstance(hi, str):
+            header_rel = hi
+
+    if capsule_rel:
+        poster_url = f"https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/{appid_str}/{capsule_rel}"
+    else:
+        poster_url = f"https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/{appid_str}/library_600x900.jpg"
+
+    if header_rel:
+        header_url = f"https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/{appid_str}/{header_rel}"
+    else:
+        header_url = f"https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/{appid_str}/header.jpg"
+
+    # 2. Platforms
+    osarch = str(common.get("osarch", "64"))
+    if osarch == "64":
+        platforms = ["Windows (64-bit)"]
+    elif osarch == "32":
+        platforms = ["Windows (32-bit)"]
+    else:
+        platforms = ["Windows (64-bit)", "Windows (32-bit)"]
+
+    # 3. Depots & Base Depot Resolution
+    depots_raw = data.get("depots", {})
+    depot_base = 0
+    if isinstance(depots_raw, dict):
+        for did_str, dinfo in depots_raw.items():
+            if not did_str.isdigit() or not isinstance(dinfo, dict):
+                continue
+            id_int = int(did_str)
+            if 228980 <= id_int <= 228999:
+                continue
+            if dinfo.get("depotfromapp") or dinfo.get("sharedinstall") or dinfo.get("dlcappid"):
+                continue
+            cfg = dinfo.get("config", {})
+            oslist = cfg.get("oslist", "")
+            if "windows" in oslist and not cfg.get("language"):
+                depot_base = id_int
+                break
+        if not depot_base:
+            for did_str, dinfo in depots_raw.items():
+                if not did_str.isdigit() or not isinstance(dinfo, dict):
+                    continue
+                id_int = int(did_str)
+                if 228980 <= id_int <= 228999:
+                    continue
+                if dinfo.get("depotfromapp") or dinfo.get("sharedinstall") or dinfo.get("dlcappid"):
+                    continue
+                if not dinfo.get("config", {}).get("language"):
+                    depot_base = id_int
+                    break
+    if not depot_base:
+        depot_base = int(appid_str) + 1 if appid_str.isdigit() else 0
+
+    # 4. Languages — STRICTLY from depots
+    history = data.get("_history", [])
+    lang_depots = {}
+    if isinstance(depots_raw, dict):
+        for did_str, dinfo in depots_raw.items():
+            if did_str.isdigit() and isinstance(dinfo, dict):
+                lang = dinfo.get("config", {}).get("language")
+                if lang:
+                    l_key = str(lang).lower()
+                    cur_did = lang_depots.get(l_key)
+                    if cur_did:
+                        cur_sz = int(depots_raw.get(str(cur_did), {}).get("manifests", {}).get("public", {}).get("size") or 0)
+                        new_sz = int(dinfo.get("manifests", {}).get("public", {}).get("size") or 0)
+                        if new_sz > cur_sz:
+                            lang_depots[l_key] = int(did_str)
+                    else:
+                        lang_depots[l_key] = int(did_str)
+
+    eng_did = lang_depots.get("english")
+    has_real_eng_depot = False
+    if eng_did:
+        has_real_eng_depot = any(str(eng_did) in h.get("manifests", {}) for h in history if isinstance(h, dict))
+
+    languages = []
+    if has_real_eng_depot:
+        languages.append({
+            "id": eng_did,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": True,
+        })
+    else:
+        languages.append({
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": True,
+        })
+
+    for lang, did in lang_depots.items():
+        if lang == "english":
+            continue
+        lbl = _LANG_LABELS.get(lang, lang.capitalize())
+        # Append localized title only for standalone game editions: depot ngôn ngữ > 5 GB VÀ to cỡ base depot
+        # (cả game). Gói ngôn ngữ bổ sung kể cả 5-6 GB (vd EA FC 26) KHÔNG phải bản độc lập.
+        d_sz = int(depots_raw.get(str(did), {}).get("manifests", {}).get("public", {}).get("size") or 0)
+        base_sz = int(depots_raw.get(str(depot_base), {}).get("manifests", {}).get("public", {}).get("size") or 0)
+        if d_sz > 5_000_000_000 and (not base_sz or d_sz >= base_sz * 0.5):
+            loc_name = common.get("name_localized", {}).get(lang, "")
+            if loc_name and loc_name != common.get("name"):
+                lbl = f"{lbl} ({loc_name})"
+        languages.append({
+            "id": did,
+            "key": f"lang:{lang}",
+            "lang": lang,
+            "label": lbl,
+            "source": "depot",
+        })
+
+    # 5. Metadata Vault Check
+    vault_file = repo_dir / appid_str / "metadata"
+    has_vault = vault_file.is_file() and vault_file.stat().st_size > 64
+    vault_data = None
+    if has_vault and vault:
+        try:
+            vault_data = vault.load_vault(str(vault_file))
+        except Exception:
+            pass
+
+    # ready_builds.json — plaintext index of buildIds confirmed ready by vault check.
+    # Written locally (when vault.py is available) and read by CI (when vault.py is not available).
+    ready_builds_file = repo_dir / appid_str / "ready_builds.json"
+
+    branches = depots_raw.get("branches", {}) if isinstance(depots_raw, dict) else {}
+    versions = []
+    recommended_build_index = 0
+
+    # Collect ready buildIds using vault (when available), then write ready_builds.json
+    if vault_data:
+        ready_build_ids: list[str] = []
+        for idx_pre, h in enumerate(history if isinstance(history, list) else []):
+            bid_pre = str(h.get("buildId") or h.get("build_id") or "").strip()
+            if not bid_pre:
+                continue
+            mfsts_pre = h.get("manifests", {})
+            base_gid_pre = mfsts_pre.get(str(depot_base), {}).get("gid")
+            if base_gid_pre:
+                has_key_pre = (depot_base in vault_data.get("keys", {})) or (str(depot_base) in vault_data.get("keys", {}))
+                combo_pre = f"{depot_base}_{base_gid_pre}"
+                has_manifest_pre = combo_pre in vault_data.get("manifests", {})
+                if has_key_pre and has_manifest_pre:
+                    ready_build_ids.append(bid_pre)
+        # Write plaintext index so CI can use it without vault.py
+        try:
+            ready_builds_file.write_text(json.dumps(ready_build_ids, ensure_ascii=False), encoding="utf-8")
+        except Exception:
+            pass
+    else:
+        ready_build_ids = []
+        if ready_builds_file.is_file():
+            try:
+                _rb = json.loads(ready_builds_file.read_text(encoding="utf-8"))
+                ready_build_ids = [str(x) for x in _rb] if isinstance(_rb, list) else []
+            except Exception:
+                pass
+
+    if isinstance(history, list) and history:
+        for idx, h in enumerate(history):
+            bid = str(h.get("buildId") or h.get("build_id") or "").strip()
+            if not bid:
+                continue
+            branch = h.get("branch", "public")
+            time_updated = h.get("timeUpdated") or h.get("timeupdated") or h.get("firstSeen") or 0
+            date_str = ""
+            if time_updated:
+                try:
+                    dt = datetime.datetime.fromtimestamp(int(time_updated))
+                    date_str = dt.strftime("%m/%d/%Y")
+                except Exception:
+                    pass
+
+            mfsts = h.get("manifests", {})
+            manifest_depot_ids = [str(k) for k in mfsts.keys()] if isinstance(mfsts, dict) else []
+
+            is_ready = False
+            if vault_data:
+                # vault.py available and loaded: precise per-build check
+                base_gid = mfsts.get(str(depot_base), {}).get("gid")
+                if base_gid:
+                    has_key = (depot_base in vault_data.get("keys", {})) or (str(depot_base) in vault_data.get("keys", {}))
+                    combo = f"{depot_base}_{base_gid}"
+                    has_manifest = combo in vault_data.get("manifests", {})
+                    is_ready = bool(has_key and has_manifest)
+                else:
+                    is_ready = (idx == 0)
+            elif ready_build_ids:
+                # No vault.py but ready_builds.json is available (CI path)
+                is_ready = bid in ready_build_ids
+            elif has_vault:
+                # Vault file exists but neither vault.py nor ready_builds.json available.
+                # Cannot verify which builds are covered → conservatively allow only build 0.
+                is_ready = (idx == 0)
+            else:
+                is_ready = (idx == 0)
+
+            if manifest_depot_ids:
+                base_available = (str(depot_base) in manifest_depot_ids) or not depot_base
+                build_languages = [
+                    l for l in languages
+                    if (l.get("source") == "base" and base_available) or
+                       (l.get("source") == "depot" and str(l.get("id")) in manifest_depot_ids)
+                ]
+            else:
+                build_languages = list(languages)
+
+            if not build_languages:
+                build_languages = list(languages)
+
+            soon_suffix = "" if is_ready else " · Sắp có mặt (Update soon)"
+            label_prefix = "Public - " if (idx == 0 or branch == "public") else ""
+            formatted_date = f" ({date_str})" if date_str else ""
+            label = f"{label_prefix}Build {bid}{formatted_date}{soon_suffix}"
+
+            versions.append({
+                "id": bid,
+                "branch": branch,
+                "label": label,
+                "is_ready": is_ready,
+                "is_recommended": (idx == recommended_build_index),
+                "manifest_depots": manifest_depot_ids,
+                "languages": build_languages,
+            })
+
+    if not versions:
+        public_br = branches.get("public", {}) if isinstance(branches, dict) else {}
+        public_build = str(public_br.get("buildid", "")).strip() or "latest"
+        versions.append({
+            "id": public_build,
+            "branch": "public",
+            "label": f"Public - Build {public_build}",
+            "is_ready": True,
+            "is_recommended": True,
+            "manifest_depots": [],
+            "languages": languages,
+        })
+
+    build_id = versions[0]["id"]
+    config = data.get("config", {})
+    installdir = config.get("installdir", common.get("name", ""))
+
+    launch_cfg = config.get("launch", {})
+    exes = []
+    for e in launch_cfg.values():
+        exe = e.get("executable", "")
+        if exe and exe not in exes:
+            exes.append(exe)
+            base_n = Path(exe).name
+            if base_n not in exes:
+                exes.append(base_n)
+
+    return {
+        "id": f"game-{appid_str}",
+        "appid": int(appid_str) if appid_str.isdigit() else 0,
+        "name": common.get("name", f"App {appid_str}"),
+        "developer": dev,
+        "publisher": pub,
+        "installdir": installdir,
+        "launch_exes": exes,
+        "build_id": build_id,
+        "has_metadata": has_vault,
+        "depot_base": depot_base,
+        "poster_url": poster_url,
+        "header_url": header_url,
+        "platforms": platforms,
+        "versions": versions,
+        "languages": versions[0]["languages"] if (versions and "languages" in versions[0]) else languages,
+        "all_languages": languages,
+        # added_ts (thời điểm game được thêm vào repo) do build_catalog() điền sau khi parse.
+        # App tính badge NEW từ added_ts, KHÔNG dùng ngày phát hành Steam.
+        # Muốn ghim NEW cho 1 game bất kể ngày thêm: thêm "is_new": true vào "common" trong {appid}.json
+        **({"pin_new": True} if common.get("is_new") is True else {}),
+    }
+
+
+def _git(repo_dir: Path, *args: str) -> subprocess.CompletedProcess | None:
+    try:
+        return subprocess.run(
+            ["git", "-C", str(repo_dir), *args],
+            capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=60,
+        )
+    except Exception:
+        return None
+
+
+def _git_usable(repo_dir: Path) -> bool:
+    """git có history đầy đủ? Shallow clone (checkout mặc định của Actions) làm mọi thư mục
+    trông như vừa được thêm ở commit biên -> sai hết, nên coi như không dùng được."""
+    r = _git(repo_dir, "rev-parse", "--is-shallow-repository")
+    if not r or r.returncode != 0:
+        return False
+    if r.stdout.strip() == "true":
+        print("  [!] Repo là shallow clone -> bỏ qua git log (workflow cần fetch-depth: 0)")
+        return False
+    return True
+
+
+def _git_added_ts(repo_dir: Path, appid_str: str) -> int:
+    """Unix time của commit ĐẦU TIÊN thêm file vào thư mục game (0 nếu không xác định được)."""
+    r = _git(repo_dir, "log", "--diff-filter=A", "--format=%ct", "--", f"{appid_str}/")
+    if not r or r.returncode != 0:
+        return 0
+    stamps = [int(x) for x in r.stdout.split() if x.isdigit()]
+    return min(stamps) if stamps else 0
+
+
+def _load_previous_added(out_file: Path) -> tuple[bool, dict[int, int]]:
+    """Đọc catalog.json cũ để GIỮ NGUYÊN added_ts đã ghi (không đổi khi squash history, build lại...)."""
+    if not out_file.is_file():
+        return False, {}
+    try:
+        prev = json.loads(out_file.read_text(encoding="utf-8"))
+    except Exception:
+        return False, {}
+    if not isinstance(prev, list):
+        return False, {}
+    return True, {
+        _as_int(g.get("appid")): _as_int(g.get("added_ts"))
+        for g in prev if isinstance(g, dict)
+    }
+
+
+def build_catalog(repo_dir: Path | None = None) -> list[dict]:
+    """Quét tất cả thư mục appid và tạo danh sách catalog."""
+    if repo_dir is None:
+        repo_dir = Path(__file__).resolve().parent
+
+    out_file = repo_dir / "catalog.json"
+    had_prev, prev_added = _load_previous_added(out_file)
+    use_git = _git_usable(repo_dir)
+    now = int(time.time())
+
+    print(f"[*] Quét metadata trong: {repo_dir}")
+    games = []
+    # Tìm các thư mục có tên là số appid
+    for item in sorted(repo_dir.iterdir()):
+        if not item.is_dir() or not item.name.isdigit():
+            continue
+        aid = item.name
+        json_file = item / f"{aid}.json"
+        if not json_file.is_file():
+            continue
+        try:
+            data = json.loads(json_file.read_text(encoding="utf-8"))
+            info = _parse_game_info_from_json(data, aid, repo_dir)
+
+            # added_ts: ưu tiên catalog cũ -> git history -> game mới hoàn toàn thì stamp NOW
+            # Dùng str() để tránh int/str type mismatch giữa info["appid"] và prev_added keys
+            _prev_keys_str = {str(k) for k in prev_added}
+            added = prev_added.get(info["appid"], 0) or prev_added.get(_as_int(str(info["appid"])), 0)
+            if not added and use_git:
+                added = _git_added_ts(repo_dir, aid)
+            if not added and str(info["appid"]) not in _prev_keys_str:
+                # Game hoàn toàn mới, không có trong catalog cũ -> đánh dấu ngay bây giờ
+                added = now
+            info["added_ts"] = added
+
+            games.append(info)
+            vault_status = "[+ Vault]" if info["has_metadata"] else "[No Vault]"
+            print(f"  -> [{aid}] {info['name']} {vault_status} ({len(info['versions'])} builds)")
+        except Exception as e:
+            print(f"  [!] Lỗi khi nạp {aid}: {e}")
+
+    out_file.write_text(json.dumps(games, indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"\n[OK] Đã xuất {len(games)} game vào: {out_file} ({out_file.stat().st_size:,} bytes)")
+    return games
+
+
+if __name__ == "__main__":
+    base = Path(__file__).resolve().parent
+    build_catalog(base)
