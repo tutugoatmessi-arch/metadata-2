@@ -353,7 +353,7 @@
     "installdir": "Sekiro",
     "launch": {
       "0": {
-        "executable": "sekiro_launcher.exe",
+        "executable": "sekiro.exe",
         "type": "none"
       },
       "1": {
