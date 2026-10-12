@@ -9,6 +9,8 @@
     "launch_exes": [
       "PlayRDR2.exe"
     ],
+    "launch_exe": "PlayRDR2.exe",
+    "launch_exe_after_fix": "",
     "build_id": "13773296",
     "has_metadata": true,
     "depot_base": 1174181,
@@ -81,6 +83,8 @@
       "Artwork_MiniSoundtrack/DigitalArtwork_MiniSoundtrack.exe",
       "DigitalArtwork_MiniSoundtrack.exe"
     ],
+    "launch_exe": "sekiro.exe",
+    "launch_exe_after_fix": "",
     "build_id": "5794815",
     "has_metadata": true,
     "depot_base": 814381,
