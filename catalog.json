@@ -1,5 +1,75 @@
 [
   {
+    "id": "game-1174180",
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "installdir": "Red Dead Redemption 2",
+    "launch_exes": [
+      "PlayRDR2.exe"
+    ],
+    "build_id": "13773296",
+    "has_metadata": true,
+    "depot_base": 1174181,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "13773296",
+        "branch": "public",
+        "label": "Public - Build 13773296 (03/18/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "1174181",
+          "1174182",
+          "1174183",
+          "1174184",
+          "1174185",
+          "1174186",
+          "1899671"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791777104
+  },
+  {
     "id": "game-814380",
     "appid": 814380,
     "name": "Sekiro™: Shadows Die Twice",
