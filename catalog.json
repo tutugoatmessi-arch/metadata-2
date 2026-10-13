@@ -72,6 +72,78 @@
     "added_ts": 1791777104
   },
   {
+    "id": "game-1237320",
+    "appid": 1237320,
+    "name": "Sonic Frontiers",
+    "developer": "Sonic Team",
+    "publisher": "SEGA",
+    "installdir": "SonicFrontiers",
+    "launch_exes": [
+      "SonicFrontiers.exe",
+      "SonicFrontiersArtAndMusic.exe"
+    ],
+    "launch_exe": "SonicFrontiers.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "16857613",
+    "has_metadata": true,
+    "depot_base": 1237321,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237320/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "16857613",
+        "branch": "public",
+        "label": "Public - Build 16857613 (12/27/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1237321",
+          "2079301",
+          "2089730",
+          "2089733",
+          "2089840",
+          "2093241"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791908165
+  },
+  {
     "id": "game-1506830",
     "appid": 1506830,
     "name": "FIFA 22",
