@@ -72,6 +72,71 @@
     "added_ts": 1791777104
   },
   {
+    "id": "game-2055290",
+    "appid": 2055290,
+    "name": "Sonic Colors: Ultimate",
+    "developer": "Blind Squirrel Entertainment",
+    "publisher": "SEGA",
+    "installdir": "SonicColorsUltimate",
+    "launch_exes": [
+      "exec/SonicColorsUltimate.exe",
+      "SonicColorsUltimate.exe"
+    ],
+    "launch_exe": "exec/SonicColorsUltimate.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10078994",
+    "has_metadata": true,
+    "depot_base": 2055291,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2055290/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2055290/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10078994",
+        "branch": "public",
+        "label": "Public - Build 10078994 (12/05/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2055291"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791904938
+  },
+  {
     "id": "game-3357650",
     "appid": 3357650,
     "name": "PRAGMATA",
