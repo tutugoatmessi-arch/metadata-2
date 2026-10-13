@@ -581,6 +581,71 @@
     "added_ts": 1791905807
   },
   {
+    "id": "game-1693980",
+    "appid": 1693980,
+    "name": "Dead Space",
+    "developer": "Motive",
+    "publisher": "Electronic Arts",
+    "installdir": "Dead Space (2023)",
+    "launch_exes": [
+      "Dead Space.exe"
+    ],
+    "launch_exe": "Dead Space.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10602756",
+    "has_metadata": true,
+    "depot_base": 1693981,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10602756",
+        "branch": "public",
+        "label": "Public - Build 10602756 (02/21/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "1693981"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791906641
+  },
+  {
     "id": "game-2055290",
     "appid": 2055290,
     "name": "Sonic Colors: Ultimate",
