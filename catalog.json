@@ -783,6 +783,80 @@
     "added_ts": 1791904938
   },
   {
+    "id": "game-3035570",
+    "appid": 3035570,
+    "name": "Assassin's Creed Mirage",
+    "developer": "Ubisoft Bordeaux",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed Mirage",
+    "launch_exes": [
+      "ACMirage.exe"
+    ],
+    "launch_exe": "ACMirage.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21164535",
+    "has_metadata": true,
+    "depot_base": 3035571,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/60f638c4278782727586f112f9ef2e927c1463f2/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/fdc04fa5d177ba948fd14cdd352632080350c8fc/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21164535",
+        "branch": "public",
+        "label": "Public - Build 21164535 (12/12/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1716751",
+          "3035571",
+          "3035572",
+          "3035573",
+          "3035574",
+          "3035575",
+          "3035576",
+          "3035577",
+          "3035578",
+          "3035579"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791908910
+  },
+  {
     "id": "game-3357650",
     "appid": 3357650,
     "name": "PRAGMATA",
