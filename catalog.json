@@ -783,6 +783,78 @@
     "added_ts": 1791904938
   },
   {
+    "id": "game-3017860",
+    "appid": 3017860,
+    "name": "DOOM: The Dark Ages",
+    "developer": "id Software",
+    "publisher": "Bethesda Softworks",
+    "installdir": "DOOMTheDarkAges",
+    "launch_exes": [
+      "idTechLauncher.exe"
+    ],
+    "launch_exe": "idTechLauncher.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25755602",
+    "has_metadata": true,
+    "depot_base": 3017862,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/e670b2a17acb4bfd60dfb8fb6d4d8cb5b1d5c07c/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/c2f558a1fa6dab664c7260885719323853bfcda1/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25755602",
+        "branch": "public",
+        "label": "Public - Build 25755602 (10/06/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "3017862",
+          "3017863",
+          "3017864",
+          "3017865",
+          "3017866",
+          "3017867",
+          "3017868"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791910917
+  },
+  {
     "id": "game-3035570",
     "appid": 3035570,
     "name": "Assassin's Creed Mirage",
