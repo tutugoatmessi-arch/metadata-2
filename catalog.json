@@ -1544,6 +1544,94 @@
     "added_ts": 1791995253
   },
   {
+    "id": "game-287700",
+    "appid": 287700,
+    "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "developer": "KONAMI",
+    "publisher": "KONAMI",
+    "installdir": "MGS_TPP",
+    "launch_exes": [
+      "mgsvtpp.exe"
+    ],
+    "launch_exe": "mgsvtpp.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24176213",
+    "has_metadata": true,
+    "depot_base": 287701,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/287700/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24176213",
+        "branch": "public",
+        "label": "Public - Build 24176213 (07/13/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228990",
+          "287701",
+          "287702"
+        ],
+        "languages": [
+          {
+            "id": 287701,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 287702,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 287701,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 287702,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 287701,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 287702,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "added_ts": 1791999245
+  },
+  {
     "id": "game-3017860",
     "appid": 3017860,
     "name": "DOOM: The Dark Ages",
