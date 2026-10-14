@@ -1406,6 +1406,46 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "11046100",
+        "branch": "dx11_non-rt",
+        "label": "Build 11046100 (04/20/2023)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "418371",
+          "418372",
+          "418375",
+          "418376",
+          "418377",
+          "529930",
+          "530590",
+          "530591",
+          "530592",
+          "530593",
+          "530594",
+          "530595",
+          "530596",
+          "530597",
+          "530598",
+          "530599",
+          "530610",
+          "530611",
+          "564190"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [
