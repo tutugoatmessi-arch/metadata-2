@@ -322,9 +322,22 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                 build_languages = list(languages)
 
             soon_suffix = "" if is_ready else " · Sắp có mặt (Update soon)"
-            label_prefix = "Public - " if (idx == 0 or branch == "public") else ""
-            formatted_date = f" ({date_str})" if date_str else ""
-            label = f"{label_prefix}Build {bid}{formatted_date}{soon_suffix}"
+            if h.get("label"):
+                label = f"{h['label']}{soon_suffix}"
+            else:
+                b_low = str(branch or "").strip().lower()
+                if h.get("branch_label"):
+                    label_prefix = f"{h['branch_label']} - "
+                elif b_low in ("dx11_non-rt", "non-rt", "non_rt"):
+                    label_prefix = "Non-RT - "
+                elif b_low == "public" or (idx == 0 and not b_low):
+                    label_prefix = "Public - "
+                elif b_low:
+                    label_prefix = f"{branch} - "
+                else:
+                    label_prefix = ""
+                formatted_date = f" ({date_str})" if date_str else ""
+                label = f"{label_prefix}Build {bid}{formatted_date}{soon_suffix}"
 
             versions.append({
                 "id": bid,
