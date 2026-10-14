@@ -1068,6 +1068,73 @@
     "added_ts": 1791992185
   },
   {
+    "id": "game-2751000",
+    "appid": 2751000,
+    "name": "Prince of Persia The Lost Crown",
+    "developer": "Ubisoft Montpellier",
+    "publisher": "Ubisoft",
+    "installdir": "Prince of Persia The Lost Crown",
+    "launch_exes": [
+      "TheLostCrown.exe"
+    ],
+    "launch_exe": "TheLostCrown.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17528300",
+    "has_metadata": true,
+    "depot_base": 2751001,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2751000/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17528300",
+        "branch": "public",
+        "label": "Public - Build 17528300 (02/27/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "2751001",
+          "4099821"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791995801
+  },
+  {
     "id": "game-2840770",
     "appid": 2840770,
     "name": "Avatar: Frontiers of Pandora",
