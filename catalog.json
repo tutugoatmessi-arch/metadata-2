@@ -1047,6 +1047,98 @@
     "added_ts": 1791863774
   },
   {
+    "id": "game-3489700",
+    "appid": 3489700,
+    "name": "Stellar Blade™",
+    "developer": "SHIFT UP Corporation",
+    "publisher": "PlayStation Publishing LLC (excluding China)",
+    "installdir": "StellarBlade",
+    "launch_exes": [
+      "SB.exe"
+    ],
+    "launch_exe": "SB.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24463856",
+    "has_metadata": true,
+    "depot_base": 3489701,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3489700/6f2bbe8f34fc283f42acbe4ab184e9a40f76ad51/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3489700/3fef887cc0b7f8982253b25f42c6ebbba914bf94/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24463856",
+        "branch": "public",
+        "label": "Public - Build 24463856 (07/30/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "3489701",
+          "3596180",
+          "3596190"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "19963153",
+        "branch": "public",
+        "label": "Public - Build 19963153 (09/13/2025)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "3489701",
+          "3596180",
+          "3596190"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791946714
+  },
+  {
     "id": "game-814380",
     "appid": 814380,
     "name": "Sekiro™: Shadows Die Twice",
