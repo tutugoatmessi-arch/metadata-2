@@ -1334,6 +1334,103 @@
     "added_ts": 1791946714
   },
   {
+    "id": "game-418370",
+    "appid": 418370,
+    "name": "Resident Evil 7 Biohazard",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "RESIDENT EVIL 7 biohazard",
+    "launch_exes": [
+      "re7.exe"
+    ],
+    "launch_exe": "re7.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22773795",
+    "has_metadata": true,
+    "depot_base": 418371,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/418370/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22773795",
+        "branch": "public",
+        "label": "Public - Build 22773795 (04/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "418371",
+          "418372",
+          "418373",
+          "418374",
+          "418375",
+          "418376",
+          "418377",
+          "418378",
+          "529930",
+          "530590",
+          "530591",
+          "530592",
+          "530593",
+          "530594",
+          "530595",
+          "530596",
+          "530597",
+          "530598",
+          "530599",
+          "530610",
+          "530611",
+          "564190",
+          "583811",
+          "583812",
+          "583813",
+          "583814",
+          "583815",
+          "583816",
+          "583817",
+          "583818",
+          "583819",
+          "1233910"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791982426
+  },
+  {
     "id": "game-814380",
     "appid": 814380,
     "name": "Sekiro™: Shadows Die Twice",
