@@ -718,6 +718,115 @@
     "added_ts": 1791906641
   },
   {
+    "id": "game-1941540",
+    "appid": 1941540,
+    "name": "Mafia: The Old Country",
+    "developer": "Hangar 13",
+    "publisher": "2K",
+    "installdir": "Mafia The Old Country",
+    "launch_exes": [
+      "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+      "Nero-Win64-Test.exe",
+      "\\game\\Nero\\Binaries\\Win64\\Run_Nero.bat",
+      "Run_Nero.bat",
+      "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe",
+      "Nero-Win64-Shipping.exe",
+      "\\game\\Nero\\Binaries\\Win64\\MafiaTheOldCountry.exe",
+      "MafiaTheOldCountry.exe",
+      "\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+      "\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe",
+      "\\Nero\\Binaries\\Win64\\Nero.exe",
+      "Nero.exe",
+      "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry.exe",
+      "\\MafiaTheOldCountry\\Binaries\\Win64\\MafiaTheOldCountry-logging.exe",
+      "MafiaTheOldCountry-logging.exe",
+      "\\game\\Nero\\Binaries\\Win64\\Nero.exe",
+      "\\game2\\Nero\\Binaries\\Win64\\Nero.exe",
+      "\\game\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+      "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Shipping.exe"
+    ],
+    "launch_exe": "\\game2\\Nero\\Binaries\\Win64\\Nero-Win64-Test.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24975580",
+    "has_metadata": true,
+    "depot_base": 1941541,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1941540/3c2e4dee10f72e061ed382064be68b9648902534/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1941540/abc596b661be9665d918d9a93f7c38ac73963f84/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24975580",
+        "branch": "public",
+        "label": "Public - Build 24975580 (08/27/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "229002",
+          "1941541"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "20951841",
+        "branch": "public",
+        "label": "Public - Build 20951841 (11/26/2025)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "229002",
+          "1941541"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791951891
+  },
+  {
     "id": "game-2055290",
     "appid": 2055290,
     "name": "Sonic Colors: Ultimate",
