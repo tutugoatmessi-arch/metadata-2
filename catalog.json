@@ -977,7 +977,7 @@
       {
         "id": "23443442",
         "branch": "public",
-        "label": "Public - Build 23443442 (08/04/2026)",
+        "label": "Public - Build 23443442 (05/28/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -985,8 +985,7 @@
           "3357651",
           "3357652",
           "3859920",
-          "3859930",
-          "4093670"
+          "3859930"
         ],
         "languages": [
           {
@@ -1002,15 +1001,14 @@
       {
         "id": "22357085",
         "branch": "public",
-        "label": "Public - Build 22357085 (08/04/2026)",
+        "label": "Public - Build 22357085 (03/16/2026)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "228989",
           "3357651",
           "3859920",
-          "3859930",
-          "4093670"
+          "3859930"
         ],
         "languages": [
           {
