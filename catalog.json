@@ -827,6 +827,78 @@
     "added_ts": 1791951891
   },
   {
+    "id": "game-1971870",
+    "appid": 1971870,
+    "name": "Mortal Kombat 1",
+    "developer": "NetherRealm Studios",
+    "publisher": "Warner Bros. Games",
+    "installdir": "Mortal Kombat 1",
+    "launch_exes": [
+      "MK12.exe"
+    ],
+    "launch_exe": "MK12.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17941244",
+    "has_metadata": true,
+    "depot_base": 1971872,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17941244",
+        "branch": "public",
+        "label": "Public - Build 17941244 (03/25/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1971872",
+          "1971873",
+          "1971874",
+          "1971875",
+          "2615191",
+          "3168021",
+          "3233541"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1791996434
+  },
+  {
     "id": "game-2055290",
     "appid": 2055290,
     "name": "Sonic Colors: Ultimate",
