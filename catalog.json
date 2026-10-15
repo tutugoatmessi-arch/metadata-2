@@ -1052,6 +1052,72 @@
     "added_ts": 1791953294
   },
   {
+    "id": "game-2485190",
+    "appid": 2485190,
+    "name": "MediBang Paint for Desktop",
+    "developer": "MediBang Inc.",
+    "publisher": "MediBang Inc.",
+    "installdir": "MediBang Paint",
+    "launch_exes": [
+      "MediBangPaintPro.exe",
+      "MediBangPaintPro.app"
+    ],
+    "launch_exe": "MediBangPaintPro.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24941327",
+    "has_metadata": true,
+    "depot_base": 2485191,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2485190/59fa4f3177b0c8311ca53f9e32c069b0f3698b72/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2485190/d0cf729458a34394a6be439608f9790190e988b7/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24941327",
+        "branch": "public",
+        "label": "Public - Build 24941327 (08/26/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2485191"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792045456
+  },
+  {
     "id": "game-2680010",
     "appid": 2680010,
     "name": "The First Berserker: Khazan",
