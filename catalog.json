@@ -2510,6 +2510,76 @@
     "added_ts": 1791982426
   },
   {
+    "id": "game-801800",
+    "appid": 801800,
+    "name": "Atomfall",
+    "developer": "Rebellion",
+    "publisher": "Rebellion",
+    "installdir": "Atomfall",
+    "launch_exes": [
+      "launcher\\Atomfall.exe",
+      "Atomfall.exe"
+    ],
+    "launch_exe": "launcher\\Atomfall.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "20373765",
+    "has_metadata": true,
+    "depot_base": 801801,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/801800/2b7ed6a84485e94108c4cedd2388040858302242/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/801800/47a6958f09dbf42a5bb9ba5dfbca02938b298b36/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "20373765",
+        "branch": "public",
+        "label": "Public - Build 20373765 (10/14/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "801801",
+          "801802",
+          "801803",
+          "3047140",
+          "3252020"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792079619
+  },
+  {
     "id": "game-814380",
     "appid": 814380,
     "name": "Sekiro™: Shadows Die Twice",
