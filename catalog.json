@@ -2743,6 +2743,79 @@
     "added_ts": 1791908910
   },
   {
+    "id": "game-307690",
+    "appid": 307690,
+    "name": "Sleeping Dogs: Definitive Edition",
+    "developer": "United Front Games",
+    "publisher": "Square Enix",
+    "installdir": "SleepingDogsDefinitiveEdition",
+    "launch_exes": [
+      "SDHDShip.exe",
+      "Sleeping Dogs Definitive Edition.app"
+    ],
+    "launch_exe": "SDHDShip.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "979344",
+    "has_metadata": true,
+    "depot_base": 307691,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/307690/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "979344",
+        "branch": "public",
+        "label": "Public - Build 979344 (02/17/2016)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "307691",
+          "307692",
+          "307693",
+          "307694",
+          "307695",
+          "307696"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792131876
+  },
+  {
     "id": "game-3357650",
     "appid": 3357650,
     "name": "PRAGMATA",
