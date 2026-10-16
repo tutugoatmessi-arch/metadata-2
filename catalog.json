@@ -1950,6 +1950,152 @@
     "added_ts": 1791953294
   },
   {
+    "id": "game-2406770",
+    "appid": 2406770,
+    "name": "Bodycam",
+    "developer": "Reissad Studio",
+    "publisher": "Reissad Studio",
+    "installdir": "Bodycam",
+    "launch_exes": [
+      "Bodycam.exe"
+    ],
+    "launch_exe": "Bodycam.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25505592",
+    "has_metadata": true,
+    "depot_base": 2406771,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2406770/ed5cce615e42482c301780a8d3a1615e96490acf/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2406770/826a9b9da0bd76d7ae3d6041b32d01182cd365b4/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25505592",
+        "branch": "public",
+        "label": "Public - Build 25505592 (09/25/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2406771"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "25368976",
+        "branch": "public",
+        "label": "Public - Build 25368976 (09/18/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "2406771"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "25228199",
+        "branch": "public",
+        "label": "Public - Build 25228199 (09/11/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "2406771"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "25190379",
+        "branch": "public",
+        "label": "Public - Build 25190379 (09/09/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "2406771"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "25168260",
+        "branch": "public",
+        "label": "Public - Build 25168260 (09/07/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "2406771"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792140303
+  },
+  {
     "id": "game-2485190",
     "appid": 2485190,
     "name": "MediBang Paint for Desktop",
