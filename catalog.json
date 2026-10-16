@@ -1287,6 +1287,76 @@
     "added_ts": 1791906641
   },
   {
+    "id": "game-1888930",
+    "appid": 1888930,
+    "name": "The Last of Us™ Part I",
+    "developer": "Naughty Dog LLC",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "The Last of Us Part I",
+    "launch_exes": [
+      "launcher.exe",
+      "t1x-release.exe",
+      "t1x-final-pgo-lto.exe",
+      "t1x-rtm.exe"
+    ],
+    "launch_exe": "launcher.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "18995818",
+    "has_metadata": true,
+    "depot_base": 1888931,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888930/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "18995818",
+        "branch": "public",
+        "label": "Public - Build 18995818 (06/25/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1888931",
+          "1888932",
+          "1888933"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792137721
+  },
+  {
     "id": "game-1941540",
     "appid": 1941540,
     "name": "Mafia: The Old Country",
