@@ -2016,6 +2016,78 @@
     "added_ts": 1792045456
   },
   {
+    "id": "game-2531310",
+    "appid": 2531310,
+    "name": "The Last of Us™ Part II Remastered",
+    "developer": "Naughty Dog LLC",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "The Last of Us Part II",
+    "launch_exes": [
+      "launcher.exe",
+      "t2r-steam-release.exe",
+      "t2r-steam-final-pgo-lto.exe",
+      "tlou-ii.exe",
+      "tlou-ii-l.exe"
+    ],
+    "launch_exe": "launcher.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "19297819",
+    "has_metadata": true,
+    "depot_base": 2531311,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2531310/aeac394b61ac94b5d4ea939351baf3943ac0b282/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2531310/12b4b3e0be2b903802a2d59e001f652f07a03ad9/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "19297819",
+        "branch": "public",
+        "label": "Public - Build 19297819 (07/21/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2531311",
+          "2531312",
+          "2531313",
+          "2531314"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792138701
+  },
+  {
     "id": "game-2680010",
     "appid": 2680010,
     "name": "The First Berserker: Khazan",
