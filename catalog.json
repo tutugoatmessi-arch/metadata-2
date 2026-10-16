@@ -1468,6 +1468,265 @@
     "added_ts": 1791996434
   },
   {
+    "id": "game-202170",
+    "appid": 202170,
+    "name": "Sleeping Dogs™",
+    "developer": "United Front Games",
+    "publisher": "Square Enix",
+    "installdir": "SleepingDogs",
+    "launch_exes": [
+      "HKShip.exe",
+      "Sleeping Dogs.app"
+    ],
+    "launch_exe": "HKShip.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "50948",
+    "has_metadata": true,
+    "depot_base": 202171,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/202170/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/202170/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "50948",
+        "branch": "public",
+        "label": "Public - Build 50948 (05/22/2014)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "202171",
+          "202172",
+          "202173",
+          "202174",
+          "202175",
+          "202176",
+          "202177",
+          "202178",
+          "202179",
+          "202180",
+          "202181",
+          "202182",
+          "202183",
+          "202184",
+          "202185",
+          "202190",
+          "202191",
+          "202192",
+          "202193",
+          "202197",
+          "202198",
+          "215240",
+          "215241",
+          "215242",
+          "215243",
+          "215244",
+          "215245",
+          "215246",
+          "215247",
+          "215248",
+          "215249",
+          "215251",
+          "215253",
+          "215254",
+          "215255",
+          "215256",
+          "215257",
+          "215258",
+          "215259",
+          "216330",
+          "216331",
+          "216332",
+          "216333",
+          "216334",
+          "216335",
+          "216959",
+          "216960",
+          "216961"
+        ],
+        "languages": [
+          {
+            "id": 202172,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 202173,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 202174,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 202175,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 202176,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 202177,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 202178,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 202179,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 202172,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 202173,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 202174,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 202175,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 202176,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 202177,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 202178,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 202179,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 202172,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 202173,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 202174,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 202175,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 202176,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 202177,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 202178,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 202179,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "added_ts": 1792131097
+  },
+  {
     "id": "game-2055290",
     "appid": 2055290,
     "name": "Sonic Colors: Ultimate",
