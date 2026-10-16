@@ -2976,5 +2976,106 @@
       }
     ],
     "added_ts": 1791746676
+  },
+  {
+    "id": "game-952060",
+    "appid": 952060,
+    "name": "Resident Evil 3",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "RE3",
+    "launch_exes": [
+      "re3.exe"
+    ],
+    "launch_exe": "re3.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24468913",
+    "has_metadata": true,
+    "depot_base": 952061,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/952060/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/952060/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24468913",
+        "branch": "public",
+        "label": "Public - Build 24468913 (07/30/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "952061",
+          "952062",
+          "952063",
+          "952064",
+          "1108280",
+          "1295161",
+          "1295162",
+          "1295163",
+          "1295164",
+          "1295165",
+          "1295166",
+          "1295350"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "11047294",
+        "branch": "dx11_non-rt",
+        "label": "Non-RT - Build 11047294 (04/20/2023) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "952062",
+          "952063",
+          "952064"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792129715
   }
 ]
