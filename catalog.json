@@ -396,6 +396,70 @@
     "added_ts": 1791777104
   },
   {
+    "id": "game-1222140",
+    "appid": 1222140,
+    "name": "Detroit: Become Human",
+    "developer": "Quantic Dream",
+    "publisher": "Quantic Dream",
+    "installdir": "Detroit Become Human",
+    "launch_exes": [
+      "DetroitBecomeHuman.exe"
+    ],
+    "launch_exe": "DetroitBecomeHuman.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "12158144",
+    "has_metadata": true,
+    "depot_base": 1222141,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222140/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "12158144",
+        "branch": "public",
+        "label": "Public - Build 12158144 (09/11/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1222141"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792204163
+  },
+  {
     "id": "game-1237320",
     "appid": 1237320,
     "name": "Sonic Frontiers",
