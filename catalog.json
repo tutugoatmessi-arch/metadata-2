@@ -532,6 +532,86 @@
     "added_ts": 1791908165
   },
   {
+    "id": "game-1245620",
+    "appid": 1245620,
+    "name": "ELDEN RING",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "installdir": "ELDEN RING",
+    "launch_exes": [
+      "Game/start_protected_game.exe",
+      "start_protected_game.exe",
+      "ArtbookOST/ELDEN RING Digital Artbook & Soundtrack.exe",
+      "ELDEN RING Digital Artbook & Soundtrack.exe",
+      "AdvGuide/ELDEN RING Adventure Guide.exe",
+      "ELDEN RING Adventure Guide.exe",
+      "ERD_ArtbookOST/ELDEN RING™ Shadow of the Erdtree Digital Artbook & Original Soundtrack.exe",
+      "ELDEN RING™ Shadow of the Erdtree Digital Artbook & Original Soundtrack.exe"
+    ],
+    "launch_exe": "Game/start_protected_game.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25080141",
+    "has_metadata": true,
+    "depot_base": 1245621,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25080141",
+        "branch": "public",
+        "label": "Public - Build 25080141 (09/02/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1245621",
+          "1245622",
+          "1245623",
+          "1245624",
+          "1896300",
+          "1896320",
+          "2778580",
+          "2855520"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792214100
+  },
+  {
     "id": "game-1506830",
     "appid": 1506830,
     "name": "FIFA 22",
