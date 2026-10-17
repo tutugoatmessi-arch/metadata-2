@@ -3744,6 +3744,121 @@
     "added_ts": 1791863774
   },
   {
+    "id": "game-346110",
+    "appid": 346110,
+    "name": "ARK: Survival Evolved",
+    "developer": "Studio Wildcard",
+    "publisher": "Studio Wildcard",
+    "installdir": "ARK",
+    "launch_exes": [
+      "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+      "ShooterGame_BE.exe",
+      "ShooterGame\\Binaries\\Win64\\ShooterGame.exe",
+      "ShooterGame.exe",
+      "ShooterGame.app",
+      "ShooterGame/Binaries/Linux/ShooterGame",
+      "ShooterGame"
+    ],
+    "launch_exe": "ShooterGame\\Binaries\\Win64\\ShooterGame_BE.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21291776",
+    "has_metadata": true,
+    "depot_base": 346111,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346110/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21291776",
+        "branch": "public",
+        "label": "Public - Build 21291776 (12/23/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228985",
+          "228990",
+          "346111",
+          "346113",
+          "346114",
+          "346115",
+          "346117",
+          "346118",
+          "375351",
+          "375352",
+          "375354",
+          "375355",
+          "375357",
+          "375358",
+          "473851",
+          "473852",
+          "473854",
+          "473855",
+          "473857",
+          "473858",
+          "512541",
+          "642251",
+          "708771",
+          "887381",
+          "1100811",
+          "1113411",
+          "1270831",
+          "1318680",
+          "1318685",
+          "1318686",
+          "1646551",
+          "1646691",
+          "1646701",
+          "1646721",
+          "1691801",
+          "1691802",
+          "1691805",
+          "1887561",
+          "1887562",
+          "1887565",
+          "3537070",
+          "3761021",
+          "3820061"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792247762
+  },
+  {
     "id": "game-3489700",
     "appid": 3489700,
     "name": "Stellar Blade™",
