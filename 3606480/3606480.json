@@ -883,5 +883,28 @@
         }
       }
     }
+  },
+  "config": {
+    "installdir": "Call of Duty HQ",
+    "launch": {
+      "0": {
+        "arguments": "cod.exe",
+        "config": {
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Launch Bootstrapper.exe",
+        "description_loc": {
+          "english": "Launch Bootstrapper.exe"
+        },
+        "executable": "bootstrapper.exe",
+        "type": "default"
+      }
+    }
+  },
+  "launch": {
+    "exe": "cod.exe",
+    "exe_after_fix": "_StartGame.bat",
+    "args": []
   }
 }

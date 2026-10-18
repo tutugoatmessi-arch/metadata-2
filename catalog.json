@@ -5164,10 +5164,12 @@
     "name": "Call of Duty®: Black Ops 7 - Endgame",
     "developer": "Treyarch",
     "publisher": "Activision",
-    "installdir": "Call of Duty®: Black Ops 7 - Endgame",
-    "launch_exes": [],
-    "launch_exe": "",
-    "launch_exe_after_fix": "",
+    "installdir": "Call of Duty HQ",
+    "launch_exes": [
+      "bootstrapper.exe"
+    ],
+    "launch_exe": "cod.exe",
+    "launch_exe_after_fix": "_StartGame.bat",
     "build_id": "25909941",
     "has_metadata": true,
     "depot_base": 3606481,
