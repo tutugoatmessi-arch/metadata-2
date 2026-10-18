@@ -1631,7 +1631,7 @@
   },
   "launch": {
     "exe": "cod25\\cod25-cod.exe",
-    "exe_after_fix": "_StartGame.bat",
+    "exe_after_fix": "cod25\\_StartGame.bat",
     "args": []
   }
 }
