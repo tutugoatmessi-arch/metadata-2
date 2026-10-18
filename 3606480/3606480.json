@@ -9,8 +9,8 @@
       "manifests": {
         "228989": {
           "gid": "5753583882400741046",
-          "size": 25674515,
-          "download": 25108528
+          "size": 0,
+          "download": 0
         },
         "1938091": {
           "gid": "158378123183721837",
@@ -638,6 +638,718 @@
     "publisher": "Activision"
   },
   "depots": {
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "gid": "5753583882400741046"
+        }
+      }
+    },
+    "1938091": {
+      "manifests": {
+        "local": {
+          "download": "64",
+          "gid": "7073109254292645340",
+          "size": "12"
+        },
+        "public": {
+          "download": "447952592",
+          "gid": "158378123183721837",
+          "size": "764771979"
+        }
+      }
+    },
+    "1938092": {
+      "manifests": {
+        "public": {
+          "download": "5366105584",
+          "gid": "2591545023656786129",
+          "size": "5580300455"
+        }
+      }
+    },
+    "1938093": {
+      "config": {
+        "language": "english"
+      },
+      "manifests": {
+        "public": {
+          "download": "28726336",
+          "gid": "852422306099465431",
+          "size": "34111004"
+        }
+      }
+    },
+    "1938094": {
+      "config": {
+        "language": "french"
+      },
+      "manifests": {
+        "public": {
+          "download": "41527344",
+          "gid": "659593164727995683",
+          "size": "48566484"
+        }
+      }
+    },
+    "1938095": {
+      "config": {
+        "language": "german"
+      },
+      "manifests": {
+        "public": {
+          "download": "42856064",
+          "gid": "3610538812067616180",
+          "size": "49729652"
+        }
+      }
+    },
+    "1938096": {
+      "config": {
+        "language": "italian"
+      },
+      "manifests": {
+        "public": {
+          "download": "42530864",
+          "gid": "9116040782317402837",
+          "size": "49510636"
+        }
+      }
+    },
+    "1938097": {
+      "config": {
+        "language": "spanish"
+      },
+      "manifests": {
+        "public": {
+          "download": "41930016",
+          "gid": "4733953095696728689",
+          "size": "48829360"
+        }
+      }
+    },
+    "1938098": {
+      "config": {
+        "language": "koreana"
+      },
+      "manifests": {
+        "public": {
+          "download": "97221888",
+          "gid": "4282847996254464648",
+          "size": "134078680"
+        }
+      }
+    },
+    "1938099": {
+      "config": {
+        "language": "brazilian"
+      },
+      "manifests": {
+        "public": {
+          "download": "42349504",
+          "gid": "4274240962602551136",
+          "size": "49302008"
+        }
+      }
+    },
+    "1962664": {
+      "config": {
+        "language": "latam"
+      },
+      "manifests": {
+        "public": {
+          "download": "42038720",
+          "gid": "4680059931377098371",
+          "size": "48921944"
+        }
+      }
+    },
+    "1962665": {
+      "config": {
+        "language": "tchinese"
+      },
+      "manifests": {
+        "public": {
+          "download": "88804464",
+          "gid": "2921295995516886417",
+          "size": "100288916"
+        }
+      }
+    },
+    "1962666": {
+      "config": {
+        "language": "schinese"
+      },
+      "manifests": {
+        "public": {
+          "download": "100044448",
+          "gid": "2537400299848402431",
+          "size": "163255592"
+        }
+      }
+    },
+    "1962667": {
+      "config": {
+        "language": "arabic"
+      },
+      "manifests": {
+        "public": {
+          "download": "51605008",
+          "gid": "8625784606128641297",
+          "size": "63004520"
+        }
+      }
+    },
+    "1962668": {
+      "config": {
+        "language": "japanese"
+      },
+      "manifests": {
+        "public": {
+          "download": "98239536",
+          "gid": "8648147793823728722",
+          "size": "143507224"
+        }
+      }
+    },
+    "1962669": {
+      "config": {
+        "language": "polish"
+      },
+      "manifests": {
+        "public": {
+          "download": "56802432",
+          "gid": "5912366380066262588",
+          "size": "68144840"
+        }
+      }
+    },
+    "2014030": {
+      "config": {
+        "language": "russian"
+      },
+      "manifests": {
+        "public": {
+          "download": "57387296",
+          "gid": "8870298304624707095",
+          "size": "68907432"
+        }
+      }
+    },
+    "2014031": {
+      "manifests": {
+        "public": {
+          "download": "1692000",
+          "gid": "5328655353256459515",
+          "size": "1778148"
+        }
+      }
+    },
+    "2014088": {
+      "manifests": {
+        "public": {
+          "download": "1689984",
+          "gid": "92515653574695022",
+          "size": "1711428"
+        }
+      }
+    },
+    "2014089": {
+      "manifests": {
+        "public": {
+          "download": "1861424",
+          "gid": "6432332008604582622",
+          "size": "2039164"
+        }
+      }
+    },
+    "2021995": {
+      "config": {
+        "language": "thai"
+      },
+      "manifests": {
+        "public": {
+          "download": "28726336",
+          "gid": "5507410896286774269",
+          "size": "34111004"
+        }
+      }
+    },
+    "4085077": {
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "10005200",
+          "gid": "7779915912462183087",
+          "size": "10684716"
+        }
+      }
+    },
+    "4085078": {
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "9132832",
+          "gid": "8838569592210562495",
+          "size": "9526665"
+        }
+      }
+    },
+    "4085079": {
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "11562336",
+          "gid": "3873151052960831502",
+          "size": "12205678"
+        }
+      }
+    },
+    "4085081": {
+      "config": {
+        "language": "thai"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "358039760",
+          "gid": "3271257159657518469",
+          "size": "375534057"
+        }
+      }
+    },
+    "4085082": {
+      "config": {
+        "language": "russian"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "424483168",
+          "gid": "9057670042958371301",
+          "size": "755071717"
+        }
+      }
+    },
+    "4085083": {
+      "config": {
+        "language": "polish"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "420603104",
+          "gid": "7995869061409690505",
+          "size": "751237745"
+        }
+      }
+    },
+    "4085084": {
+      "config": {
+        "language": "japanese"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1617789216",
+          "gid": "5260986120888257640",
+          "size": "2115676226"
+        }
+      }
+    },
+    "4085085": {
+      "config": {
+        "language": "arabic"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "422493200",
+          "gid": "9083278435625672163",
+          "size": "753110690"
+        }
+      }
+    },
+    "4085086": {
+      "config": {
+        "language": "schinese"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1621584880",
+          "gid": "1522620968925805752",
+          "size": "2105121271"
+        }
+      }
+    },
+    "4085087": {
+      "config": {
+        "language": "tchinese"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "439131120",
+          "gid": "4916489065571523663",
+          "size": "769784530"
+        }
+      }
+    },
+    "4085088": {
+      "config": {
+        "language": "latam"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1194711392",
+          "gid": "1777388116841270379",
+          "size": "1342124156"
+        }
+      }
+    },
+    "4085089": {
+      "config": {
+        "language": "brazilian"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1218276720",
+          "gid": "404908195939882504",
+          "size": "1368906840"
+        }
+      }
+    },
+    "4085091": {
+      "config": {
+        "language": "koreana"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "431586656",
+          "gid": "723768180690284635",
+          "size": "762213306"
+        }
+      }
+    },
+    "4085092": {
+      "config": {
+        "language": "spanish"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1181803808",
+          "gid": "1221215426539261078",
+          "size": "1324404972"
+        }
+      }
+    },
+    "4085093": {
+      "config": {
+        "language": "italian"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1209177792",
+          "gid": "2799534235224287311",
+          "size": "1356069841"
+        }
+      }
+    },
+    "4085094": {
+      "config": {
+        "language": "german"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1164118864",
+          "gid": "2769827250973770951",
+          "size": "1307557067"
+        }
+      }
+    },
+    "4085095": {
+      "config": {
+        "language": "french"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "1233475568",
+          "gid": "7624564147129433540",
+          "size": "1394623024"
+        }
+      }
+    },
+    "4085096": {
+      "config": {
+        "language": "english"
+      },
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "358039760",
+          "gid": "5321560636191814492",
+          "size": "375534057"
+        }
+      }
+    },
+    "4085097": {
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "94280239696",
+          "gid": "8274763178703616603",
+          "size": "94893244818"
+        }
+      }
+    },
+    "4085098": {
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "12203984",
+          "gid": "6211860833867871078",
+          "size": "13154385"
+        }
+      }
+    },
+    "4085099": {
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "11292544",
+          "gid": "7284314367446853084",
+          "size": "11953617"
+        }
+      }
+    },
+    "4085111": {
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "13759680",
+          "gid": "7609476797596275912",
+          "size": "14673343"
+        }
+      }
+    },
+    "4085112": {
+      "config": {
+        "language": "thai"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "347866912",
+          "gid": "7893141386532832016",
+          "size": "364961232"
+        }
+      }
+    },
+    "4085113": {
+      "config": {
+        "language": "russian"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "403263712",
+          "gid": "8530620462701138208",
+          "size": "733046526"
+        }
+      }
+    },
+    "4085114": {
+      "config": {
+        "language": "polish"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "400119824",
+          "gid": "3896098903450736410",
+          "size": "729970232"
+        }
+      }
+    },
+    "4085115": {
+      "config": {
+        "language": "japanese"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "1291124096",
+          "gid": "221600882484472751",
+          "size": "1753050219"
+        }
+      }
+    },
+    "4085116": {
+      "config": {
+        "language": "arabic"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "401431376",
+          "gid": "1878166073478063737",
+          "size": "731244549"
+        }
+      }
+    },
+    "4085117": {
+      "config": {
+        "language": "schinese"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "1300011760",
+          "gid": "6761532112723983381",
+          "size": "1742650687"
+        }
+      }
+    },
+    "4085118": {
+      "config": {
+        "language": "tchinese"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "418711904",
+          "gid": "7464159696059884055",
+          "size": "748568327"
+        }
+      }
+    },
+    "4085119": {
+      "config": {
+        "language": "latam"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "892804016",
+          "gid": "5842699432237208389",
+          "size": "1002387633"
+        }
+      }
+    },
+    "4085121": {
+      "config": {
+        "language": "brazilian"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "901869936",
+          "gid": "3063351343753107988",
+          "size": "1012022801"
+        }
+      }
+    },
+    "4085122": {
+      "config": {
+        "language": "koreana"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "410865664",
+          "gid": "2649554885079839078",
+          "size": "740711116"
+        }
+      }
+    },
+    "4085123": {
+      "config": {
+        "language": "spanish"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "898329136",
+          "gid": "2641092487233374007",
+          "size": "1006154022"
+        }
+      }
+    },
+    "4085124": {
+      "config": {
+        "language": "italian"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "903867568",
+          "gid": "7416230853127747337",
+          "size": "1012939966"
+        }
+      }
+    },
+    "4085125": {
+      "config": {
+        "language": "german"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "882365456",
+          "gid": "7055579467614242716",
+          "size": "991084487"
+        }
+      }
+    },
+    "4085126": {
+      "config": {
+        "language": "french"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "926949232",
+          "gid": "8539228801015406691",
+          "size": "1047606157"
+        }
+      }
+    },
+    "4085127": {
+      "config": {
+        "language": "english"
+      },
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "347866912",
+          "gid": "6329265834529252883",
+          "size": "364961232"
+        }
+      }
+    },
+    "4085128": {
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "122905391344",
+          "gid": "4481592489556551884",
+          "size": "123578442991"
+        }
+      }
+    },
     "4085129": {
       "dlcappid": "3606480",
       "manifests": {
@@ -873,6 +1585,26 @@
         }
       }
     },
+    "5092424": {
+      "dlcappid": "3606500",
+      "manifests": {
+        "public": {
+          "download": "546102096",
+          "gid": "4535629253245344069",
+          "size": "805465096"
+        }
+      }
+    },
+    "5092425": {
+      "dlcappid": "3606490",
+      "manifests": {
+        "public": {
+          "download": "546102096",
+          "gid": "1355830956517463092",
+          "size": "805465096"
+        }
+      }
+    },
     "5092426": {
       "dlcappid": "3606480",
       "manifests": {
@@ -885,25 +1617,20 @@
     }
   },
   "config": {
-    "installdir": "Call of Duty HQ",
+    "installdir": "Call of Duty Black Ops 7",
     "launch": {
       "0": {
-        "arguments": "cod.exe",
+        "executable": "cod25\\cod25-cod.exe",
+        "type": "default",
         "config": {
           "osarch": "64",
           "oslist": "windows"
-        },
-        "description": "Launch Bootstrapper.exe",
-        "description_loc": {
-          "english": "Launch Bootstrapper.exe"
-        },
-        "executable": "bootstrapper.exe",
-        "type": "default"
+        }
       }
     }
   },
   "launch": {
-    "exe": "cod.exe",
+    "exe": "cod25\\cod25-cod.exe",
     "exe_after_fix": "_StartGame.bat",
     "args": []
   }
