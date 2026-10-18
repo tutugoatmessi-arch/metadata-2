@@ -1633,5 +1633,7 @@
     "exe": "cod25\\cod25-cod.exe",
     "exe_after_fix": "cod25\\_StartGame.bat",
     "args": []
-  }
+  },
+  "_rev": 2,
+  "json_rev": 2
 }
