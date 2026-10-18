@@ -1,0 +1,640 @@
+{
+  "_lastChecked": 1789819303,
+  "_history": [
+    {
+      "buildId": "25909941",
+      "branch": "public",
+      "timeUpdated": 1791901768,
+      "firstSeen": 1792329004,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "1938091": {
+          "gid": "158378123183721837",
+          "size": 764771979,
+          "download": 447952592
+        },
+        "1938092": {
+          "gid": "2591545023656786129",
+          "size": 5580300455,
+          "download": 5366105584
+        },
+        "1938093": {
+          "gid": "852422306099465431",
+          "size": 34111004,
+          "download": 28726336
+        },
+        "1938094": {
+          "gid": "659593164727995683",
+          "size": 48566484,
+          "download": 41527344
+        },
+        "1938095": {
+          "gid": "3610538812067616180",
+          "size": 49729652,
+          "download": 42856064
+        },
+        "1938096": {
+          "gid": "9116040782317402837",
+          "size": 49510636,
+          "download": 42530864
+        },
+        "1938097": {
+          "gid": "4733953095696728689",
+          "size": 48829360,
+          "download": 41930016
+        },
+        "1938098": {
+          "gid": "4282847996254464648",
+          "size": 134078680,
+          "download": 97221888
+        },
+        "1938099": {
+          "gid": "4274240962602551136",
+          "size": 49302008,
+          "download": 42349504
+        },
+        "1962664": {
+          "gid": "4680059931377098371",
+          "size": 48921944,
+          "download": 42038720
+        },
+        "1962665": {
+          "gid": "2921295995516886417",
+          "size": 100288916,
+          "download": 88804464
+        },
+        "1962666": {
+          "gid": "2537400299848402431",
+          "size": 163255592,
+          "download": 100044448
+        },
+        "1962667": {
+          "gid": "8625784606128641297",
+          "size": 63004520,
+          "download": 51605008
+        },
+        "1962668": {
+          "gid": "8648147793823728722",
+          "size": 143507224,
+          "download": 98239536
+        },
+        "1962669": {
+          "gid": "5912366380066262588",
+          "size": 68144840,
+          "download": 56802432
+        },
+        "2014030": {
+          "gid": "8870298304624707095",
+          "size": 68907432,
+          "download": 57387296
+        },
+        "2014031": {
+          "gid": "5328655353256459515",
+          "size": 1778148,
+          "download": 1692000
+        },
+        "2014088": {
+          "gid": "92515653574695022",
+          "size": 1711428,
+          "download": 1689984
+        },
+        "2014089": {
+          "gid": "6432332008604582622",
+          "size": 2039164,
+          "download": 1861424
+        },
+        "2021995": {
+          "gid": "5507410896286774269",
+          "size": 34111004,
+          "download": 28726336
+        },
+        "4085077": {
+          "gid": "7779915912462183087",
+          "size": 10684716,
+          "download": 10005200
+        },
+        "4085078": {
+          "gid": "8838569592210562495",
+          "size": 9526665,
+          "download": 9132832
+        },
+        "4085079": {
+          "gid": "3873151052960831502",
+          "size": 12205678,
+          "download": 11562336
+        },
+        "4085081": {
+          "gid": "3271257159657518469",
+          "size": 375534057,
+          "download": 358039760
+        },
+        "4085082": {
+          "gid": "9057670042958371301",
+          "size": 755071717,
+          "download": 424483168
+        },
+        "4085083": {
+          "gid": "7995869061409690505",
+          "size": 751237745,
+          "download": 420603104
+        },
+        "4085084": {
+          "gid": "5260986120888257640",
+          "size": 2115676226,
+          "download": 1617789216
+        },
+        "4085085": {
+          "gid": "9083278435625672163",
+          "size": 753110690,
+          "download": 422493200
+        },
+        "4085086": {
+          "gid": "1522620968925805752",
+          "size": 2105121271,
+          "download": 1621584880
+        },
+        "4085087": {
+          "gid": "4916489065571523663",
+          "size": 769784530,
+          "download": 439131120
+        },
+        "4085088": {
+          "gid": "1777388116841270379",
+          "size": 1342124156,
+          "download": 1194711392
+        },
+        "4085089": {
+          "gid": "404908195939882504",
+          "size": 1368906840,
+          "download": 1218276720
+        },
+        "4085091": {
+          "gid": "723768180690284635",
+          "size": 762213306,
+          "download": 431586656
+        },
+        "4085092": {
+          "gid": "1221215426539261078",
+          "size": 1324404972,
+          "download": 1181803808
+        },
+        "4085093": {
+          "gid": "2799534235224287311",
+          "size": 1356069841,
+          "download": 1209177792
+        },
+        "4085094": {
+          "gid": "2769827250973770951",
+          "size": 1307557067,
+          "download": 1164118864
+        },
+        "4085095": {
+          "gid": "7624564147129433540",
+          "size": 1394623024,
+          "download": 1233475568
+        },
+        "4085096": {
+          "gid": "5321560636191814492",
+          "size": 375534057,
+          "download": 358039760
+        },
+        "4085097": {
+          "gid": "8274763178703616603",
+          "size": 94893244818,
+          "download": 94280239696
+        },
+        "4085098": {
+          "gid": "6211860833867871078",
+          "size": 13154385,
+          "download": 12203984
+        },
+        "4085099": {
+          "gid": "7284314367446853084",
+          "size": 11953617,
+          "download": 11292544
+        },
+        "4085111": {
+          "gid": "7609476797596275912",
+          "size": 14673343,
+          "download": 13759680
+        },
+        "4085112": {
+          "gid": "7893141386532832016",
+          "size": 364961232,
+          "download": 347866912
+        },
+        "4085113": {
+          "gid": "8530620462701138208",
+          "size": 733046526,
+          "download": 403263712
+        },
+        "4085114": {
+          "gid": "3896098903450736410",
+          "size": 729970232,
+          "download": 400119824
+        },
+        "4085115": {
+          "gid": "221600882484472751",
+          "size": 1753050219,
+          "download": 1291124096
+        },
+        "4085116": {
+          "gid": "1878166073478063737",
+          "size": 731244549,
+          "download": 401431376
+        },
+        "4085117": {
+          "gid": "6761532112723983381",
+          "size": 1742650687,
+          "download": 1300011760
+        },
+        "4085118": {
+          "gid": "7464159696059884055",
+          "size": 748568327,
+          "download": 418711904
+        },
+        "4085119": {
+          "gid": "5842699432237208389",
+          "size": 1002387633,
+          "download": 892804016
+        },
+        "4085121": {
+          "gid": "3063351343753107988",
+          "size": 1012022801,
+          "download": 901869936
+        },
+        "4085122": {
+          "gid": "2649554885079839078",
+          "size": 740711116,
+          "download": 410865664
+        },
+        "4085123": {
+          "gid": "2641092487233374007",
+          "size": 1006154022,
+          "download": 898329136
+        },
+        "4085124": {
+          "gid": "7416230853127747337",
+          "size": 1012939966,
+          "download": 903867568
+        },
+        "4085125": {
+          "gid": "7055579467614242716",
+          "size": 991084487,
+          "download": 882365456
+        },
+        "4085126": {
+          "gid": "8539228801015406691",
+          "size": 1047606157,
+          "download": 926949232
+        },
+        "4085127": {
+          "gid": "6329265834529252883",
+          "size": 364961232,
+          "download": 347866912
+        },
+        "4085128": {
+          "gid": "4481592489556551884",
+          "size": 123578442991,
+          "download": 122905391344
+        },
+        "4085129": {
+          "gid": "6368288161973800695",
+          "size": 10568329,
+          "download": 9886544
+        },
+        "4085131": {
+          "gid": "6871102994144510017",
+          "size": 9367573,
+          "download": 8975792
+        },
+        "4085132": {
+          "gid": "2186653859153498824",
+          "size": 12088299,
+          "download": 11442784
+        },
+        "4085133": {
+          "gid": "5267611056842453913",
+          "size": 374781551,
+          "download": 357925424
+        },
+        "4085134": {
+          "gid": "1025333522906945384",
+          "size": 752771806,
+          "download": 423464992
+        },
+        "4085135": {
+          "gid": "689875198990458448",
+          "size": 749625877,
+          "download": 420252320
+        },
+        "4085136": {
+          "gid": "3795874551149663438",
+          "size": 1816177261,
+          "download": 1352164080
+        },
+        "4085137": {
+          "gid": "9058762585134471083",
+          "size": 750973383,
+          "download": 421636688
+        },
+        "4085138": {
+          "gid": "5819704621029866221",
+          "size": 1803062616,
+          "download": 1358253200
+        },
+        "4085139": {
+          "gid": "7283474817282295065",
+          "size": 768218335,
+          "download": 438837872
+        },
+        "4098661": {
+          "gid": "6713210238337038157",
+          "size": 1045184504,
+          "download": 933062064
+        },
+        "4098662": {
+          "gid": "8013577166048479842",
+          "size": 1054960325,
+          "download": 942193424
+        },
+        "4098663": {
+          "gid": "1231522264909407155",
+          "size": 760371950,
+          "download": 431002976
+        },
+        "4098664": {
+          "gid": "5363862101053351994",
+          "size": 1050150811,
+          "download": 939719360
+        },
+        "4098665": {
+          "gid": "3722002992346234916",
+          "size": 1056394914,
+          "download": 944666016
+        },
+        "4098666": {
+          "gid": "2346214869825928490",
+          "size": 1034239923,
+          "download": 922964960
+        },
+        "4098667": {
+          "gid": "6747148847787052336",
+          "size": 1098938979,
+          "download": 974775328
+        },
+        "4098668": {
+          "gid": "70898899935997720",
+          "size": 374781551,
+          "download": 357925424
+        },
+        "4098669": {
+          "gid": "6526385639908902861",
+          "size": 97610824593,
+          "download": 97031205856
+        },
+        "5092424": {
+          "gid": "4535629253245344069",
+          "size": 805465096,
+          "download": 546102096
+        },
+        "5092425": {
+          "gid": "1355830956517463092",
+          "size": 805465096,
+          "download": 546102096
+        },
+        "5092426": {
+          "gid": "4988215358019026924",
+          "size": 805465096,
+          "download": 546102096
+        }
+      }
+    }
+  ],
+  "_change_number": 38968052,
+  "_missing_token": false,
+  "_sha": "7fa4acfed42416bafa11f8300e153cfd9afe26a4",
+  "_size": 4793,
+  "appid": "3606480",
+  "common": {
+    "aicontenttype": "1",
+    "associations": {
+      "0": {
+        "name": "Treyarch",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Raven Software",
+        "type": "developer"
+      },
+      "10": {
+        "name": "Call of Duty",
+        "type": "franchise"
+      },
+      "2": {
+        "name": "Beenox",
+        "type": "developer"
+      },
+      "3": {
+        "name": "High Moon Studios",
+        "type": "developer"
+      },
+      "4": {
+        "name": "Sledgehammer Games",
+        "type": "developer"
+      },
+      "5": {
+        "name": "Infinity Ward",
+        "type": "developer"
+      },
+      "6": {
+        "name": "Activision Shanghai",
+        "type": "developer"
+      },
+      "7": {
+        "name": "Demonware",
+        "type": "developer"
+      },
+      "8": {
+        "name": "Activision",
+        "type": "publisher"
+      },
+      "9": {
+        "name": "Black Ops",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_13": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_61": "1",
+      "category_64": "1",
+      "category_65": "1",
+      "category_66": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "exfgls": "9",
+    "gameid": "3606480",
+    "genres": {
+      "0": "1"
+    },
+    "header_image": {
+      "english": "d7041a15f572f7702d5f4bc97e498cd3e1cc62e2/header.jpg",
+      "japanese": "2121782cbe25e2b6d81f98f9f62ccd7f8c1cf7bf/header_japanese.jpg",
+      "koreana": "05103606345398c98a32b92b24f32eb751f586e2/header_koreana.jpg",
+      "schinese": "90b499c62dae31db5ebebb680e0b943bd0d0f900/header_schinese.jpg",
+      "tchinese": "4030fc48f20879568dddcd03981d6e57a698a4b3/header_tchinese.jpg"
+    },
+    "name": "Call of Duty®: Black Ops 7 - Endgame",
+    "name_localized": {},
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1938090",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "37",
+    "review_score": "4",
+    "small_capsule": {
+      "english": "e265efebec95c52bb0c662532a51b6bdf45ccd37/capsule_231x87.jpg",
+      "japanese": "697e538e0280cd137481f09d0e4b07387340df91/capsule_231x87_japanese.jpg",
+      "koreana": "044209843fc45dd6e81fb22bbc0bf7fa4bcd127f/capsule_231x87_koreana.jpg",
+      "schinese": "bbdbbfce8a336864a974ee49419dabb6ccce5793/capsule_231x87_schinese.jpg",
+      "tchinese": "9a190983a920f874275d9730ea2498caddcb0699/capsule_231x87_tchinese.jpg"
+    },
+    "steam_release_date": "1763096400",
+    "store_asset_mtime": "1789588224",
+    "store_screenshot": "10be1d8a9b68f19a7b0321f4adc819374955268d/ss_10be1d8a9b68f19a7b0321f4adc819374955268d.jpg",
+    "store_tags": {
+      "0": "1663",
+      "1": "1774",
+      "10": "4295",
+      "11": "4145",
+      "12": "1685",
+      "13": "1678",
+      "14": "4168",
+      "15": "3843",
+      "16": "5765",
+      "17": "5186",
+      "18": "6730",
+      "19": "1742",
+      "2": "19",
+      "3": "3859",
+      "4": "4182",
+      "5": "1659",
+      "6": "4667",
+      "7": "3839",
+      "8": "4345",
+      "9": "1775"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Treyarch",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1938090",
+    "homepage": "https://www.callofduty.com/",
+    "mustownapptopurchase": "1938090",
+    "publisher": "Activision"
+  }
+}
