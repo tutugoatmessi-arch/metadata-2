@@ -5466,6 +5466,99 @@
     "added_ts": 1792240765
   },
   {
+    "id": "game-638970",
+    "appid": 638970,
+    "name": "Yakuza 0",
+    "developer": "Ryu Ga Gotoku Studio",
+    "publisher": "SEGA",
+    "installdir": "Yakuza 0",
+    "launch_exes": [
+      "media\\Yakuza0.exe",
+      "Yakuza0.exe"
+    ],
+    "launch_exe": "media\\Yakuza0.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "4746539",
+    "has_metadata": true,
+    "depot_base": 638971,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/638970/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/638970/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "4746539",
+        "branch": "public",
+        "label": "Public - Build 4746539 (03/05/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228986",
+          "228987",
+          "228990",
+          "638971",
+          "638972",
+          "638973",
+          "638975"
+        ],
+        "languages": [
+          {
+            "id": 638972,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 638973,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 638972,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 638973,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 638972,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 638973,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "added_ts": 1792303599
+  },
+  {
     "id": "game-801800",
     "appid": 801800,
     "name": "Atomfall",
