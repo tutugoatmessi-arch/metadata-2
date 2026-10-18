@@ -1121,6 +1121,71 @@
     "added_ts": 1791905807
   },
   {
+    "id": "game-1593500",
+    "appid": 1593500,
+    "name": "God of War",
+    "developer": "Santa Monica Studio",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "GodOfWar",
+    "launch_exes": [
+      "GoW.exe"
+    ],
+    "launch_exe": "GoW.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "11168363",
+    "has_metadata": true,
+    "depot_base": 1593501,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1593500/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11168363",
+        "branch": "public",
+        "label": "Public - Build 11168363 (05/06/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1593501"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "added_ts": 1792294514
+  },
+  {
     "id": "game-1687950",
     "appid": 1687950,
     "name": "Persona 5 Royal",
