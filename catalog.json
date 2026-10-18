@@ -5170,7 +5170,7 @@
       "cod25-cod.exe"
     ],
     "launch_exe": "cod25\\cod25-cod.exe",
-    "launch_exe_after_fix": "_StartGame.bat",
+    "launch_exe_after_fix": "cod25\\_StartGame.bat",
     "build_id": "25909941",
     "has_metadata": true,
     "depot_base": 1938091,
