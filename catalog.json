@@ -335,7 +335,7 @@
       "PlayRDR2.exe"
     ],
     "launch_exe": "PlayRDR2.exe",
-    "launch_exe_after_fix": "",
+    "launch_exe_after_fix": "PlayRDR2.exe",
     "build_id": "13773296",
     "has_metadata": true,
     "depot_base": 1174181,
@@ -394,7 +394,7 @@
         "is_default": true
       }
     ],
-    "json_rev": 1,
+    "json_rev": 2,
     "added_ts": 1791777104
   },
   {
@@ -3921,6 +3921,75 @@
     ],
     "json_rev": 1,
     "added_ts": 1791999245
+  },
+  {
+    "id": "game-2928600",
+    "appid": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "developer": "CyberConnect2",
+    "publisher": "SEGA",
+    "installdir": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "launch_exes": [
+      "APK2.exe"
+    ],
+    "launch_exe": "APK2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24561262",
+    "has_metadata": true,
+    "depot_base": 2928601,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2928600/cd8f57c2f07be40f38f1ecbe6d94ddda5195a1b8/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2928600/f8a7d046233fb84b20fc546c98b8e2d3f3439033/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24561262",
+        "branch": "public",
+        "label": "Public - Build 24561262 (08/05/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2928601",
+          "2928602",
+          "3653840"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792372724
   },
   {
     "id": "game-3017860",

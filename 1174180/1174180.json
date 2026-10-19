@@ -481,5 +481,12 @@
     "listofdlc": "1190050,1190051",
     "microtxnrestrictedcountries": "RU,BY",
     "publisher": "Rockstar Games"
-  }
+  },
+  "launch": {
+    "exe": "PlayRDR2.exe",
+    "exe_after_fix": "PlayRDR2.exe",
+    "args": []
+  },
+  "_rev": 2,
+  "json_rev": 2
 }
