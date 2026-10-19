@@ -3276,7 +3276,7 @@
       "KZ.exe"
     ],
     "launch_exe": "KZ.exe",
-    "launch_exe_after_fix": "",
+    "launch_exe_after_fix": "steamclient_loader_x64.exe",
     "build_id": "24447756",
     "has_metadata": true,
     "depot_base": 2680011,
@@ -3351,7 +3351,7 @@
         "is_default": true
       }
     ],
-    "json_rev": 1,
+    "json_rev": 2,
     "added_ts": 1791992185
   },
   {
