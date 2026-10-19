@@ -617,6 +617,75 @@
     "added_ts": 1792214100
   },
   {
+    "id": "game-1364780",
+    "appid": 1364780,
+    "name": "Street Fighter™ 6",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "Street Fighter 6",
+    "launch_exes": [
+      "StreetFighter6.exe"
+    ],
+    "launch_exe": "StreetFighter6.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25071972",
+    "has_metadata": true,
+    "depot_base": 1364781,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/68211efdd07a0e530070fe5a620cc8cab54cb17b/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/9e7d4e3fd637f3038e8772103fcc057b25240ad8/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25071972",
+        "branch": "public",
+        "label": "Public - Build 25071972 (09/02/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1364781",
+          "1792750",
+          "1792751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792426315
+  },
+  {
     "id": "game-1506830",
     "appid": 1506830,
     "name": "FIFA 22",
