@@ -417,5 +417,12 @@
         "root": "WinAppDataLocal"
       }
     }
-  }
+  },
+  "launch": {
+    "exe": "KZ.exe",
+    "exe_after_fix": "steamclient_loader_x64.exe",
+    "args": []
+  },
+  "_rev": 2,
+  "json_rev": 2
 }
