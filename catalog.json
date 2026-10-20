@@ -1574,6 +1574,75 @@
     "added_ts": 1791906641
   },
   {
+    "id": "game-1790600",
+    "appid": 1790600,
+    "name": "DRAGON BALL: Sparking! ZERO",
+    "developer": "Spike Chunsoft Co., Ltd.",
+    "publisher": "Bandai Namco Entertainment",
+    "installdir": "DRAGON BALL Sparking! ZERO",
+    "launch_exes": [
+      "SparkingZERO.exe"
+    ],
+    "launch_exe": "SparkingZERO.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24953175",
+    "has_metadata": true,
+    "depot_base": 1790601,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1790600/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1790600/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24953175",
+        "branch": "public",
+        "label": "Public - Build 24953175 (08/26/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1790601",
+          "2957480",
+          "2957490"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792468928
+  },
+  {
     "id": "game-1888930",
     "appid": 1888930,
     "name": "The Last of Us™ Part I",
