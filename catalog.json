@@ -2865,6 +2865,74 @@
     "added_ts": 1791953294
   },
   {
+    "id": "game-2246340",
+    "appid": 2246340,
+    "name": "Monster Hunter Wilds",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "MonsterHunterWilds",
+    "launch_exes": [
+      "MonsterHunterWilds.exe"
+    ],
+    "launch_exe": "MonsterHunterWilds.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24705561",
+    "has_metadata": true,
+    "depot_base": 2246341,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2246340/e3fc16c6bc498891e952500eda05fe6462ceb9f0/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2246340/ec3c419015a7e7833954be3aade87d02a2db10e9/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24705561",
+        "branch": "public",
+        "label": "Public - Build 24705561 (08/13/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "2246341",
+          "3308900"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792587759
+  },
+  {
     "id": "game-2399830",
     "appid": 2399830,
     "name": "ARK: Survival Ascended",
