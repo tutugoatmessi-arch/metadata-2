@@ -617,6 +617,86 @@
     "added_ts": 1792214100
   },
   {
+    "id": "game-1285190",
+    "appid": 1285190,
+    "name": "Borderlands® 4",
+    "developer": "Gearbox Software",
+    "publisher": "2K",
+    "installdir": "Borderlands 4",
+    "launch_exes": [
+      "OakGame\\Binaries\\Win64\\Borderlands4.exe",
+      "Borderlands4.exe",
+      "OakGame\\Binaries\\Win64\\OakGame-Win64-Test.exe",
+      "OakGame-Win64-Test.exe",
+      "OakGame\\Binaries\\Win64\\OakGame-Win64-Shipping.exe",
+      "OakGame-Win64-Shipping.exe",
+      "OakGame\\Binaries\\Win64\\OakGame.exe",
+      "OakGame.exe",
+      "OakGame\\Binaries\\Win64\\OakGame-Win64-Test-NoStats.exe",
+      "OakGame-Win64-Test-NoStats.exe"
+    ],
+    "launch_exe": "OakGame\\Binaries\\Win64\\Borderlands4.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25372571",
+    "has_metadata": true,
+    "depot_base": 1285191,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1285190/e68c1eeacfc21e61e5a03ae81a20694856665af4/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25372571",
+        "branch": "public",
+        "label": "Public - Build 25372571 (09/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1285191",
+          "1285192",
+          "1285193",
+          "1285195",
+          "2013850"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792563903
+  },
+  {
     "id": "game-1364780",
     "appid": 1364780,
     "name": "Street Fighter™ 6",
