@@ -774,7 +774,7 @@
     ],
     "launch_exe": "OakGame\\Binaries\\Win64\\Borderlands4.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25372571",
+    "build_id": "26007962",
     "has_metadata": true,
     "depot_base": 1285191,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1285190/e68c1eeacfc21e61e5a03ae81a20694856665af4/library_600x900.jpg",
@@ -784,11 +784,37 @@
     ],
     "versions": [
       {
+        "id": "26007962",
+        "branch": "public",
+        "label": "Public - Build 26007962 (10/17/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1285191",
+          "1285192",
+          "1285193",
+          "1285195",
+          "2013850"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25372571",
         "branch": "public",
         "label": "Public - Build 25372571 (09/14/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228989",
           "228990",
