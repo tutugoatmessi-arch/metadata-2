@@ -5,7 +5,7 @@
       "buildId": "24543093",
       "branch": "public",
       "timeUpdated": 1785806991,
-      "firstSeen": 1791948531,
+      "firstSeen": 1792719776,
       "manifests": {
         "228989": {
           "gid": "5753583882400741046",
@@ -43,7 +43,7 @@
       "buildId": "23443442",
       "branch": "public",
       "timeUpdated": 1779935735,
-      "firstSeen": 1791948531,
+      "firstSeen": 1792719734,
       "manifests": {
         "228989": {
           "gid": "5753583882400741046",
@@ -76,12 +76,12 @@
       "buildId": "22357085",
       "branch": "public",
       "timeUpdated": 1773635858,
-      "firstSeen": 1791948531,
+      "firstSeen": 1792719776,
       "manifests": {
         "228989": {
-          "gid": "5753583882400741046",
-          "size": 25674515,
-          "download": 25108528
+          "gid": "3514306556860204959",
+          "size": 39590283,
+          "download": 38842096
         },
         "3357651": {
           "gid": "2417499809052404547",
@@ -429,7 +429,14 @@
         "oslist": "windows"
       },
       "depotfromapp": "228980",
-      "sharedinstall": "1"
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "25108528",
+          "gid": "5753583882400741046",
+          "size": "25674515"
+        }
+      }
     },
     "3357651": {
       "manifests": {
