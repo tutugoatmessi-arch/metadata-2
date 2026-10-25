@@ -3661,6 +3661,76 @@
     "added_ts": 1792587759
   },
   {
+    "id": "game-2375550",
+    "appid": 2375550,
+    "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "developer": "RGG Studio",
+    "publisher": "SEGA",
+    "installdir": "LikeADragonGaiden",
+    "launch_exes": [
+      "runtime/media/startup.exe",
+      "startup.exe",
+      "runtime/media/likeadragongaiden.exe",
+      "likeadragongaiden.exe"
+    ],
+    "launch_exe": "runtime/media/startup.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17235513",
+    "has_metadata": true,
+    "depot_base": 2375551,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2375550/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2375550/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17235513",
+        "branch": "public",
+        "label": "Public - Build 17235513 (02/04/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2375551"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792957846
+  },
+  {
     "id": "game-2399830",
     "appid": 2399830,
     "name": "ARK: Survival Ascended",
