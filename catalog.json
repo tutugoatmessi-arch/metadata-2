@@ -1962,6 +1962,73 @@
     "added_ts": 1792468928
   },
   {
+    "id": "game-1805480",
+    "appid": 1805480,
+    "name": "Like a Dragon: Ishin!",
+    "developer": "RGG Studio",
+    "publisher": "SEGA",
+    "installdir": "LikeADragonIshin",
+    "launch_exes": [
+      "startup.exe"
+    ],
+    "launch_exe": "startup.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17613625",
+    "has_metadata": true,
+    "depot_base": 1805481,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1805480/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1805480/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17613625",
+        "branch": "public",
+        "label": "Public - Build 17613625 (03/06/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1805481"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792957568
+  },
+  {
     "id": "game-1888930",
     "appid": 1888930,
     "name": "The Last of Us™ Part I",
