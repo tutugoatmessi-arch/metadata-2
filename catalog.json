@@ -6199,6 +6199,99 @@
     "added_ts": 1792329021
   },
   {
+    "id": "game-374320",
+    "appid": 374320,
+    "name": "DARK SOULS™ III",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "FromSoftware, Inc.",
+    "installdir": "DARK SOULS III",
+    "launch_exes": [
+      "Game/DarkSoulsIII.exe",
+      "DarkSoulsIII.exe"
+    ],
+    "launch_exe": "Game/DarkSoulsIII.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10167187",
+    "has_metadata": true,
+    "depot_base": 374321,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10167187",
+        "branch": "public",
+        "label": "Public - Build 10167187 (12/17/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228990",
+          "374321",
+          "374322",
+          "455380",
+          "506970",
+          "506971"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 374322,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 374322,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 374322,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792991238
+  },
+  {
     "id": "game-418370",
     "appid": 418370,
     "name": "Resident Evil 7 Biohazard",
