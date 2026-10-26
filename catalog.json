@@ -6343,6 +6343,75 @@
     "added_ts": 1792329021
   },
   {
+    "id": "game-3627790",
+    "appid": 3627790,
+    "name": "Paper Bride 7 Lethal Bond",
+    "developer": "HeartBeat Plus",
+    "publisher": "HeartBeat Plus",
+    "installdir": "paperbride7",
+    "launch_exes": [
+      "qbf.exe"
+    ],
+    "launch_exe": "qbf.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24469928",
+    "has_metadata": true,
+    "depot_base": 3627791,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3627790/e374bd4a5ceeb520c384f36c3677fb94244ee5ec/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3627790/ea5253d0641159ca8569514e5bd323fe2423d2cf/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24469928",
+        "branch": "public",
+        "label": "Public - Build 24469928 (07/30/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "3627791",
+          "3627792",
+          "3627793",
+          "3774080"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793031851
+  },
+  {
     "id": "game-374320",
     "appid": 374320,
     "name": "DARK SOULS™ III",
