@@ -3661,6 +3661,82 @@
     "added_ts": 1792587759
   },
   {
+    "id": "game-236430",
+    "appid": 236430,
+    "name": "DARK SOULS™ II",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "installdir": "Dark Souls II",
+    "launch_exes": [
+      "Game/DarkSoulsII.exe",
+      "DarkSoulsII.exe"
+    ],
+    "launch_exe": "Game/DarkSoulsII.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "9849657",
+    "has_metadata": true,
+    "depot_base": 236431,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236430/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236430/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "9849657",
+        "branch": "public",
+        "label": "Public - Build 9849657 (11/02/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228982",
+          "228983",
+          "228990",
+          "236432",
+          "236434",
+          "271940",
+          "271941",
+          "271942",
+          "271943",
+          "271944",
+          "289122"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793013319
+  },
+  {
     "id": "game-2375550",
     "appid": 2375550,
     "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
