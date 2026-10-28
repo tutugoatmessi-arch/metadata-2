@@ -830,6 +830,75 @@
     "added_ts": 1792214101
   },
   {
+    "id": "game-1259420",
+    "appid": 1259420,
+    "name": "Days Gone",
+    "developer": "Bend Studio",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "Days Gone",
+    "launch_exes": [
+      "BendGame/Binaries/Win64/DaysGone.exe",
+      "DaysGone.exe"
+    ],
+    "launch_exe": "BendGame/Binaries/Win64/DaysGone.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "19221447",
+    "has_metadata": true,
+    "depot_base": 1259421,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259420/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "19221447",
+        "branch": "public",
+        "label": "Public - Build 19221447 (07/15/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1259421",
+          "1259422"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793160440
+  },
+  {
     "id": "game-1285190",
     "appid": 1285190,
     "name": "Borderlands® 4",
