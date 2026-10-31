@@ -1185,6 +1185,30 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "24176760",
+        "branch": "public",
+        "label": "Public - Build 24176760 (07/13/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1364781",
+          "1792750",
+          "1792751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [
