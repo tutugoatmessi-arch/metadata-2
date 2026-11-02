@@ -904,7 +904,7 @@
     ],
     "launch_exe": "Game/start_protected_game.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25080141",
+    "build_id": "25827938",
     "has_metadata": true,
     "depot_base": 1245621,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
@@ -914,11 +914,40 @@
     ],
     "versions": [
       {
+        "id": "25827938",
+        "branch": "public",
+        "label": "Public - Build 25827938 (10/09/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1245621",
+          "1245622",
+          "1245623",
+          "1245624",
+          "1896300",
+          "1896320",
+          "2778580",
+          "2855520"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "25080141",
         "branch": "public",
         "label": "Public - Build 25080141 (09/02/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "228988",
           "228990",
