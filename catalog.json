@@ -3829,6 +3829,83 @@
     "added_ts": 1791904938
   },
   {
+    "id": "game-2104890",
+    "appid": 2104890,
+    "name": "RoadCraft",
+    "developer": "Saber Interactive",
+    "publisher": "Focus Entertainment",
+    "installdir": "RoadCraft",
+    "launch_exes": [
+      "root\\bin\\pc\\Roadcraft - Retail.exe",
+      "Roadcraft - Retail.exe",
+      "root\\bin\\pc\\road_builder_steam_release.exe",
+      "road_builder_steam_release.exe",
+      "root\\bin\\pc\\road_builder_steam_profile.exe",
+      "road_builder_steam_profile.exe",
+      "root\\bin\\pc\\road_builder_eos_bootstrapper_release.exe",
+      "road_builder_eos_bootstrapper_release.exe",
+      "root\\bin\\pc\\EpicOnlineServices\\start_epic_crossplay_game.exe",
+      "start_epic_crossplay_game.exe",
+      "root\\bin\\pc\\road_builder_steam_retail.exe",
+      "road_builder_steam_retail.exe"
+    ],
+    "launch_exe": "root\\bin\\pc\\Roadcraft - Retail.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25957806",
+    "has_metadata": true,
+    "depot_base": 2104899,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2104890/afa2b827ac8c3255e5c5359ca7326be52a0e53b7/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2104890/0271f1a5304ffeb0ccade2616ba48e273f88050a/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25957806",
+        "branch": "public Update 8.0 Patch Notes",
+        "label": "public Update 8.0 Patch Notes - Build 25957806 (10/15/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2104891",
+          "3510890"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793765617
+  },
+  {
     "id": "game-21690",
     "appid": 21690,
     "name": "Resident Evil 5",
