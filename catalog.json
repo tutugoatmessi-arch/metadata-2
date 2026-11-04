@@ -5766,6 +5766,81 @@
     "added_ts": 1792372871
   },
   {
+    "id": "game-298110",
+    "appid": 298110,
+    "name": "Far Cry 4",
+    "developer": "Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",
+    "publisher": "Ubisoft",
+    "installdir": "Far Cry 4",
+    "launch_exes": [
+      "bin/FarCry4.exe",
+      "FarCry4.exe"
+    ],
+    "launch_exe": "bin/FarCry4.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22463881",
+    "has_metadata": true,
+    "depot_base": 298111,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/298110/969e351930dfd526bfb5f52ce0e06ff7244c9f71/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/298110/731cff7e53820cb83436f93bfa86e493f6a0af45/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22463881",
+        "branch": "public",
+        "label": "Public - Build 22463881 (03/23/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "229004",
+          "298111",
+          "298112",
+          "298113",
+          "324341",
+          "324343",
+          "324344",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793786701
+  },
+  {
     "id": "game-3017860",
     "appid": 3017860,
     "name": "DOOM: The Dark Ages",
