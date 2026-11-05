@@ -916,8 +916,8 @@
       {
         "id": "25827938",
         "branch": "public",
-        "label": "Public - Build 25827938 (10/09/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 25827938 (10/09/2026)",
+        "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
           "228988",
@@ -1218,8 +1218,8 @@
       {
         "id": "24176760",
         "branch": "public",
-        "label": "Public - Build 24176760 (07/13/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 24176760 (07/13/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "228988",
@@ -8493,6 +8493,91 @@
     ],
     "json_rev": 1,
     "added_ts": 1793785117
+  },
+  {
+    "id": "game-553850",
+    "appid": 553850,
+    "name": "HELLDIVERS™ 2",
+    "developer": "Arrowhead Game Studios",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "Helldivers 2",
+    "launch_exes": [
+      "start_protected_game.exe",
+      "bin\\dev\\stingray_win64_dev.exe",
+      "stingray_win64_dev.exe",
+      "bin\\release\\stingray_win64_release.exe",
+      "stingray_win64_release.exe",
+      "bin\\profile\\stingray_win64_profile.exe",
+      "stingray_win64_profile.exe"
+    ],
+    "launch_exe": "start_protected_game.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25480438",
+    "has_metadata": true,
+    "depot_base": 553851,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/a79b4d13ce2b1e1379116085b4f97b45c14548ab/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25480438",
+        "branch": "public Devoid of Liberty: 7.1.1",
+        "label": "public Devoid of Liberty: 7.1.1 - Build 25480438 (09/23/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228984",
+          "228985",
+          "228988",
+          "228990",
+          "553851",
+          "553853",
+          "553854",
+          "2506210",
+          "2506220",
+          "2506240",
+          "2506250",
+          "2506260",
+          "2506270",
+          "2506280",
+          "4199890"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793896804
   },
   {
     "id": "game-638970",
