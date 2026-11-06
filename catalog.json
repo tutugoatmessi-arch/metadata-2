@@ -6442,7 +6442,7 @@
     ],
     "launch_exe": "SB.exe",
     "launch_exe_after_fix": "",
-    "build_id": "24463856",
+    "build_id": "26123051",
     "has_metadata": true,
     "depot_base": 3489701,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3489700/6f2bbe8f34fc283f42acbe4ab184e9a40f76ad51/library_600x900.jpg",
@@ -6452,9 +6452,9 @@
     ],
     "versions": [
       {
-        "id": "24463856",
-        "branch": "public",
-        "label": "Public - Build 24463856 (07/30/2026)",
+        "id": "26123051",
+        "branch": "public 《Stellar Blade》PC - 1.5.0 Patch notes",
+        "label": "public 《Stellar Blade》PC - 1.5.0 Patch notes - Build 26123051 (10/22/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -6476,9 +6476,33 @@
         ]
       },
       {
-        "id": "19963153",
+        "id": "24463856",
         "branch": "public",
-        "label": "Public - Build 19963153 (09/13/2025)",
+        "label": "Public - Build 24463856 (07/30/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "3489701",
+          "3596180",
+          "3596190"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "19963153",
+        "branch": "public 《Stellar Blade》PC - 1.4.1 Patch notes",
+        "label": "public 《Stellar Blade》PC - 1.4.1 Patch notes - Build 19963153 (09/13/2025)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
