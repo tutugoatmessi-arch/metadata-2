@@ -5040,6 +5040,76 @@
     "added_ts": 1792199448
   },
   {
+    "id": "game-2668510",
+    "appid": 2668510,
+    "name": "Red Dead Redemption",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "installdir": "Red Dead Redemption",
+    "launch_exes": [
+      "PlayRDR.exe"
+    ],
+    "launch_exe": "PlayRDR.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "16471194",
+    "has_metadata": true,
+    "depot_base": 2668511,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2668510/f5cf694ddab93ed2462a9e2f5e01064e121c5663/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2668510/25bbe4761ae5851d07c36aed452d53f5a69c799a/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "16471194",
+        "branch": "public",
+        "label": "Public - Build 16471194 (11/20/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1899671",
+          "2668511",
+          "2668512",
+          "2668513"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793931634
+  },
+  {
     "id": "game-2680010",
     "appid": 2680010,
     "name": "The First Berserker: Khazan",
