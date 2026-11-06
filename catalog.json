@@ -5911,6 +5911,440 @@
     "added_ts": 1793786701
   },
   {
+    "id": "game-3008130",
+    "appid": 3008130,
+    "name": "Dying Light: The Beast",
+    "developer": "Techland",
+    "publisher": "Techland",
+    "installdir": "Dying Light The Beast",
+    "launch_exes": [
+      "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
+      "DyingLightGame_TheBeast_x64_rwdi.exe",
+      "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rd.exe",
+      "DyingLightGame_TheBeast_x64_rd.exe",
+      "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwp.exe",
+      "DyingLightGame_TheBeast_x64_rwp.exe"
+    ],
+    "launch_exe": "ph_ft\\work\\bin\\x64\\DyingLightGame_TheBeast_x64_rwdi.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26402545",
+    "has_metadata": true,
+    "depot_base": 3008133,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3008130/66ecd6b5e71e85cd3e339ba9233979a23c5f0ec0/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26402545",
+        "branch": "public Update 1.8.1 – Immerse Gamepack by Embody is now LIVE!",
+        "label": "public Update 1.8.1 – Immerse Gamepack by Embody is now LIVE! - Build 26402545 (11/03/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228989",
+          "228990",
+          "3008131",
+          "3008132",
+          "3008133",
+          "3008134",
+          "3008135",
+          "3008136",
+          "3008137",
+          "3008138",
+          "3008139",
+          "3061861",
+          "3061862",
+          "3061863",
+          "3061864",
+          "3061865",
+          "3061866",
+          "3061867",
+          "3061868",
+          "3061869",
+          "3592041",
+          "3592042",
+          "3592043",
+          "3592044",
+          "3592047",
+          "3707621",
+          "3707622",
+          "3707623"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 3008136,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 3008137,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 3008138,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3008139,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 3061861,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 3061862,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 3061863,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3061864,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          },
+          {
+            "id": 3061865,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3061866,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3061867,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3061868,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3061869,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 3592042,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 3592043,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 3592044,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 3008136,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3008137,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 3008138,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3008139,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3061861,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3061862,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 3061863,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3061864,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 3061865,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3061866,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3061867,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3061868,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3061869,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 3592042,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 3592043,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3592044,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 3008136,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3008137,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 3008138,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3008139,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3061861,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 3061862,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 3061863,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3061864,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 3061865,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3061866,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3061867,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3061868,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3061869,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 3592042,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 3592043,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3592044,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793969305
+  },
+  {
     "id": "game-3017860",
     "appid": 3017860,
     "name": "DOOM: The Dark Ages",
