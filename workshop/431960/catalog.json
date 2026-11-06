@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "appid": "431960",
+  "items": [
+    {
+      "schema_version": 1,
+      "appid": "431960",
+      "publishedfileid": "827078322",
+      "depot_id": "431960",
+      "manifest_gid": "3417446553402618052",
+      "title": "3D Digital Clock (3D数字时钟) 鼠标移动交互",
+      "description": "显示当前时间，并且可移动鼠标进行交互。\r\n\r\n如果不需要鼠标交互，可以订阅这个：\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=832544342]点此传送至无交互版本[/url]\r\n\r\n你想修改一些东西？\r\n该壁纸订阅下载路径一般为：[Steam\\steamapps\\workshop\\content\\431960\\827078322]\r\n修改请自行保存为新项目，以免创意工坊自动将该订阅恢复。\r\n------------------\r\n1.时钟颜色\r\n打开css文件夹中style.css，推荐使用notepad++来编辑。\r\n--------------------------------------------------\r\n706行 \" .line:before, .line:after \" 中\r\n\" background \" 决定数字灯管主要颜色(使用16进制)，如红色为 \" background: #FF0000; \"\r\n\" box-shadow \" 两个值为数字灯管边缘泛光，如红色为 \" box-shadow: 0 0 1rem #FF0000, inset 0 0 0.125vmin #FF0000; \"\r\n\" color \" 无明显效果，可以不管。\r\n--------------------------------------------------\r\n53行 \" .digit:nth-child \" 中\r\n\" background \" 决定两个冒号主要颜色(使用16进制)，如红色为 \" background: #FF0000; \"，默认白色就可以，因为冒号有呼吸灯效果，中心白色与其他颜色的泛光配合比较好看。\r\n\" box-shadow \" 两个值为冒号边缘泛光，如红色为 \" box-shadow: 0 0 1rem #FF0000, inset 0 0 0.25vmax #FF0000; \"\r\n\" text-shadow \" 无明显效果，可以不管。\r\n--------------------------------------------------\r\n2.鼠标交互\r\n打开js文件夹中index.js，推荐使用notepad++来编辑。\r\n--------------------------------------------------\r\n46与47行\r\n//    x: (clientWidth / 2 - clientX) / clientWidth,\r\n      y: (clientHeight / 2 - clientY) / clientHeight\r\nx 轴为左右翻转，y 轴为上下翻转。\r\n如果不需要翻转，可以在前面加双斜杠注释这一句。\r\n\r\n更新\r\n------------------\r\n【2017-5-11】\r\n1.鼠标交互由3D改为垂直翻转(为了更容易看清时间)。\r\n2.在Wallpaper Engine该壁纸的选项中可以自行导入本地壁纸 (感谢 [url=http://steamcommunity.com/profiles/76561198275821688]ChaosAlphard[/url] 提供)。\r\n如果有前端大触，欢迎大改这个坑。\r\n\r\nCreated by David Khourshid (http://codepen.io/davidkpiano)\r\nSource: (http://codepen.io/davidkpiano/pen/Vmyyzd)",
+      "preview_url": "https://images.steamusercontent.com/ugc/831322964256847757/0E74A67ACBC30980519E5BA343C1B6F497AF1F1C/",
+      "time_updated": 1494520444,
+      "file_size": 350444,
+      "hcontent_file": "3417446553402618052",
+      "metadata_sha256": "6e438f74fd5fa4b9bc753f846b6421114c123493aa756c444c659382ab2d2476",
+      "metadata_size": 2446
+    }
+  ]
+}
