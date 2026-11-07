@@ -675,6 +675,74 @@
     "added_ts": 1792125279
   },
   {
+    "id": "game-1149460",
+    "appid": 1149460,
+    "name": "Icarus",
+    "developer": "RocketWerkz",
+    "publisher": "RocketWerkz",
+    "installdir": "Icarus",
+    "launch_exes": [
+      "Icarus.exe",
+      "icarus.exe"
+    ],
+    "launch_exe": "Icarus.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26425211",
+    "has_metadata": true,
+    "depot_base": 1149461,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1149460/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1149460/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26425211",
+        "branch": "public 🔥Icarus Week 257 Update | Spelunking Mission Revamp",
+        "label": "public 🔥Icarus Week 257 Update | Spelunking Mission Revamp - Build 26425211 (11/04/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "1149461"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794017842
+  },
+  {
     "id": "game-1174180",
     "appid": 1174180,
     "name": "Red Dead Redemption 2",
