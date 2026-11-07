@@ -7696,6 +7696,115 @@
     "added_ts": 1793700586
   },
   {
+    "id": "game-3717070",
+    "appid": 3717070,
+    "name": "WWE 2K26",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "installdir": "WWE 2K26",
+    "launch_exes": [
+      "WWE2K26_x64.exe",
+      "WWE2K_x64_Master_LTO.exe"
+    ],
+    "launch_exe": "WWE2K26_x64.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25975975",
+    "has_metadata": true,
+    "depot_base": 3717071,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3717070/4514ff2184c3c6f5e75807d1bb9460e2cc66021e/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3717070/6e590c37107f7306ab9e42cc07d2aa92327625d1/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25975975",
+        "branch": "public Ringside Report - WWE 2K26 x Street Fighter Elite Pack",
+        "label": "public Ringside Report - WWE 2K26 x Street Fighter Elite Pack - Build 25975975 (10/16/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3717071"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "24604914",
+        "branch": "public The WrestleMania 42 Pack finally arrives for WWE 2K26!",
+        "label": "public The WrestleMania 42 Pack finally arrives for WWE 2K26! - Build 24604914 (08/07/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3717071"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "24193653",
+        "branch": "public 🔥Ringside Report - Ringside Pass Season 4",
+        "label": "public 🔥Ringside Report - Ringside Pass Season 4 - Build 24193653 (07/14/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "3717071"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794060479
+  },
+  {
     "id": "game-374320",
     "appid": 374320,
     "name": "DARK SOULS™ III",
