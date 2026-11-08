@@ -4472,6 +4472,109 @@
     "added_ts": 1792587763
   },
   {
+    "id": "game-231670",
+    "appid": 231670,
+    "name": "Football Manager 2014",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2014",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app",
+      "fm"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "230933",
+    "has_metadata": true,
+    "depot_base": 231672,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/231670/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/231670/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "230933",
+        "branch": "public",
+        "label": "Public - Build 230933 (04/08/2014)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "231671",
+          "231672",
+          "231673",
+          "231674",
+          "231675",
+          "231676",
+          "231677",
+          "231678"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "201019",
+        "branch": "public",
+        "label": "Public - Build 201019 (02/27/2014)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228990",
+          "231671",
+          "231672",
+          "231673",
+          "231674",
+          "231675",
+          "231676",
+          "231677",
+          "231678"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794160456
+  },
+  {
     "id": "game-236430",
     "appid": 236430,
     "name": "DARK SOULS™ II",
