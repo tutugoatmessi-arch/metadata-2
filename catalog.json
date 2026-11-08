@@ -9719,6 +9719,80 @@
     "added_ts": 1792303602
   },
   {
+    "id": "game-678950",
+    "appid": 678950,
+    "name": "DRAGON BALL FighterZ",
+    "developer": "Arc System Works",
+    "publisher": "Bandai Namco Entertainment",
+    "installdir": "DRAGON BALL FighterZ",
+    "launch_exes": [
+      "DBFighterZ.exe"
+    ],
+    "launch_exe": "DBFighterZ.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22154755",
+    "has_metadata": true,
+    "depot_base": 678951,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/678950/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22154755",
+        "branch": "public",
+        "label": "Public - Build 22154755 (03/02/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "678951"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 678952,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese) (ドラゴンボール ファイターズ)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794156556
+  },
+  {
     "id": "game-699130",
     "appid": 699130,
     "name": "World War Z",
