@@ -8272,6 +8272,81 @@
     "added_ts": 1792991241
   },
   {
+    "id": "game-378120",
+    "appid": 378120,
+    "name": "Football Manager 2016",
+    "developer": "SPORTS INTERACTIVE",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2016",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app",
+      "fm"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "1234262",
+    "has_metadata": true,
+    "depot_base": 378122,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/378120/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/378120/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "1234262",
+        "branch": "public",
+        "label": "Public - Build 1234262 (07/19/2016)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "378121",
+          "378122",
+          "378123",
+          "378124",
+          "378125",
+          "378126",
+          "378127",
+          "378128"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794168178
+  },
+  {
     "id": "game-418370",
     "appid": 418370,
     "name": "Resident Evil 7 Biohazard",
