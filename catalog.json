@@ -4575,6 +4575,73 @@
     "added_ts": 1794160456
   },
   {
+    "id": "game-2362060",
+    "appid": 2362060,
+    "name": "CODE VEIN II",
+    "developer": "Bandai Namco Studios Inc.",
+    "publisher": "Bandai Namco Entertainment Inc.",
+    "installdir": "CodeVein2",
+    "launch_exes": [
+      "CodeVein2.exe"
+    ],
+    "launch_exe": "CodeVein2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25298786",
+    "has_metadata": true,
+    "depot_base": 2362061,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2362060/d6d778cce31dd42de92a3867fe38a39a4b965d80/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2362060/955e8f3fce6d832c286ac8013657ed6fc51f1f85/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25298786",
+        "branch": "public",
+        "label": "Public - Build 25298786 (09/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2362061"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794206571
+  },
+  {
     "id": "game-236430",
     "appid": 236430,
     "name": "DARK SOULS™ II",
