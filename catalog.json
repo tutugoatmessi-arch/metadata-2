@@ -1842,6 +1842,74 @@
     "added_ts": 1791905807
   },
   {
+    "id": "game-1569040",
+    "appid": 1569040,
+    "name": "Football Manager 2022",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2022",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "8466745",
+    "has_metadata": true,
+    "depot_base": 1569042,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1569040/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1569040/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "8466745",
+        "branch": "public Football Manager 2022 Minor Update 22.4.1 Out Now!",
+        "label": "public Football Manager 2022 Minor Update 22.4.1 Out Now! - Build 8466745 (03/30/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1569041",
+          "1569042",
+          "1569043"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794245102
+  },
+  {
     "id": "game-1593500",
     "appid": 1593500,
     "name": "God of War",
