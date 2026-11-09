@@ -1,0 +1,661 @@
+{
+  "_lastChecked": 1794220470,
+  "_history": [
+    {
+      "buildId": "3012738",
+      "branch": "public",
+      "timeUpdated": 1533653823,
+      "firstSeen": 1794220497,
+      "manifests": {
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "482731": {
+          "gid": "7765537992922369883",
+          "size": 7638096613,
+          "download": 3180177952
+        },
+        "482732": {
+          "gid": "7932288433918016955",
+          "size": 155399757,
+          "download": 63110944
+        },
+        "482733": {
+          "gid": "8532855071976374950",
+          "size": 164602934,
+          "download": 119065728
+        },
+        "482734": {
+          "gid": "1023695815009806919",
+          "size": 80829198,
+          "download": 28797280
+        },
+        "482735": {
+          "gid": "9163526602673075185",
+          "size": 72173429,
+          "download": 20604704
+        },
+        "482736": {
+          "gid": "4952251216227885728",
+          "size": 290016224,
+          "download": 170443216
+        },
+        "482737": {
+          "gid": "5572409793164384610",
+          "size": 289951532,
+          "download": 170435104
+        },
+        "482738": {
+          "gid": "7647779807565967687",
+          "size": 16,
+          "download": 64
+        }
+      }
+    },
+    {
+      "buildId": "2229480",
+      "branch": "public",
+      "timeUpdated": 1508953368,
+      "firstSeen": 1794220497,
+      "manifests": {
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "482731": {
+          "gid": "4587116502255433185",
+          "size": 7635903786,
+          "download": 3177261536
+        },
+        "482732": {
+          "gid": "7932288433918016955",
+          "size": 155399757,
+          "download": 63110944
+        },
+        "482733": {
+          "gid": "8532855071976374950",
+          "size": 164602934,
+          "download": 119065728
+        },
+        "482734": {
+          "gid": "1023695815009806919",
+          "size": 80829198,
+          "download": 28797280
+        },
+        "482735": {
+          "gid": "9163526602673075185",
+          "size": 72173429,
+          "download": 20604704
+        },
+        "482736": {
+          "gid": "4952251216227885728",
+          "size": 290016224,
+          "download": 170443216
+        },
+        "482737": {
+          "gid": "5572409793164384610",
+          "size": 289951532,
+          "download": 170435104
+        },
+        "482738": {
+          "gid": "7647779807565967687",
+          "size": 16,
+          "download": 64
+        }
+      }
+    },
+    {
+      "buildId": "1925878",
+      "branch": "public",
+      "timeUpdated": 1499081665,
+      "firstSeen": 1794220497,
+      "manifests": {
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "482731": {
+          "gid": "981107710767578930",
+          "size": 7630751421,
+          "download": 3176839984
+        },
+        "482732": {
+          "gid": "7932288433918016955",
+          "size": 155399757,
+          "download": 63110944
+        },
+        "482733": {
+          "gid": "8532855071976374950",
+          "size": 164602934,
+          "download": 119065728
+        },
+        "482734": {
+          "gid": "1023695815009806919",
+          "size": 80829198,
+          "download": 28797280
+        },
+        "482735": {
+          "gid": "9163526602673075185",
+          "size": 72173429,
+          "download": 20604704
+        },
+        "482736": {
+          "gid": "4952251216227885728",
+          "size": 290016224,
+          "download": 170443216
+        },
+        "482737": {
+          "gid": "5108540169753360321",
+          "size": 563183218,
+          "download": 326563760
+        },
+        "482738": {
+          "gid": "2628482888093059200",
+          "size": 120044544,
+          "download": 52716640
+        }
+      }
+    }
+  ],
+  "_change_number": 37435436,
+  "_missing_token": false,
+  "_sha": "766bdaae31f10a65c28f308ae988276099d90c24",
+  "_size": 10399,
+  "appid": "482730",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Sports Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "SEGA",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Football Manager",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_25": "1",
+      "category_29": "1",
+      "category_30": "1",
+      "category_33": "1",
+      "category_42": "1",
+      "category_62": "1"
+    },
+    "clienticns": "ca7319f6f18a4b236ac86ec780708327cb56e144",
+    "clienticon": "893a4cc190f9e787c72a687aed07da4aef11ff5c",
+    "clienttga": "821a41ff9af547d55870651bbe650788decaaccf",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "gameid": "482730",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "695a3f30fe84f3cd09583402add31b7227e8b61a",
+    "languages": {
+      "czech": "1",
+      "danish": "1",
+      "dutch": "1",
+      "english": "1",
+      "french": "1",
+      "greek": "1",
+      "italian": "1",
+      "koreana": "1",
+      "norwegian": "1",
+      "polish": "1",
+      "portuguese": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "swedish": "1",
+      "tchinese": "1",
+      "turkish": "1"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_hero": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "42",
+        "pinned_position": "BottomLeft",
+        "width_pct": "32"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "library_600x900.jpg"
+        },
+        "image2x": {
+          "english": "library_600x900_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "library_hero.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "logo.png"
+        },
+        "logo_position": {
+          "height_pct": "42",
+          "pinned_position": "BottomLeft",
+          "width_pct": "32"
+        }
+      }
+    },
+    "linuxclienticon": "f3dcd096b0dc2ee37a088c8c46507a94a484102c",
+    "logo": "73bc4b50a52419749c080c7cfd89f05e41efe361",
+    "logo_small": "73bc4b50a52419749c080c7cfd89f05e41efe361_thumb",
+    "metacritic_fullurl": "https://www.metacritic.com/game/pc/football-manager-2017?ftag=MCD-06-10aaa1f",
+    "metacritic_name": "Football Manager 2017",
+    "metacritic_score": "80",
+    "name": "Football Manager 2017",
+    "oslist": "windows,macos,linux",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "restricted_countries": "DE",
+    "review_percentage": "59",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "2",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "1",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "1",
+        "supported_input": "other"
+      },
+      "steam_machine_compatibility": "3",
+      "steam_machine_tests": {
+        "0": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "2": {
+          "display": "1",
+          "token": "#SteamMachine_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        }
+      },
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        }
+      },
+      "test_timestamp": "1693699200",
+      "tested_build_id": "3012738",
+      "tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "3": {
+          "display": "1",
+          "token": "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        }
+      }
+    },
+    "steam_release_date": "1478214000",
+    "store_asset_mtime": "1502985459",
+    "store_tags": {
+      "0": "701",
+      "1": "1254546",
+      "2": "599",
+      "3": "12472",
+      "4": "1254552",
+      "5": "9",
+      "6": "1708",
+      "7": "3859",
+      "8": "4182",
+      "9": "597"
+    },
+    "supported_languages": {
+      "czech": {
+        "supported": "true"
+      },
+      "danish": {
+        "supported": "true"
+      },
+      "dutch": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "greek": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "norwegian": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "portuguese": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "swedish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "Game",
+    "workshop_visible": "1"
+  },
+  "config": {
+    "contenttype": "3",
+    "installdir": "Football Manager 2017",
+    "launch": {
+      "0": {
+        "config": {
+          "oslist": "windows"
+        },
+        "executable": "fm.exe",
+        "type": "none"
+      },
+      "1": {
+        "config": {
+          "oslist": "macos"
+        },
+        "executable": "fm.app",
+        "type": "none"
+      },
+      "2": {
+        "config": {
+          "oslist": "linux"
+        },
+        "executable": "fm",
+        "type": "none"
+      }
+    },
+    "steamcontrollerconfigdetails": {
+      "874196630": {
+        "controller_type": "controller_steamcontroller_gordon",
+        "enabled_branches": "default",
+        "use_action_block": "false"
+      }
+    },
+    "steamcontrollertemplateindex": "1",
+    "steamcontrollertouchconfigdetails": {
+      "1859839391": {
+        "controller_type": "controller_mobile_touch",
+        "enabled_branches": "default",
+        "use_action_block": "false"
+      }
+    },
+    "steamcontrollertouchtemplateindex": "1"
+  },
+  "depots": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "100658080",
+          "gid": "1829726630299308803",
+          "size": "102931551"
+        }
+      }
+    },
+    "482731": {
+      "manifests": {
+        "public": {
+          "download": "3180177952",
+          "gid": "7765537992922369883",
+          "size": "7638096613"
+        },
+        "public-beta": {
+          "download": "3180177952",
+          "gid": "7765537992922369883",
+          "size": "7638096613"
+        }
+      }
+    },
+    "482732": {
+      "config": {
+        "osarch": "32",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "63110944",
+          "gid": "7932288433918016955",
+          "size": "155399757"
+        },
+        "public-beta": {
+          "download": "63110944",
+          "gid": "7932288433918016955",
+          "size": "155399757"
+        }
+      }
+    },
+    "482733": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "119065728",
+          "gid": "8532855071976374950",
+          "size": "164602934"
+        },
+        "public-beta": {
+          "download": "119065728",
+          "gid": "8532855071976374950",
+          "size": "164602934"
+        }
+      }
+    },
+    "482734": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "public": {
+          "download": "28797280",
+          "gid": "1023695815009806919",
+          "size": "80829198"
+        },
+        "public-beta": {
+          "download": "28797280",
+          "gid": "1023695815009806919",
+          "size": "80829198"
+        }
+      }
+    },
+    "482735": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "public": {
+          "download": "20604704",
+          "gid": "9163526602673075185",
+          "size": "72173429"
+        },
+        "public-beta": {
+          "download": "20604704",
+          "gid": "9163526602673075185",
+          "size": "72173429"
+        }
+      }
+    },
+    "482736": {
+      "config": {
+        "language": "schinese"
+      },
+      "manifests": {
+        "public": {
+          "download": "170443216",
+          "gid": "4952251216227885728",
+          "size": "290016224"
+        },
+        "public-beta": {
+          "download": "170443216",
+          "gid": "4952251216227885728",
+          "size": "290016224"
+        }
+      }
+    },
+    "482737": {
+      "config": {
+        "language": "tchinese"
+      },
+      "manifests": {
+        "public": {
+          "download": "170435104",
+          "gid": "5572409793164384610",
+          "size": "289951532"
+        },
+        "public-beta": {
+          "download": "170435104",
+          "gid": "5572409793164384610",
+          "size": "289951532"
+        }
+      }
+    },
+    "482738": {
+      "config": {
+        "language": "tchinese",
+        "osarch": "32",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "64",
+          "gid": "7647779807565967687",
+          "size": "16"
+        },
+        "public-beta": {
+          "download": "64",
+          "gid": "7647779807565967687",
+          "size": "16"
+        }
+      }
+    },
+    "baselanguages": "english,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,greek",
+    "branches": {
+      "public": {
+        "buildid": "3012738",
+        "timebuildupdated": "1533654134",
+        "timeupdated": "1533741496"
+      },
+      "public-beta": {
+        "buildid": "3012738",
+        "timebuildupdated": "1533654134",
+        "timeupdated": "1533741512"
+      }
+    },
+    "privatebranches": "1",
+    "workshopdepot": "482730"
+  },
+  "extended": {
+    "allowmicrotxnfromrestrictedcountries": "0",
+    "developer": "Sports Interactive",
+    "homepage": "http://www.footballmanager.com/",
+    "listofdlc": "489860",
+    "microtxnrestrictedcountries": "RU,BY",
+    "publisher": "SEGA"
+  },
+  "ufs": {
+    "maxnumfiles": "1000",
+    "quota": "1000000000",
+    "rootoverrides": {
+      "0": {
+        "addpath": "",
+        "os": "MacOS",
+        "oscompare": "=",
+        "root": "WinAppDataLocal",
+        "useinstead": "MacAppSupport"
+      },
+      "1": {
+        "addpath": "",
+        "os": "Linux",
+        "oscompare": "=",
+        "root": "WinAppDataLocal",
+        "useinstead": "LinuxXdgDataHome"
+      }
+    },
+    "savefiles": {
+      "0": {
+        "path": "Sports Interactive/Football Manager 2017/cloud/games",
+        "pattern": "*.fm",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}

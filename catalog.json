@@ -9452,6 +9452,207 @@
     "added_ts": 1793812043
   },
   {
+    "id": "game-482730",
+    "appid": 482730,
+    "name": "Football Manager 2017",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2017",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app",
+      "fm"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "3012738",
+    "has_metadata": true,
+    "depot_base": 482732,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/482730/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/482730/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "3012738",
+        "branch": "public",
+        "label": "Public - Build 3012738 (08/07/2018)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "482731",
+          "482732",
+          "482733",
+          "482734",
+          "482735",
+          "482736",
+          "482737",
+          "482738"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 482736,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 482737,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "2229480",
+        "branch": "public",
+        "label": "Public - Build 2229480 (10/26/2017)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228990",
+          "482731",
+          "482732",
+          "482733",
+          "482734",
+          "482735",
+          "482736",
+          "482737",
+          "482738"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 482736,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 482737,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      },
+      {
+        "id": "1925878",
+        "branch": "public",
+        "label": "Public - Build 1925878 (07/03/2017)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228990",
+          "482731",
+          "482732",
+          "482733",
+          "482734",
+          "482735",
+          "482736",
+          "482737",
+          "482738"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 482736,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 482737,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 482736,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 482737,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 482736,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 482737,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794220514
+  },
+  {
     "id": "game-524220",
     "appid": 524220,
     "name": "NieR:Automata™",
