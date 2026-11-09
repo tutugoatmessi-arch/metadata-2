@@ -3,7 +3,7 @@
   "_history": [
     {
       "buildId": "3012738",
-      "branch": "public",
+      "branch": "public 17.3.2",
       "timeUpdated": 1533653823,
       "firstSeen": 1794222388,
       "manifests": {
@@ -56,7 +56,7 @@
     },
     {
       "buildId": "2229480",
-      "branch": "public",
+      "branch": "public 17.3.2",
       "timeUpdated": 1508953368,
       "firstSeen": 1794222388,
       "manifests": {
@@ -109,7 +109,7 @@
     },
     {
       "buildId": "1925878",
-      "branch": "public",
+      "branch": "public 17.3.1",
       "timeUpdated": 1498755348,
       "firstSeen": 1794222388,
       "manifests": {

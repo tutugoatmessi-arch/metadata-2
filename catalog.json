@@ -9476,8 +9476,8 @@
     "versions": [
       {
         "id": "3012738",
-        "branch": "public",
-        "label": "Public - Build 3012738 (08/07/2018)",
+        "branch": "public 17.3.2",
+        "label": "public 17.3.2 - Build 3012738 (08/07/2018)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -9518,8 +9518,8 @@
       },
       {
         "id": "2229480",
-        "branch": "public",
-        "label": "Public - Build 2229480 (10/26/2017)",
+        "branch": "public 17.3.2",
+        "label": "public 17.3.2 - Build 2229480 (10/26/2017)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9560,8 +9560,8 @@
       },
       {
         "id": "1925878",
-        "branch": "public",
-        "label": "Public - Build 1925878 (06/29/2017)",
+        "branch": "public 17.3.1",
+        "label": "public 17.3.1 - Build 1925878 (06/29/2017)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
