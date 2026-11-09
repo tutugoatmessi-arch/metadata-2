@@ -9561,7 +9561,7 @@
       {
         "id": "1925878",
         "branch": "public",
-        "label": "Public - Build 1925878 (07/03/2017)",
+        "label": "Public - Build 1925878 (06/29/2017)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -9597,31 +9597,6 @@
             "lang": "tchinese",
             "label": "繁體中文 (Traditional Chinese)",
             "source": "depot"
-          }
-        ]
-      },
-      {
-        "id": "1663835",
-        "branch": "public",
-        "label": "Public - Build 1663835 (03/01/2017)",
-        "is_ready": true,
-        "is_recommended": false,
-        "manifest_depots": [
-          "228990",
-          "482731",
-          "482732",
-          "482733",
-          "482734",
-          "482735"
-        ],
-        "languages": [
-          {
-            "id": 0,
-            "key": "lang:default",
-            "lang": "default",
-            "label": "Default",
-            "source": "base",
-            "is_default": true
           }
         ]
       }
