@@ -2631,6 +2631,74 @@
     "added_ts": 1792137723
   },
   {
+    "id": "game-1904540",
+    "appid": 1904540,
+    "name": "Football Manager 2023",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2023",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "11097702",
+    "has_metadata": true,
+    "depot_base": 1904542,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1904540/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1904540/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11097702",
+        "branch": "public FM23 China Data Update Available Now",
+        "label": "public FM23 China Data Update Available Now - Build 11097702 (04/27/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1904541",
+          "1904542",
+          "1904543"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794245634
+  },
+  {
     "id": "game-1938010",
     "appid": 1938010,
     "name": "WILD HEARTS™",
