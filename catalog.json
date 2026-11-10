@@ -9974,7 +9974,7 @@
     ],
     "launch_exe": "fm.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26340721",
+    "build_id": "26385295",
     "has_metadata": true,
     "depot_base": 4530372,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4530370/7ed4ea902189db0f278ae069ff5bfde4f601de93/library_capsule.jpg",
@@ -9984,11 +9984,32 @@
     ],
     "versions": [
       {
-        "id": "26340721",
-        "branch": "public",
-        "label": "Public - Build 26340721 (10/31/2026)",
+        "id": "26385295",
+        "branch": "public Make The Call: Football Manager 27 is live across platforms ",
+        "label": "public Make The Call: Football Manager 27 is live across platforms  - Build 26385295 (11/03/2026)",
         "is_ready": true,
         "is_recommended": true,
+        "manifest_depots": [
+          "4530371",
+          "4530372"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "26340721",
+        "branch": "public FM27 Minor Update 1 rolling out now, plus more info on updates",
+        "label": "public FM27 Minor Update 1 rolling out now, plus more info on updates - Build 26340721 (10/31/2026)",
+        "is_ready": true,
+        "is_recommended": false,
         "manifest_depots": [
           "4530371",
           "4530372"
