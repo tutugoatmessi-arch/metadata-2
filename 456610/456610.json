@@ -1,0 +1,657 @@
+{
+  "_lastChecked": 1794325520,
+  "_history": [
+    {
+      "buildId": "1706567",
+      "branch": "public",
+      "timeUpdated": 1490153742,
+      "firstSeen": 1794325613,
+      "manifests": {
+        "228983": {
+          "gid": "8124929965194586177",
+          "size": 19265607,
+          "download": 19214528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "229003": {
+          "gid": "8740933542064151477",
+          "size": 43001447,
+          "download": 42914928
+        },
+        "456611": {
+          "gid": "7701168019284468353",
+          "size": 6061375481,
+          "download": 5109984528
+        },
+        "456612": {
+          "gid": "5338700253359159941",
+          "size": 497129446,
+          "download": 483589968
+        },
+        "456613": {
+          "gid": "7870427815716093051",
+          "size": 496740766,
+          "download": 483204240
+        },
+        "456614": {
+          "gid": "4131295963610719107",
+          "size": 450278975,
+          "download": 434778112
+        },
+        "456615": {
+          "gid": "7073615969372059988",
+          "size": 520479906,
+          "download": 504915376
+        },
+        "456616": {
+          "gid": "6632753328421560560",
+          "size": 475649452,
+          "download": 449348960
+        },
+        "456617": {
+          "gid": "7287698597283423733",
+          "size": 496751006,
+          "download": 483213152
+        },
+        "456618": {
+          "gid": "947247658726102479",
+          "size": 496753054,
+          "download": 483216624
+        },
+        "456619": {
+          "gid": "2809356350537800400",
+          "size": 496814494,
+          "download": 483276576
+        },
+        "480570": {
+          "gid": "2781730436138186162",
+          "size": 2021170328,
+          "download": 1956767104
+        },
+        "480571": {
+          "gid": "4080943800651457279",
+          "size": 413394612,
+          "download": 395644832
+        },
+        "480572": {
+          "gid": "6536797931830621145",
+          "size": 475994348,
+          "download": 461752112
+        },
+        "480573": {
+          "gid": "4839863280810251315",
+          "size": 367898952,
+          "download": 353446768
+        },
+        "480574": {
+          "gid": "5942634390547584394",
+          "size": 293889006,
+          "download": 284247632
+        },
+        "480575": {
+          "gid": "2964602929049235734",
+          "size": 426418731,
+          "download": 408165504
+        },
+        "480576": {
+          "gid": "8194597578407939064",
+          "size": 424796715,
+          "download": 406520672
+        },
+        "480577": {
+          "gid": "2518041253644807870",
+          "size": 532959646,
+          "download": 516632256
+        }
+      }
+    }
+  ],
+  "_change_number": 37435436,
+  "_missing_token": false,
+  "_sha": "67b8d3fdbe08e9a51d1c1e1cfbf83d13d47262ca",
+  "_size": 10868,
+  "appid": "456610",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Konami Digital Entertainment",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Konami Digital Entertainment",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_43": "1",
+      "category_9": "1"
+    },
+    "clienticon": "e62784c84578c783ff0b19b54cc36c31b6fb066c",
+    "clienttga": "d4557c8e36f8ad64a4223f2309280942dba1af90",
+    "community_hub_visible": "1",
+    "controller_support": "full",
+    "gameid": "456610",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "60092ceb2939a7c3a20ec7f5e67c7a2e2789c79b",
+    "languages": {
+      "arabic": "1",
+      "brazilian": "1",
+      "dutch": "1",
+      "english": "1",
+      "french": "1",
+      "german": "1",
+      "greek": "1",
+      "italian": "1",
+      "koreana": "1",
+      "portuguese": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "swedish": "1",
+      "tchinese": "1",
+      "turkish": "1"
+    },
+    "logo": "5cfc9fca819946d7901d6db6e41302c65009e4ec",
+    "logo_small": "5cfc9fca819946d7901d6db6e41302c65009e4ec_thumb",
+    "metacritic_fullurl": "https://www.metacritic.com/game/pc/pro-evolution-soccer-2017?ftag=MCD-06-10aaa1f",
+    "metacritic_name": "Pro Evolution Soccer 2017",
+    "metacritic_score": "69",
+    "name": "Pro Evolution Soccer 2017",
+    "oslist": "windows",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "review_percentage": "57",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "2",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "1",
+        "recommended_runtime": "proton-10.0-beta",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "1",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "1",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "gamepad"
+      },
+      "steam_machine_compatibility": "2",
+      "steam_machine_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamMachine_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_ControllerGlyphsMatchDevice"
+        },
+        "3": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "4": {
+          "display": "1",
+          "token": "#SteamMachine_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        }
+      },
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+        },
+        "2": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        },
+        "3": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+        }
+      },
+      "test_timestamp": "1765497600",
+      "tested_build_id": "1706567",
+      "tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+        },
+        "3": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+        },
+        "4": {
+          "display": "4",
+          "token": "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "5": {
+          "display": "1",
+          "token": "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+        },
+        "6": {
+          "display": "1",
+          "token": "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+        }
+      }
+    },
+    "steam_release_date": "1473893880",
+    "store_asset_mtime": "1470970540",
+    "store_screenshot": "ss_bd759166c488f564524f4e0f0661b83bc5252f92.jpg",
+    "store_tags": {
+      "0": "701",
+      "1": "1254546",
+      "10": "3843",
+      "11": "9541",
+      "12": "4166",
+      "13": "21",
+      "14": "5350",
+      "15": "1663",
+      "16": "1695",
+      "17": "1680",
+      "18": "3871",
+      "19": "4085",
+      "2": "1254552",
+      "3": "113",
+      "4": "3859",
+      "5": "19",
+      "6": "599",
+      "7": "4182",
+      "8": "1685",
+      "9": "9"
+    },
+    "supported_languages": {
+      "arabic": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "greek": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "portuguese": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "contenttype": "3",
+    "installdir": "Pro Evolution Soccer 2017",
+    "launch": {
+      "0": {
+        "description": "Launch",
+        "executable": "PES2017.exe",
+        "type": "none"
+      }
+    },
+    "steamcontrollerconfigfileids": "763326522",
+    "steamcontrollertemplateindex": "1"
+  },
+  "depots": {
+    "228983": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "19214528",
+          "gid": "8124929965194586177",
+          "size": "19265607"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "100658080",
+          "gid": "1829726630299308803",
+          "size": "102931551"
+        }
+      }
+    },
+    "229003": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "42914928",
+          "gid": "8740933542064151477",
+          "size": "43001447"
+        }
+      }
+    },
+    "456611": {
+      "config": {
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "5109984528",
+          "gid": "7701168019284468353",
+          "size": "6061375481"
+        }
+      }
+    },
+    "456612": {
+      "config": {
+        "language": "english",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "483589968",
+          "gid": "5338700253359159941",
+          "size": "497129446"
+        }
+      }
+    },
+    "456613": {
+      "config": {
+        "language": "swedish",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "483204240",
+          "gid": "7870427815716093051",
+          "size": "496740766"
+        }
+      }
+    },
+    "456614": {
+      "config": {
+        "language": "french",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "434778112",
+          "gid": "4131295963610719107",
+          "size": "450278975"
+        }
+      }
+    },
+    "456615": {
+      "config": {
+        "language": "german",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "504915376",
+          "gid": "7073615969372059988",
+          "size": "520479906"
+        }
+      }
+    },
+    "456616": {
+      "config": {
+        "language": "italian",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "449348960",
+          "gid": "6632753328421560560",
+          "size": "475649452"
+        }
+      }
+    },
+    "456617": {
+      "config": {
+        "language": "dutch",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "483213152",
+          "gid": "7287698597283423733",
+          "size": "496751006"
+        }
+      }
+    },
+    "456618": {
+      "config": {
+        "language": "turkish",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "483216624",
+          "gid": "947247658726102479",
+          "size": "496753054"
+        }
+      }
+    },
+    "456619": {
+      "config": {
+        "language": "russian",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "483276576",
+          "gid": "2809356350537800400",
+          "size": "496814494"
+        }
+      }
+    },
+    "480570": {
+      "config": {
+        "language": "spanish",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1956767104",
+          "gid": "2781730436138186162",
+          "size": "2021170328"
+        }
+      }
+    },
+    "480571": {
+      "config": {
+        "language": "portuguese",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "395644832",
+          "gid": "4080943800651457279",
+          "size": "413394612"
+        }
+      }
+    },
+    "480572": {
+      "config": {
+        "language": "arabic",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "461752112",
+          "gid": "6536797931830621145",
+          "size": "475994348"
+        }
+      }
+    },
+    "480573": {
+      "config": {
+        "language": "greek",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "353446768",
+          "gid": "4839863280810251315",
+          "size": "367898952"
+        }
+      }
+    },
+    "480574": {
+      "config": {
+        "language": "brazilian",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "284247632",
+          "gid": "5942634390547584394",
+          "size": "293889006"
+        }
+      }
+    },
+    "480575": {
+      "config": {
+        "language": "schinese",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "408165504",
+          "gid": "2964602929049235734",
+          "size": "426418731"
+        }
+      }
+    },
+    "480576": {
+      "config": {
+        "language": "tchinese",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "406520672",
+          "gid": "8194597578407939064",
+          "size": "424796715"
+        }
+      }
+    },
+    "480577": {
+      "config": {
+        "language": "koreana",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "516632256",
+          "gid": "2518041253644807870",
+          "size": "532959646"
+        }
+      }
+    },
+    "branches": {
+      "public": {
+        "buildid": "1706567",
+        "timebuildupdated": "1490153998",
+        "timeupdated": "1490839864"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "allowmicrotxnfromrestrictedcountries": "0",
+    "developer": "Konami Digital Entertainment",
+    "homepage": "https://www.konami.com/wepes/2017/",
+    "listofdlc": "512780",
+    "microtxnrestrictedcountries": "RU,BY",
+    "publisher": "Konami Digital Entertainment"
+  }
+}

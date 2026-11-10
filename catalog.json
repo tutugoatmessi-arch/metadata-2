@@ -10029,6 +10029,405 @@
     "added_ts": 1793726308
   },
   {
+    "id": "game-456610",
+    "appid": 456610,
+    "name": "Pro Evolution Soccer 2017",
+    "developer": "Konami Digital Entertainment",
+    "publisher": "Konami Digital Entertainment",
+    "installdir": "Pro Evolution Soccer 2017",
+    "launch_exes": [
+      "PES2017.exe"
+    ],
+    "launch_exe": "PES2017.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "1706567",
+    "has_metadata": true,
+    "depot_base": 456611,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/456610/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/456610/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "1706567",
+        "branch": "public",
+        "label": "Public - Build 1706567 (03/22/2017)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "229003",
+          "456611",
+          "456612",
+          "456613",
+          "456614",
+          "456615",
+          "456616",
+          "456617",
+          "456618",
+          "456619",
+          "480570",
+          "480571",
+          "480572",
+          "480573",
+          "480574",
+          "480575",
+          "480576",
+          "480577"
+        ],
+        "languages": [
+          {
+            "id": 456612,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 456613,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 456614,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 456615,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 456616,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 456617,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 456618,
+            "key": "lang:turkish",
+            "lang": "turkish",
+            "label": "Türkçe (Turkish)",
+            "source": "depot"
+          },
+          {
+            "id": 456619,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 480570,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 480571,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 480572,
+            "key": "lang:arabic",
+            "lang": "arabic",
+            "label": "Arabic",
+            "source": "depot"
+          },
+          {
+            "id": 480573,
+            "key": "lang:greek",
+            "lang": "greek",
+            "label": "Greek",
+            "source": "depot"
+          },
+          {
+            "id": 480574,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 480575,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 480576,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 480577,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 456612,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 456613,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 456614,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 456615,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 456616,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 456617,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 456618,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 456619,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 480570,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 480571,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 480572,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 480573,
+        "key": "lang:greek",
+        "lang": "greek",
+        "label": "Greek",
+        "source": "depot"
+      },
+      {
+        "id": 480574,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 480575,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 480576,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 480577,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 456612,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 456613,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 456614,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 456615,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 456616,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 456617,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 456618,
+        "key": "lang:turkish",
+        "lang": "turkish",
+        "label": "Türkçe (Turkish)",
+        "source": "depot"
+      },
+      {
+        "id": 456619,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 480570,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 480571,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 480572,
+        "key": "lang:arabic",
+        "lang": "arabic",
+        "label": "Arabic",
+        "source": "depot"
+      },
+      {
+        "id": 480573,
+        "key": "lang:greek",
+        "lang": "greek",
+        "label": "Greek",
+        "source": "depot"
+      },
+      {
+        "id": 480574,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 480575,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 480576,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 480577,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794325624
+  },
+  {
     "id": "game-4704690",
     "appid": 4704690,
     "name": "MECCHA CHAMELEON",
