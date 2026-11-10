@@ -425,7 +425,7 @@
     "installdir": "FIFA 23",
     "launch": {
       "0": {
-        "executable": "steam2ea://launchgame/1811260?platform=steam&theme=fifa23"
+        "executable": "FIFA23.exe"
       }
     }
   },

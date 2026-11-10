@@ -2567,10 +2567,9 @@
     "publisher": "Electronic Arts",
     "installdir": "FIFA 23",
     "launch_exes": [
-      "steam2ea://launchgame/1811260?platform=steam&theme=fifa23",
-      "1811260?platform=steam&theme=fifa23"
+      "FIFA23.exe"
     ],
-    "launch_exe": "steam2ea://launchgame/1811260?platform=steam&theme=fifa23",
+    "launch_exe": "FIFA23.exe",
     "launch_exe_after_fix": "",
     "build_id": "11957221",
     "has_metadata": true,
