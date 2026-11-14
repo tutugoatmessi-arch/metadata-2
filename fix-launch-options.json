@@ -1,4 +1,72 @@
 {
+  "1174180": [
+    {
+      "name": "Chơi offline",
+      "exe": "PlayRDR2.exe"
+    }
+  ],
+  "1245620": [
+    {
+      "name": "Chơi offline + Việt hóa",
+      "exe": "Game/Elden_Ring_VHTRT.bat",
+      "build_id": "25827938"
+    },
+    {
+      "name": "Chơi online không việt hóa",
+      "exe": "Game/ersc_launcher.exe",
+      "build_id": "25827938"
+    },
+    {
+      "name": "Chơi offline",
+      "exe": "Game/eldenring.exe",
+      "build_id": "25827938"
+    },
+    {
+      "name": "Chơi artbook & soundtrackOST bản DLC",
+      "exe": "ERD_ArtbookOST/ELDEN RING™ Shadow of the Erdtree Digital Artbook & Original Soundtrack.exe",
+      "build_id": "25827938"
+    },
+    {
+      "name": "xem hướng dẫn adv",
+      "exe": "AdvGuide/ELDEN RING Adventure Guide.exe",
+      "build_id": "25827938"
+    },
+    {
+      "name": "Chơi artbook & soundtrackOST",
+      "exe": "ArtbookOST/ELDEN RING Digital Artbook & Soundtrack.exe",
+      "build_id": "25827938"
+    },
+    {
+      "name": "Chơi offline + Việt hóa",
+      "exe": "Game/Elden_Ring_VHTRT.bat",
+      "build_id": "25080141"
+    },
+    {
+      "name": "Chơi online không việt hóa",
+      "exe": "Game/ersc_launcher.exe",
+      "build_id": "25080141"
+    },
+    {
+      "name": "Chơi offline",
+      "exe": "Game/eldenring.exe",
+      "build_id": "25080141"
+    },
+    {
+      "name": "Chơi artbook & soundtrackOST bản DLC",
+      "exe": "ERD_ArtbookOST/ELDEN RING™ Shadow of the Erdtree Digital Artbook & Original Soundtrack.exe",
+      "build_id": "25080141"
+    },
+    {
+      "name": "xem hướng dẫn adv",
+      "exe": "AdvGuide/ELDEN RING Adventure Guide.exe",
+      "build_id": "25080141"
+    },
+    {
+      "name": "Chơi artbook & soundtrackOST",
+      "exe": "ArtbookOST/ELDEN RING Digital Artbook & Soundtrack.exe",
+      "build_id": "25080141"
+    }
+  ],
   "1985820": [
     {
       "name": "Vanguard setup",
