@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "appid": "431960",
+  "publishedfileid": "3769367870",
+  "depot_id": "431960",
+  "manifest_gid": "2322209548528485362",
+  "title": "大狗Tap（新版）",
+  "description": "本壁纸为新版大狗Tap。仅通过修改main.js中的DEBUG_UNLOCK_SFX为true默认解锁了东海帝皇和叮咚鸡。\n\n原作者：@马克杯MarkCup （https://space.bilibili.com/357762853）\n原仓库：https://github.com/MarkCup-Official/Dagou-Tap-New",
+  "preview_url": "https://images.steamusercontent.com/ugc/14962575118609192264/2997A4C4519650E80979DE3A9D9C7264671865F0/",
+  "time_updated": 1784685529,
+  "file_size": 9027674,
+  "hcontent_file": "2322209548528485362",
+  "metadata_size": 3798,
+  "metadata_sha256": "8a008f13dc4330df46370d26c593528fd238f91c94140fb359fec7196d6c2e45"
+}

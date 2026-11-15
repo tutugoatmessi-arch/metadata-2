@@ -14,8 +14,68 @@
       "time_updated": 1494520444,
       "file_size": 350444,
       "hcontent_file": "3417446553402618052",
-      "metadata_sha256": "6e438f74fd5fa4b9bc753f846b6421114c123493aa756c444c659382ab2d2476",
-      "metadata_size": 2446
+      "metadata_size": 2446,
+      "metadata_sha256": "6e438f74fd5fa4b9bc753f846b6421114c123493aa756c444c659382ab2d2476"
+    },
+    {
+      "schema_version": 1,
+      "appid": "431960",
+      "publishedfileid": "3769367870",
+      "depot_id": "431960",
+      "manifest_gid": "2322209548528485362",
+      "title": "大狗Tap（新版）",
+      "description": "本壁纸为新版大狗Tap。仅通过修改main.js中的DEBUG_UNLOCK_SFX为true默认解锁了东海帝皇和叮咚鸡。\n\n原作者：@马克杯MarkCup （https://space.bilibili.com/357762853）\n原仓库：https://github.com/MarkCup-Official/Dagou-Tap-New",
+      "preview_url": "https://images.steamusercontent.com/ugc/14962575118609192264/2997A4C4519650E80979DE3A9D9C7264671865F0/",
+      "time_updated": 1784685529,
+      "file_size": 9027674,
+      "hcontent_file": "2322209548528485362",
+      "metadata_size": 3798,
+      "metadata_sha256": "8a008f13dc4330df46370d26c593528fd238f91c94140fb359fec7196d6c2e45"
+    },
+    {
+      "schema_version": 1,
+      "appid": "431960",
+      "publishedfileid": "3787353838",
+      "depot_id": "431960",
+      "manifest_gid": "3207330709457254102",
+      "title": "[deepseek娘]深夜的大肥鱼",
+      "description": "B站发布BV1538w6BEc8\r\nAI超分的痕迹有点明显",
+      "preview_url": "https://images.steamusercontent.com/ugc/15748891014789363438/CB00BF545CAF3AE8BD4F64A78D766E5B379C8D2A/",
+      "time_updated": 1787308890,
+      "file_size": 237877295,
+      "hcontent_file": "3207330709457254102",
+      "metadata_size": 7604,
+      "metadata_sha256": "3d35388d3ad964fcca1066614748b7e149c35c67eade3a9439b8c7922b1b48fd"
+    },
+    {
+      "schema_version": 1,
+      "appid": "431960",
+      "publishedfileid": "3810092560",
+      "depot_id": "431960",
+      "manifest_gid": "46719203820232334",
+      "title": "DeepSeek 鲸鱼娘 蓝色大肥鱼 点击互动",
+      "description": "",
+      "preview_url": "https://images.steamusercontent.com/ugc/11305451246909545719/24FF2B9F65ED9F4FEC56BC91315916CD942EF8AE/",
+      "time_updated": 1790666355,
+      "file_size": 3210127,
+      "hcontent_file": "46719203820232334",
+      "metadata_size": 942,
+      "metadata_sha256": "c170e7bfdc94796f59daeb329224f67ea91f2ae1b8e115ee7f9145947f2f510b"
+    },
+    {
+      "schema_version": 1,
+      "appid": "431960",
+      "publishedfileid": "3839631288",
+      "depot_id": "431960",
+      "manifest_gid": "3976914643568134696",
+      "title": "Ender Marin Kitagawa v2 (My Dress-Up Darling) WUHD (4K)",
+      "description": "Marin Kitagawa v2 - Ultrawide - 5120x2160 - 3440x1440\nOriginal picture from alphacoders\nImage quality is a priority, high-end setup recommended\nKeywords : Anime, Manga, Girl, School, Waifu, Cosplayer, 2160p, 4K, HD",
+      "preview_url": "https://images.steamusercontent.com/ugc/13200170174564972459/C12D5E998BC94E8282468CA74A3D2E0A011AAE6E/",
+      "time_updated": 1794668102,
+      "file_size": 22524634,
+      "hcontent_file": "3976914643568134696",
+      "metadata_size": 1692,
+      "metadata_sha256": "bd50fd7a39b5fe1d8422123db1ea29884c67bf0ac1b7010ba4d7fe6262c420d7"
     }
   ]
 }
