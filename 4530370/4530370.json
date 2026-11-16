@@ -2,6 +2,24 @@
   "_lastChecked": 1794328458,
   "_history": [
     {
+      "buildId": "26577676",
+      "branch": "public",
+      "timeUpdated": 1794350085,
+      "firstSeen": 1794823592,
+      "manifests": {
+        "4530371": {
+          "gid": "2609870679971444465",
+          "size": 10,
+          "download": 64
+        },
+        "4530372": {
+          "gid": "8851588544192734460",
+          "size": 8732056044,
+          "download": 7723293568
+        }
+      }
+    },
+    {
       "buildId": "26385295",
       "branch": "public Make The Call: Football Manager 27 is live across platforms ",
       "timeUpdated": 1793639617,
