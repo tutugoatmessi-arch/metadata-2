@@ -1,0 +1,23 @@
+{
+  "_change_number": 33614331,
+  "_missing_token": false,
+  "_sha": "e7ab4f6af754e412dd974ca0ce5790bb71ff9411",
+  "_size": 357,
+  "appid": "2506300",
+  "common": {
+    "gameid": "2506300",
+    "name": "HELLDIVERS™ 2 - Русский (Russian)",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

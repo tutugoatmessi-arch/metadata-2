@@ -1,0 +1,26 @@
+{
+  "_change_number": 29091501,
+  "_missing_token": false,
+  "_sha": "0c364736a56d88115d3b1401b8f223372d7cf373",
+  "_size": 521,
+  "appid": "3702250",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3702250",
+    "name": "Star Wars Outlaws - Naboo Nobility Bundle Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

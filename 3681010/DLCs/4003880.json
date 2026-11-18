@@ -1,0 +1,58 @@
+{
+  "_change_number": 33681241,
+  "_missing_token": false,
+  "_sha": "1bf6882ef3a7b556883467a94f36d1a0315f4898",
+  "_size": 2465,
+  "appid": "4003880",
+  "common": {
+    "gameid": "4003880",
+    "name": "Nioh 3 - Hellfire Equipment Set (Hellfire Warrior Armor set + Hellfire Ninja Attire set)",
+    "name_localized": {
+      "brazilian": "Nioh 3 - Conjuntos de equipo Infernal (Conjuntos de Armadura Guerreiro Infernal + Conjuntos de Traje Ninja Infernal)",
+      "french": "Nioh 3 - Ensemble d'équipement ardent (Ensemble d'armure ardente de guerrier + Ensemble de tenue ardente de ninja) ",
+      "german": "Nioh 3 - Set der Höllenfeuer-Ausrüstung (Set der Höllenfeuer-Kriegerrüstung + Set der Höllenfeuer-Ninja-Gewänder)",
+      "italian": "Nioh 3 - Serie di equipaggiamento fuoco infernale (Serie di Armatura fuoco infernale + Serie di Tenuta ninja fuoco infernale)",
+      "japanese": "仁王３ - 「炎獄の防具セット」（炎獄の武者鎧 一式、炎獄の忍装束 一式）",
+      "koreana": "Nioh 3 - 「염옥의 방어구 세트」 (염옥의 무사 갑옷, 염옥의 닌자 복장 각각 1세트)",
+      "latam": "Nioh 3 - Conjuntos de equipo Fuegoaverno (Conjuntos de Gusoku de fuegoaverno + Conjuntos de Ropa ninja de fuegoaverno)",
+      "portuguese": "Nioh 3 - Conjuntos de equipo Infernal (Conjuntos de Armadura Guerreiro Infernal + Conjuntos de Traje Ninja Infernal)",
+      "russian": "Nioh 3 - Набор экипировки «Адское пламя» (Набор экипировки «Броня воина адского пламени» + Набор экипировки «Облачение ниндзя адского пламени»)",
+      "schinese": "仁王３ - “炎狱防具套装（炎狱武者之铠全套、炎狱忍者装束全套）”",
+      "spanish": "Nioh 3 - Conjuntos de equipo Fuegoaverno (Conjuntos de Gusoku de fuegoaverno + Conjuntos de Ropa ninja de fuegoaverno)",
+      "tchinese": "仁王３ - 「炎獄防具套裝（炎獄武士之鎧〈一套〉、炎獄忍者裝束〈一套〉）」"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3681010",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122",
+      "10": "1688",
+      "11": "4166",
+      "12": "3987",
+      "13": "1742",
+      "14": "4747",
+      "15": "4434",
+      "16": "7208",
+      "17": "4182",
+      "18": "3859",
+      "19": "1685",
+      "2": "4231",
+      "3": "29482",
+      "4": "1695",
+      "5": "1646",
+      "6": "4026",
+      "7": "1697",
+      "8": "4604",
+      "9": "1684"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3681010",
+    "mustownapptopurchase": "3681010"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "_change_number": 39908001,
+  "_missing_token": false,
+  "_sha": "0caa75dcb6c762468d0f4c59a3be3957216d75c9",
+  "_size": 3647,
+  "appid": "4357630",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "NBA 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "gameid": "4357630",
+    "genres": {
+      "0": "18"
+    },
+    "header_image": {
+      "english": "dc483847b9309d42ce9bd28d6b4b50b6bb8c0f67/header.jpg"
+    },
+    "name": "NBA 2K27 MyTEAM Bonus Offer: Season 2",
+    "name_localized": {
+      "brazilian": "Oferta de bônus do MyTEAM da Temporada 2 do NBA 2K27",
+      "czech": "Bonusová nabídka MyTEAM NBA 2K27: 2. sezóna",
+      "danish": "NBA 2K27 MyTEAM-bonustilbud: Season 2",
+      "dutch": "NBA 2K27 MyTEAM bonusaanbieding: Seizoen 2",
+      "english": "NBA 2K27 MyTEAM Bonus Offer: Season 2",
+      "finnish": "NBA 2K27 MyTEAM -bonustarjous – Kausi 2",
+      "french": "Offre bonus MyTEAM NBA 2K27 : Saison 2",
+      "german": "NBA 2K27 MyTEAM-Bonusangebot: Saison-2",
+      "italian": "Offerta bonus MyTEAM di NBA 2K27: Stagione 2",
+      "japanese": "『NBA 2K27』マイチーム追加コンテンツ：シーズン2",
+      "koreana": "NBA 2K27 MyTEAM 보너스 혜택: 시즌 2",
+      "latam": "Oferta de bonificación de MyTEAM de NBA 2K27: Temporada 2",
+      "norwegian": "NBA 2K27 MyTEAM-bonustilbud: Sesong 2",
+      "polish": "Oferta bonusowa NBA 2K27 MyTEAM: Sezon 2",
+      "portuguese": "Oferta de Bónus do NBA 2K27 MyTEAM: Temporada 2",
+      "russian": "Бонусное предложение NBA 2K27 MyTEAM: Season 2",
+      "schinese": "《NBA 2K27》梦幻球队额外奖励：第 2 季",
+      "spanish": "Oferta de bonificación de MyTEAM de NBA 2K27: Temporada 2",
+      "swedish": "NBA 2K27 MyTEAM-bonuserbjudande: Säsong 2",
+      "tchinese": "《NBA 2K27》MyTEAM特典優惠：第2季",
+      "turkish": "NBA 2K27 MyTEAM Bonus Teklifi: Season 2",
+      "ukrainian": "Бонусна пропозиція NBA 2K27 MyTEAM: Season 2"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4356430",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "b6447bda8bacad9cac143edc52658dea08bdd91c/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1792163087",
+    "store_asset_mtime": "1791187778",
+    "store_screenshot": "334bb2c50585f6b0230fed55986aaf750b1e99c7/ss_334bb2c50585f6b0230fed55986aaf750b1e99c7.jpg",
+    "store_tags": {
+      "0": "701",
+      "1": "599",
+      "10": "3841",
+      "11": "7368",
+      "12": "3843",
+      "13": "7481",
+      "14": "5055",
+      "15": "9204",
+      "16": "12472",
+      "17": "5711",
+      "18": "12095",
+      "19": "44868",
+      "2": "1746",
+      "3": "4191",
+      "4": "1775",
+      "5": "4747",
+      "6": "3859",
+      "7": "1685",
+      "8": "16250",
+      "9": "4182"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "4356430",
+    "mustownapptopurchase": "4356430",
+    "publisher": "2K"
+  }
+}

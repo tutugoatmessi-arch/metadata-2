@@ -1,0 +1,30 @@
+{
+  "_change_number": 39173799,
+  "_missing_token": false,
+  "_sha": "2397b60b93f5c7dbd3e55133d51d3593bad807fc",
+  "_size": 2118,
+  "appid": "3371870",
+  "common": {
+    "gameid": "3371870",
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Battle Attire: Tanjiro's Kimono (Entertainment District), Inosuke's Kimono (Entertainment District), and Uzui's Shinobi Attire",
+    "name_localized": {
+      "english": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Battle Attire: Tanjiro's Kimono (Entertainment District), Inosuke's Kimono (Entertainment District), and Uzui's Shinobi Attire",
+      "french": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Tenue de combat : kimono de Tanjirô/Inosuke (Quartier des plaisirs) et tenue de ninja d'Uzui",
+      "german": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Kampfkleidung: Tanjirōs/Inosukes Kimono (Vergnügungsviertel) und Uzuis Shinobi-Kleidung",
+      "italian": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Abiti da battaglia: Kimono di Tanjiro/Inosuke (Quartiere dei piaceri) e Abiti da shinobi di Uzui",
+      "japanese": "鬼滅の刃 ヒノカミ血風譚2: ゲーム内衣装「竈門炭治郎／嘴平伊之助【着物（遊郭潜入）】」「宇髄天元【忍装束】」",
+      "koreana": "귀멸의 칼날 히노카미 혈풍담2: 의상 '카마도 탄지로/하시비라 이노스케【옷(환락의 거리 잠입)】' '우즈이 텐겐【닌자복】'",
+      "schinese": "鬼灭之刃 火之神血风谭2: 游戏内服装：“灶门炭治郎／嘴平伊之助【和服（潜入游郭）】”“宇髓天元【忍者装束】”。",
+      "spanish": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Atuendos de combate: Kimono de Tanjirō (distrito de entretenimiento), Kimono de Inosuke (distrito de entretenimiento) y atuendo de ninja de Uzui",
+      "tchinese": "鬼滅之刃 火之神血風譚2: 遊戲內服裝「竈門炭治郎／嘴平伊之助【和服（潛入遊郭）】」、「宇髓天元【忍者服】」"
+    },
+    "parent": "2928600",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2928600",
+    "mustownapptopurchase": "2928600"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_change_number": 38709881,
+  "_missing_token": false,
+  "_sha": "690e11ddc9ad340b39d9d829e3deae7cb7e5de4a",
+  "_size": 1136,
+  "appid": "4691180",
+  "common": {
+    "gameid": "4691180",
+    "name": "NBA 2K27 Deluxe Bonus",
+    "name_localized": {
+      "brazilian": "Bônus Deluxe do NBA 2K27",
+      "czech": "Bonus pro NBA 2K27 Deluxe",
+      "danish": "NBA 2K27 Deluxe-bonus",
+      "dutch": "NBA 2K27 Deluxe bonus",
+      "french": "Bonus de luxe NBA 2K27",
+      "italian": "Bonus Deluxe di NBA 2K27",
+      "japanese": "『NBA 2K27』デラックス エディションの追加コンテンツ",
+      "koreana": "NBA 2K27 디럭스 보너스",
+      "latam": "Bonificación de NBA 2K27 Deluxe",
+      "norwegian": "NBA 2K27 Deluxe-bonus",
+      "portuguese": "Bónus Deluxe do NBA 2K27",
+      "russian": "Бонус NBA 2K27 Deluxe",
+      "schinese": "《NBA 2K27》豪华奖励",
+      "spanish": "Bonificación Deluxe de NBA 2K27",
+      "swedish": "NBA 2K27 Deluxe-bonus",
+      "tchinese": "《NBA 2K27》豪華版特典",
+      "ukrainian": "Бонус NBA 2K27 Deluxe"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4356430",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4356430",
+    "mustownapptopurchase": "4356430"
+  }
+}

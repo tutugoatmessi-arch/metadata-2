@@ -1,0 +1,19 @@
+{
+  "_change_number": 40854142,
+  "_missing_token": true,
+  "_sha": "b95e44655e9b39b50f9cac9d71d3fc814dde606e",
+  "_size": 297,
+  "appid": "4687050",
+  "common": {
+    "gameid": "4687050",
+    "name": "NBA 2K27 - High Resolution Textures",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4356430",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

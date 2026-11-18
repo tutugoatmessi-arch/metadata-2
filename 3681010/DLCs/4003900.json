@@ -1,0 +1,152 @@
+{
+  "_change_number": 33985511,
+  "_missing_token": false,
+  "_sha": "8dd1746d7c0a8de90045ad018340169c510f1cd5",
+  "_size": 4461,
+  "appid": "4003900",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "KOEI TECMO GAMES CO., LTD.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "KOEI TECMO GAMES CO., LTD.",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_38": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "gameid": "4003900",
+    "genres": {
+      "0": "1",
+      "1": "3",
+      "2": "37"
+    },
+    "header_image": {
+      "english": "101be0e3576b75336dea81439720e6b6123dd682/header.jpg"
+    },
+    "name": "Nioh 3 - Hellfrost Equipment Set (Hellfrost Warrior Armor set + Hellfrost Ninja Attire set)",
+    "name_localized": {
+      "brazilian": "Nioh 3 - Conjuntos de equipo Gélido (Conjuntos de Armadura Guerreiro Gélido + Conjuntos de Traje Ninja Gélido)",
+      "french": "Nioh 3 - Ensemble d'équipement glacial (Ensemble d'armure glaciale de guerrier + Ensemble de tenue glaciale de ninja)",
+      "german": "Nioh 3 - Set der Höllenfrost-Ausrüstung (Set der Höllenfrost-Kriegerrüstung + Set der Höllenfrost-Ninja-Gewänder)",
+      "italian": "Nioh 3 - Serie di equipaggiamento gelo infernale (Serie di Armatura gelo infernale + Serie di Tenuta ninja gelo infernale)",
+      "japanese": "仁王３ - 「氷獄の防具セット」（氷獄の武者鎧 一式、氷獄の忍装束 一式）",
+      "koreana": "Nioh 3 - 「빙옥의 방어구 세트」 (빙옥의 무사 갑옷, 빙옥의 닌자 복장 각각 1세트)",
+      "latam": "Nioh 3 - Conjuntos de equipo hieloaverno (Conjuntos de Armadura de hieloaverno + Conjuntos de Atuendo de hieloaverno)",
+      "portuguese": "Nioh 3 - Conjuntos de equipo Gélido (Conjuntos de Armadura Guerreiro Gélido + Conjuntos de Traje Ninja Gélido)",
+      "russian": "Nioh 3 - Набор экипировки «адской стужи» (Набор экипировки «Броня воина адской стужи» + Набор экипировки «Одеяния ниндзя адской стужи»)",
+      "schinese": "仁王３ - “冰狱防具套装（冰狱武者之铠全套、冰狱忍者装束全套）”",
+      "spanish": "Nioh 3 - Conjuntos de equipo hieloaverno (Conjuntos de Armadura de hieloaverno + Conjuntos de Atuendo de hieloaverno)",
+      "tchinese": "仁王３ - 「冰獄防具套裝（冰獄武士之鎧〈一套〉、冰獄忍者裝束〈一套〉）」"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3681010",
+    "primary_genre": "37",
+    "releasestate": "released",
+    "review_percentage": "90",
+    "review_score": "7",
+    "small_capsule": {
+      "english": "7cf7c9ee56c36a3c0fdc4414b0279dc736ea6a25/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1770354000",
+    "store_asset_mtime": "1770085651",
+    "store_screenshot": "0705ea2c8af7a1e34a1a1ac88bc3f3a3467afc92/ss_0705ea2c8af7a1e34a1a1ac88bc3f3a3467afc92.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "122",
+      "10": "1688",
+      "11": "4166",
+      "12": "3987",
+      "13": "1742",
+      "14": "4747",
+      "15": "4434",
+      "16": "7208",
+      "17": "4182",
+      "18": "3859",
+      "19": "1685",
+      "2": "4231",
+      "3": "29482",
+      "4": "1695",
+      "5": "1646",
+      "6": "4026",
+      "7": "1697",
+      "8": "4604",
+      "9": "1684"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "dlcforappid": "3681010",
+    "homepage": "https://teamninja-studio.com/nioh3/",
+    "isfreeapp": "1",
+    "mustownapptopurchase": "3681010",
+    "publisher": "KOEI TECMO GAMES CO., LTD."
+  }
+}

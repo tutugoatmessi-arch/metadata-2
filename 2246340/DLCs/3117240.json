@@ -1,0 +1,45 @@
+{
+  "_change_number": 37547821,
+  "_missing_token": false,
+  "_sha": "d1e39c6b04dd22c05c9b555b8f50a1057970fda1",
+  "_size": 2382,
+  "appid": "3117240",
+  "common": {
+    "gameid": "3117240",
+    "name": "Monster Hunter Wilds - Nameplate: Extra Frame — Russet Dawn",
+    "name_localized": {
+      "brazilian": "Monster Hunter Wilds - Placa de Nome: Moldura Extra — Aurora Avermelhada",
+      "danish": "Monster Hunter Wilds - Navneskilt: Extra Frame — Russet Dawn",
+      "dutch": "Monster Hunter Wilds - Naamplaatje: Extra Frame — Russet Dawn",
+      "finnish": "Monster Hunter Wilds - Nimikyltti: Extra Frame — Russet Dawn",
+      "french": "Monster Hunter Wilds - Plaque : Cadre bonus — Aube orangée",
+      "german": "Monster Hunter Wilds - Namensplakette: Extrarahmen – Rostrote Dämmerung",
+      "italian": "Monster Hunter Wilds - Targhetta: cornice extra - Alba ramata",
+      "japanese": "モンスターハンターワイルズ - ネームプレート「エクストラフレーム【朝靄と麻模様】」",
+      "koreana": "Monster Hunter Wilds - 이름표 '엑스트라 프레임 【적갈빛 삼잎 무늬】'",
+      "latam": "Monster Hunter Wilds - Placa: marco adicional: Amanecer rojizo",
+      "norwegian": "Monster Hunter Wilds - Navneskilt: Extra Frame – Russet Dawn",
+      "polish": "Monster Hunter Wilds - Plakietka: dodatkowa ramka – rdzawy świt",
+      "portuguese": "Monster Hunter Wilds - Chapa de identificação: Extra Frame — Russet Dawn",
+      "russian": "Monster Hunter Wilds - Дополнительная рамка к табличке для имени: «Рыжеющий рассвет»",
+      "schinese": "Monster Hunter Wilds - 名称牌“特别边框【朝霭与麻叶纹】”",
+      "spanish": "Monster Hunter Wilds - Placa: Marco adicional de amanecer rojizo",
+      "swedish": "Monster Hunter Wilds - Namnskylt: Extra ram — Russet Dawn",
+      "tchinese": "Monster Hunter Wilds - 名牌「額外邊框【朝霞與麻葉花紋】」",
+      "thai": "Monster Hunter Wilds - ป้ายชื่อ: กรอบพิเศษ — อรุณสีสนิม",
+      "turkish": "Monster Hunter Wilds - İsimlik: Ekstra Çerçeve - Kızıl Şafak",
+      "ukrainian": "Monster Hunter Wilds - Табличка з іменем: додаткова рамка «Червоний світанок»"
+    },
+    "parent": "2246340",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2246340",
+    "mustownapptopurchase": "2246340"
+  }
+}

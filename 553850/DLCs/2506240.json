@@ -1,0 +1,23 @@
+{
+  "_change_number": 33614316,
+  "_missing_token": false,
+  "_sha": "b387982b717dba71a38bca8888feb63c992db557",
+  "_size": 367,
+  "appid": "2506240",
+  "common": {
+    "gameid": "2506240",
+    "name": "HELLDIVERS™ 2 - Español-España (Spanish - Spain)",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

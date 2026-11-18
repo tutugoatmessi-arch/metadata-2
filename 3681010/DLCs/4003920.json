@@ -1,0 +1,58 @@
+{
+  "_change_number": 34066387,
+  "_missing_token": false,
+  "_sha": "14b4b07261cb8cbbe7a5ec0cf37847b2ebf69822",
+  "_size": 1245,
+  "appid": "4003920",
+  "common": {
+    "gameid": "4003920",
+    "name": "Nioh 3 - Kodama Netsuke Charm",
+    "name_localized": {
+      "brazilian": "Nioh 3 - Amuleto Netsuke de Kodama",
+      "french": "Nioh 3 - Netsuke Kodama",
+      "german": "Nioh 3 - Kodama-Netsuke",
+      "italian": "Nioh 3 - Netsuke Kodama",
+      "japanese": "仁王３ - 木霊の根付",
+      "koreana": "Nioh 3 - 고다마의 네쓰케",
+      "latam": "Nioh 3 - Netsuke de kodama",
+      "portuguese": "Nioh 3 - Amuleto Netsuke de Kodama",
+      "russian": "Nioh 3 - Нэцкэ «кодама»",
+      "schinese": "仁王３ - 木灵吊饰",
+      "spanish": "Nioh 3 - Netsuke de kodama",
+      "tchinese": "仁王３ - 木靈吊飾"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3681010",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122",
+      "10": "1688",
+      "11": "4166",
+      "12": "3987",
+      "13": "1742",
+      "14": "4747",
+      "15": "4434",
+      "16": "7208",
+      "17": "4182",
+      "18": "3859",
+      "19": "1685",
+      "2": "4231",
+      "3": "29482",
+      "4": "1695",
+      "5": "1646",
+      "6": "4026",
+      "7": "1697",
+      "8": "4604",
+      "9": "1684"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3681010",
+    "mustownapptopurchase": "3681010"
+  }
+}

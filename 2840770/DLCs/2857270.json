@@ -1,0 +1,26 @@
+{
+  "_change_number": 26517061,
+  "_missing_token": false,
+  "_sha": "84e91e510afb1748cb903269036fa8dc6e7c0f7f",
+  "_size": 519,
+  "appid": "2857270",
+  "common": {
+    "exfgls": "9",
+    "gameid": "2857270",
+    "name": "Avatar: Frontiers of Pandora  Season Pass Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

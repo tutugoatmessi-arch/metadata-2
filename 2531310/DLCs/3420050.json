@@ -1,0 +1,19 @@
+{
+  "_change_number": 28374651,
+  "_missing_token": false,
+  "_sha": "1e06a810ffda59a413b0cb8bd9dcefa5bbf67772",
+  "_size": 325,
+  "appid": "3420050",
+  "common": {
+    "gameid": "3420050",
+    "name": "The Last of Us™ Part II Remastered - Pre-purchase Entitlements",
+    "parent": "2531310",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2531310",
+    "mustownapptopurchase": "2531310"
+  }
+}

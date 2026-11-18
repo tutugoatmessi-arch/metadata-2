@@ -1,0 +1,122 @@
+{
+  "_change_number": 40347446,
+  "_missing_token": false,
+  "_sha": "7d1a6b1d0088308a461094c3ceafe5aef10f391d",
+  "_size": 2994,
+  "appid": "4181650",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "WWE 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_9": "1"
+    },
+    "exfgls": "9",
+    "gameid": "4181650",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "57f7bc98d55cdc895338081878e03333819f92d4/header.jpg"
+    },
+    "name": "WWE 2K26 Ringside Pass Premium Season 6",
+    "name_localized": {
+      "brazilian": "6ª Temporada do Ringside Pass premium do WWE 2K26",
+      "french": "Pass Ringside Premium saison 6 WWE 2K26",
+      "german": "WWE 2K26 Ringside Pass Premium Saison 6",
+      "italian": "Pass Bordo Ring Premium Stagione 6 WWE 2K26",
+      "japanese": "『WWE 2K26』リングサイドパス プレミアム シーズン6",
+      "koreana": "WWE 2K26 링사이드 패스 프리미엄 시즌 6",
+      "latam": "Pase Ringside prémium Temporada 6 de WWE 2K26",
+      "norwegian": "WWE 2K26 Ringside Pass Premium for sesong 6",
+      "portuguese": "WWE 2K26 Ringside Pass Premium Temporada 6",
+      "russian": "Абонемент WWE 2K26 Ringside Pass Premium Season 6",
+      "schinese": "《WWE 2K26》摔角场高级通行证第6季",
+      "spanish": "WWE 2K26 Pase Ringside Prémium de la Temporada 6",
+      "tchinese": "《WWE 2K26》高級擂台邊通行證第6季",
+      "ukrainian": "WWE 2K26 Ringside Pass Premium на сезон 6"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3717070",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "38a77d9a66dab9cce48c2a8e3577f6f6243e10fb/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1793206712",
+    "store_asset_mtime": "1791579271",
+    "store_screenshot": "3c754a9bb555f453b91e5be109ef84d03ca0b001/ss_3c754a9bb555f453b91e5be109ef84d03ca0b001.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "701",
+      "2": "6506",
+      "3": "47827",
+      "4": "3810",
+      "5": "3859",
+      "6": "4747"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3717070",
+    "homepage": "https://wwe.2k.com/",
+    "mustownapptopurchase": "3717070",
+    "publisher": "2K"
+  }
+}

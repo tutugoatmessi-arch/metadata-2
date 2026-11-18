@@ -1,0 +1,30 @@
+{
+  "_change_number": 26882670,
+  "_missing_token": false,
+  "_sha": "dd3c1db774c9bed21d15c99f1ed2794c5832d4d0",
+  "_size": 577,
+  "appid": "3087130",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3087130",
+    "name": "Avatar: Frontiers of Pandora The Sky Breaker DLC Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

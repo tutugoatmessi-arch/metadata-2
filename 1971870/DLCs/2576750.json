@@ -1,0 +1,29 @@
+{
+  "_change_number": 26375805,
+  "_missing_token": false,
+  "_sha": "b30775b087cfbdae996a2124a541fe760b66c9c0",
+  "_size": 586,
+  "appid": "2576750",
+  "common": {
+    "associations": {},
+    "clienticon": "b3fd3c2127aace60a30a88b7658336a80f530195",
+    "clienttga": "86b027d7ac2e71adc6f00b2c6e983dfea2eac4e9",
+    "gameid": "2576750",
+    "icon": "4c9e539fee479e7a10ae1cbc401b450c6813d199",
+    "name": "MK1: Kollector's Edition Liu Kang Skin",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1971870",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1971870",
+    "mustownapptopurchase": "1971870"
+  }
+}

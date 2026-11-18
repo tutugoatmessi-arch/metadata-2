@@ -1,0 +1,23 @@
+{
+  "_change_number": 25846781,
+  "_missing_token": false,
+  "_sha": "60f6f57efde0c0d213f9d9462e76be2f23a3cfb5",
+  "_size": 456,
+  "appid": "3230640",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3230640",
+    "name": "Assassin's Creed Mirage - Map Pack Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

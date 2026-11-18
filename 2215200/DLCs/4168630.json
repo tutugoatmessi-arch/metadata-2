@@ -1,0 +1,47 @@
+{
+  "_change_number": 39278141,
+  "_missing_token": false,
+  "_sha": "e1dd94547d617d0140786ed7f32fe922f0985163",
+  "_size": 1368,
+  "appid": "4168630",
+  "common": {
+    "clienticon": "b9489f1f2de64a0cbf766e3dc51f6244eb7fab19",
+    "gameid": "4168630",
+    "icon": "b9489f1f2de64a0cbf766e3dc51f6244eb7fab19",
+    "name": "Batman Beyond Pack",
+    "name_localized": {
+      "brazilian": "Pacote Batman do Futuro",
+      "danish": "Batman Beyond Pack",
+      "dutch": "Batman Beyond-pakket",
+      "english": "Batman Beyond Pack",
+      "finnish": "Batman Beyond Pack",
+      "french": "Batman Beyond Pack",
+      "german": "„Batman of the Future“-Paket",
+      "italian": "Pacchetto Batman of the Future",
+      "japanese": "バットマン・ビヨンド パック",
+      "koreana": "배트맨 비욘드 팩",
+      "latam": "Paquete de Batman del futuro",
+      "norwegian": "Batman Beyond Pack",
+      "polish": "Zestaw Batmana Przyszłości",
+      "portuguese": "Pack Batman Beyond",
+      "russian": "Набор \"Бэтмен будущего\"",
+      "schinese": "“未来蝙蝠侠”包",
+      "spanish": "Pack de Batman del Futuro",
+      "swedish": "Batman Beyond Pack",
+      "tchinese": "未來蝙蝠俠包",
+      "turkish": "Batman Beyond Paketi",
+      "ukrainian": "Набір «Бетмен майбутнього»"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2215200",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2215200",
+    "mustownapptopurchase": "2215200"
+  }
+}

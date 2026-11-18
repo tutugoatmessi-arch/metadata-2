@@ -1,0 +1,23 @@
+{
+  "_change_number": 27102803,
+  "_missing_token": false,
+  "_sha": "c986f1ce6930ad3e8a7eae7ba24a31f754df3fdb",
+  "_size": 472,
+  "appid": "3230760",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3230760",
+    "name": "Assassin's Creed Mirage -  Master Assassin Edition Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

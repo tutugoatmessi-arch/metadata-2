@@ -1,0 +1,45 @@
+{
+  "_change_number": 37547829,
+  "_missing_token": false,
+  "_sha": "01938b36a89dd884e598c200158cc74640d3aac6",
+  "_size": 2236,
+  "appid": "3117070",
+  "common": {
+    "gameid": "3117070",
+    "name": "Monster Hunter Wilds - BGM: Proof of a Hero (2025 Recording)",
+    "name_localized": {
+      "brazilian": "Monster Hunter Wilds - Música de Fundo: Proof of a Hero (2025)",
+      "danish": "Monster Hunter Wilds - Baggrundsmusik: Proof of a Hero (2025-optagelse)",
+      "dutch": "Monster Hunter Wilds - Achtergrondmuziek: Proof of a Hero (2025 Recording)",
+      "finnish": "Monster Hunter Wilds - BGM: Proof of a Hero (2025-tallenne)",
+      "french": "Monster Hunter Wilds - Musique : Proof of a Hero (version 2025)",
+      "german": "Monster Hunter Wilds - Musik: Proof of a Hero (2025 Recording)",
+      "italian": "Monster Hunter Wilds - Brano: Proof of a Hero (versione 2025)",
+      "japanese": "モンスターハンターワイルズ - BGM「英雄の証 ―2025 再録―」",
+      "koreana": "Monster Hunter Wilds - BGM 'Proof of a Hero (2025 Recording)'",
+      "latam": "Monster Hunter Wilds - Banda sonora: Proof of a Hero (grabación de 2025)",
+      "norwegian": "Monster Hunter Wilds - BGM: Proof of a Hero (2025-opptak)",
+      "polish": "Monster Hunter Wilds - Muzyka: Proof of a Hero (nagranie z 2025)",
+      "portuguese": "Monster Hunter Wilds - Música de fundo: Proof of a Hero (gravação de 2025)",
+      "russian": "Monster Hunter Wilds - Фоновая музыка: Proof of a Hero (запись 2025 г.)",
+      "schinese": "Monster Hunter Wilds - 背景音乐“Proof of a Hero (2025 Recording)”",
+      "spanish": "Monster Hunter Wilds - Banda sonora: Proof of a Hero (grabación de 2025)",
+      "swedish": "Monster Hunter Wilds - Musik: Proof of a Hero (2025 Recording)",
+      "tchinese": "Monster Hunter Wilds - 背景音樂《Proof of a Hero (2025 Recording)》",
+      "thai": "Monster Hunter Wilds - เพลงประกอบ: Proof of a Hero (2025 Recording)",
+      "turkish": "Monster Hunter Wilds - Arka Plan Kanıtı: Bir Kahramanın Kanıtı (2025 Kaydı)",
+      "ukrainian": "Monster Hunter Wilds - Фонова музика: Proof of a Hero (запис 2025 р.)"
+    },
+    "parent": "2246340",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2246340",
+    "mustownapptopurchase": "2246340"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_change_number": 36124568,
+  "_missing_token": false,
+  "_sha": "e41b53e3357fc6bad425b834c916a6704ac33390",
+  "_size": 1636,
+  "appid": "4168610",
+  "common": {
+    "clienticon": "aad0d14bcb4d6c21a23e6cb5567435ff69ed1a6c",
+    "gameid": "4168610",
+    "icon": "aad0d14bcb4d6c21a23e6cb5567435ff69ed1a6c",
+    "name": "The Dark Knight Returns Suit",
+    "name_localized": {
+      "brazilian": "Traje do Batman \"O Cavaleiro das Trevas\"",
+      "danish": "The Dark Knight Returns-dragt",
+      "dutch": "The Dark Knight Returns-kostuum",
+      "english": "The Dark Knight Returns Suit",
+      "finnish": "The Dark Knight Returns -asu",
+      "french": "Bat-costume The Dark Knight Returns",
+      "german": "„Die Rückkehr des Dunklen Ritters“-Batanzug",
+      "italian": "Costume Il ritorno del Cavaliere Oscuro",
+      "japanese": "ダークナイト・リターンズ スーツ",
+      "koreana": "다크 나이트 리턴즈 슈트",
+      "latam": "Traje Regresa el Caballero de la Noche",
+      "norwegian": "The Dark Knight Returns Suit",
+      "polish": "Kostium „Mroczny Rycerz powraca”",
+      "portuguese": "Traje The Dark Knight Returns",
+      "russian": "Костюм \"Возвращение Темного рыцаря\"",
+      "schinese": "“黑暗骑士归来”套装",
+      "spanish": "Battraje \"El regreso del Caballero Oscuro\"",
+      "swedish": "The Dark Knight Returns Suit",
+      "tchinese": "「黑暗騎士歸來」套裝",
+      "turkish": "Kara Şövalye Dönüyor Kostümü",
+      "ukrainian": "Костюм «Темний лицар повертається»"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2215200",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2215200",
+    "mustownapptopurchase": "2215200"
+  }
+}

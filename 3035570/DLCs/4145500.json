@@ -1,0 +1,23 @@
+{
+  "_change_number": 37293663,
+  "_missing_token": false,
+  "_sha": "1ac5c85eae492c54ee626be0e917a8e0c3310cf9",
+  "_size": 468,
+  "appid": "4145500",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4145500",
+    "name": "Assassin's Creed Mirage - Desert Scorpion Pack Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

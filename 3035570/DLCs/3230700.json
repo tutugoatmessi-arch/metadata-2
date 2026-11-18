@@ -1,0 +1,23 @@
+{
+  "_change_number": 25846781,
+  "_missing_token": false,
+  "_sha": "66a9335bf3581228e8a3456bb013256d3828e1b4",
+  "_size": 462,
+  "appid": "3230700",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3230700",
+    "name": "Assassin's Creed Mirage - Lightning Pack Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

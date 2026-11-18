@@ -1,0 +1,39 @@
+{
+  "_change_number": 35945347,
+  "_missing_token": false,
+  "_sha": "47bfb4d760d558db748bbfe4cfac52761fd4828b",
+  "_size": 574,
+  "appid": "3497710",
+  "common": {
+    "gameid": "3497710",
+    "name": "MK1: MKT Skins",
+    "parent": "1971870",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "1743",
+      "1": "19",
+      "10": "4182",
+      "11": "4747",
+      "12": "4975",
+      "13": "4166",
+      "14": "3878",
+      "15": "3841",
+      "16": "1667",
+      "17": "4191",
+      "2": "3859",
+      "3": "4345",
+      "4": "4736",
+      "5": "6915",
+      "6": "4667",
+      "7": "1775",
+      "8": "1773",
+      "9": "1742"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1971870",
+    "mustownapptopurchase": "1971870"
+  }
+}

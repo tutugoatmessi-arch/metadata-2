@@ -1,0 +1,21 @@
+{
+  "_change_number": 40387449,
+  "_missing_token": false,
+  "_sha": "b5b11c392e8667303ea2d4abac2b8f8269bb4304",
+  "_size": 334,
+  "appid": "5529860",
+  "common": {
+    "exfgls": "9",
+    "gameid": "5529860",
+    "name": "Football Manager 27 - Free Weekend",
+    "parent": "4530370",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4530370",
+    "mustownapptopurchase": "4530370"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_change_number": 26899744,
+  "_missing_token": false,
+  "_sha": "990d6e13051e79230e0abb24869cc3bb720a443d",
+  "_size": 577,
+  "appid": "3104180",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3104180",
+    "name": "Prince of Persia The Lost Crown - Complete Edition Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2751000",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2751000",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2751000",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

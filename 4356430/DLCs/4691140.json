@@ -1,0 +1,42 @@
+{
+  "_change_number": 38709881,
+  "_missing_token": false,
+  "_sha": "09124181617ff75fa649205299ab48e7b805a355",
+  "_size": 1152,
+  "appid": "4691140",
+  "common": {
+    "gameid": "4691140",
+    "name": "NBA 2K27 Bonus Pack",
+    "name_localized": {
+      "brazilian": "Pacote Bônus do NBA 2K27",
+      "czech": "Bonusový balíček NBA2K27",
+      "danish": "NBA 2K27-bonuspakke",
+      "finnish": "NBA 2K27 -bonuspaketti",
+      "french": "Pack bonus NBA 2K27",
+      "italian": "Pacchetto bonus NBA 2K27",
+      "japanese": "『NBA 2K27』追加コンテンツパック",
+      "koreana": "NBA 2K27 보너스 팩",
+      "latam": "Packs de bonificación de NBA 2K27",
+      "norwegian": "NBA 2K27 bonuspakke",
+      "polish": "Pakiet NBA 2K27 Bonus Pack",
+      "portuguese": "Pack de Bónus NBA 2K27",
+      "russian": "Бонусный набор NBA 2K27",
+      "schinese": "《NBK 2K27》奖励包",
+      "spanish": "Pack de Bonificación de NBA 2K27",
+      "tchinese": "《NBA 2K27》特典包",
+      "turkish": "NBA 2K27 Bonus Paketi",
+      "ukrainian": "Бонусний набір NBA 2K27"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4356430",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4356430",
+    "mustownapptopurchase": "4356430"
+  }
+}

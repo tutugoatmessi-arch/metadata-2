@@ -1,0 +1,26 @@
+{
+  "_change_number": 29091501,
+  "_missing_token": false,
+  "_sha": "36102feb67d6e45e923783067a583abbf15dda34",
+  "_size": 519,
+  "appid": "3702270",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3702270",
+    "name": "Star Wars Outlaws - Desert Nomad Bundle Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

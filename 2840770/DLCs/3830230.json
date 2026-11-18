@@ -1,0 +1,27 @@
+{
+  "_change_number": 32886660,
+  "_missing_token": false,
+  "_sha": "e6f8d68f46e488142a43c14d6e7e32ffe77a0807",
+  "_size": 561,
+  "appid": "3830230",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3830230",
+    "name": "From The Ashes Expansion - Avatar: Frontiers of Pandora™ Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

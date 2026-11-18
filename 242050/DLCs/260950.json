@@ -1,0 +1,121 @@
+{
+  "_change_number": 41204089,
+  "_missing_token": true,
+  "_sha": "8f2677269e18e6b544f19a79570c24cd0b5077d9",
+  "_size": 2244,
+  "appid": "260950",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Ubisoft Montreal",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Ubisoft",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1"
+    },
+    "exfgls": "9",
+    "gameid": "260950",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "metacritic_name": "Assassin's Creed Black Flag - Season Pass",
+    "name": "Assassin's Creed Black Flag - Season Pass",
+    "parent": "242050",
+    "primary_genre": "25",
+    "releasestate": "released",
+    "review_percentage": "58",
+    "review_score": "5",
+    "section_type": "ownersonly",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1382716541",
+    "store_screenshot": "ss_28c7e26f89d2cb73625dbf6a5f65f1de32f1a6a6.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "danish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "finnish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

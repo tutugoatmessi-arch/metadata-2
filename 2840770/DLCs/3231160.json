@@ -1,0 +1,163 @@
+{
+  "_change_number": 32896215,
+  "_missing_token": false,
+  "_sha": "dc27a4418e8b45a6dd07f3b5d4d310e01446c97b",
+  "_size": 4422,
+  "appid": "3231160",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Massive Entertainment – A Ubisoft Studio",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Ubisoft",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_35": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "exfgls": "9",
+    "gameid": "3231160",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "Storm Chaser Starter Pack - Avatar: Frontiers of Pandora™",
+    "name_localized": {
+      "brazilian": "Pacote de Iniciante Caça-Tempestade – Avatar: Frontiers of Pandora™",
+      "danish": "Storm Chaser-startpakke – Avatar: Frontiers of Pandora™",
+      "finnish": "Storm Chaser -aloituspaketti – Avatar: Frontiers of Pandora™",
+      "french": "Pack de démarrage Chasseur de tempêtes – Avatar: Frontiers of Pandora™",
+      "german": "Sturmjäger-Starterpaket – Avatar: Frontiers of Pandora™",
+      "italian": "Pacchetto iniziale Cacciatore di tempeste - Avatar: Frontiers of Pandora™",
+      "japanese": "「ストームチェイサー」スターターパック - 『アバター:フロンティア・オブ・パンドラ』",
+      "koreana": "폭풍 추격자 스타터 팩 - 아바타: 프론티어 오브 판도라",
+      "polish": "Pakiet startowy „Łowca burz” – Avatar: Frontiers of Pandora™",
+      "portuguese": "Pacote de Iniciante Caça-Tempestade – Avatar: Frontiers of Pandora™",
+      "russian": "Стартовый набор «Воитель бури» для игры «Аватар: Рубежи Пандоры™»",
+      "schinese": "逐风勇士新手包 - 《阿凡达：潘多拉边境™》",
+      "spanish": "Paquete de principiante Cazador de tormentas de Avatar: Frontiers of Pandora™",
+      "swedish": "Storm Chaser-startpaket – Avatar: Frontiers of Pandora™",
+      "tchinese": "《阿凡達：潘朵拉邊境》追逐風暴者新手組合包",
+      "turkish": "Storm Chaser Başlangıç Paketi - Avatar: Frontiers of Pandora™",
+      "ukrainian": "Набір Storm Chaser Starter Pack для Avatar: Frontiers of Pandora™"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "e6681f2ddc805ee282f9da94f711973eba5bdae8/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1732780892",
+    "store_asset_mtime": "1738690773",
+    "store_screenshot": "ss_2a57cc03774fb8c847e499ffcbda8b0ca912153d.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "4191",
+      "11": "1742",
+      "12": "4747",
+      "13": "4182",
+      "14": "3859",
+      "15": "7208",
+      "2": "1774",
+      "3": "1695",
+      "4": "3834",
+      "5": "3839",
+      "6": "3843",
+      "7": "3942",
+      "8": "4166",
+      "9": "9204"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Massive Entertainment – A Ubisoft Studio",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2840770",
+    "homepage": "https://www.ubisoft.com/en-us/game/avatar/frontiers-of-pandora",
+    "mustownapptopurchase": "2840770",
+    "publisher": "Ubisoft"
+  }
+}

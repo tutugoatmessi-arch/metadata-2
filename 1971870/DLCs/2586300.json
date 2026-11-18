@@ -1,0 +1,23 @@
+{
+  "_change_number": 29005853,
+  "_missing_token": false,
+  "_sha": "2a5aebccaf92b97916a49602f1998700fd960e32",
+  "_size": 378,
+  "appid": "2586300",
+  "common": {
+    "associations": {},
+    "gameid": "2586300",
+    "name": "Premium Edition 1250 Dragon Krystals",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1971870",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1971870",
+    "mustownapptopurchase": "1971870"
+  }
+}

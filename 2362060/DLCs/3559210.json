@@ -1,0 +1,30 @@
+{
+  "_change_number": 33628164,
+  "_missing_token": false,
+  "_sha": "862c35b6a42ffacada223409cf70b069797edc73",
+  "_size": 781,
+  "appid": "3559210",
+  "common": {
+    "gameid": "3559210",
+    "name": "CODE VEIN II - Custom Outfit Pack",
+    "name_localized": {
+      "brazilian": "CODE VEIN II - Pacote de Trajes Personalizados",
+      "japanese": "CODE VEIN II  - カスタムコーディネートセット",
+      "koreana": "코드 베인 II - 커스텀 코디네이트 세트",
+      "latam": "CODE VEIN II - Paquete de atuendo personalizado",
+      "schinese": "CODE VEIN 噬血代码 II - 自定义搭配套组",
+      "tchinese": "CODE VEIN 噬血代碼 II - 自訂搭配套組"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2362060",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2362060",
+    "mustownapptopurchase": "2362060"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_change_number": 31955461,
+  "_missing_token": false,
+  "_sha": "530dfc664b97092f4fd093089df9bb77ff9e9c16",
+  "_size": 534,
+  "appid": "3915920",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3915920",
+    "name": "Avatar: Frontiers of Pandora - Preorder DLC Maximus  - Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

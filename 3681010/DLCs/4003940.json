@@ -1,0 +1,58 @@
+{
+  "_change_number": 38340384,
+  "_missing_token": false,
+  "_sha": "9dfb29c964ffbe52b19ac1edec83e9489a6e9652",
+  "_size": 1264,
+  "appid": "4003940",
+  "common": {
+    "gameid": "4003940",
+    "name": "Nioh 3 - Chijiko Netsuke Charm",
+    "name_localized": {
+      "brazilian": "Nioh 3 - Amuleto Netsuke de Chijiko",
+      "french": "Nioh 3 - Netsuke Chijiko",
+      "german": "Nioh 3 - Chijiko-Netsuke",
+      "italian": "Nioh 3 - Netsuke Chijiko",
+      "japanese": "仁王３ - 千々古の根付",
+      "koreana": "Nioh 3 - 지지코의 네쓰케",
+      "latam": "Nioh 3 - Netsuke de chijiko",
+      "portuguese": "Nioh 3 - Amuleto Netsuke de Chijiko",
+      "russian": "Nioh 3 - Нэцкэ «Тидзико»",
+      "schinese": "仁王３ - 千千古吊饰",
+      "spanish": "Nioh 3 - Netsuke de chijiko",
+      "tchinese": "仁王３ - 千千古吊飾"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3681010",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122",
+      "10": "1688",
+      "11": "4166",
+      "12": "3987",
+      "13": "1742",
+      "14": "4747",
+      "15": "4434",
+      "16": "7208",
+      "17": "4182",
+      "18": "3859",
+      "19": "1685",
+      "2": "4231",
+      "3": "29482",
+      "4": "1695",
+      "5": "1646",
+      "6": "4026",
+      "7": "1697",
+      "8": "4604",
+      "9": "1684"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3681010",
+    "mustownapptopurchase": "3681010"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_change_number": 33614327,
+  "_missing_token": false,
+  "_sha": "1c8d78d9e70c93762f74e37c431d62c3401356ae",
+  "_size": 378,
+  "appid": "2506270",
+  "common": {
+    "associations": {},
+    "gameid": "2506270",
+    "name": "HELLDIVERS™ 2 - 日本語 (Japanese)",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

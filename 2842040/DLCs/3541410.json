@@ -1,0 +1,26 @@
+{
+  "_change_number": 32444630,
+  "_missing_token": false,
+  "_sha": "c24931e01e04430f662e462564474b8952e53728",
+  "_size": 524,
+  "appid": "3541410",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3541410",
+    "name": "Star Wars Outlaws - A Pirate's Fortune DLC - Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

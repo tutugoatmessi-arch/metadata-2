@@ -1,0 +1,37 @@
+{
+  "_change_number": 39361302,
+  "_missing_token": false,
+  "_sha": "297320cefb1722d804f3ab6390abe024638d8854",
+  "_size": 1150,
+  "appid": "3606490",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3606490",
+    "name": "Call of Duty®: Black Ops 7 - Multiplayer",
+    "name_localized": {
+      "brazilian": "Call of Duty®: Black Ops 7 - Multijogador",
+      "french": "Call of Duty®: Black Ops 7 - Multijoueur",
+      "german": "Call of Duty®: Black Ops 7 - Mehrspieler",
+      "italian": "Call of Duty®: Black Ops 7 - Multigiocatore",
+      "japanese": "Call of Duty®: Black Ops 7 - マルチプレイヤーモード",
+      "koreana": "콜 오브 듀티®: 블랙 옵스 7 - 멀티플레이어",
+      "latam": "Call of Duty®: Black Ops 7 - Multijugador",
+      "polish": "Call of Duty®: Black Ops 7 - Tryb Wieloosobowy",
+      "russian": "Call of Duty®: Black Ops 7 - СЕТЕВАЯ ИГРА",
+      "spanish": "Call of Duty®: Black Ops 7 - Multijugador",
+      "tchinese": "《決勝時刻®：黑色行動 7》－多人遊戲"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1938090",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "additionalcontentforapps": {},
+    "dlcforappid": "1938090",
+    "mustownapptopurchase": "1938090"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_change_number": 31310318,
+  "_missing_token": false,
+  "_sha": "d13f02bbcec5f49f72627b3ce313f23970c82f3b",
+  "_size": 341,
+  "appid": "3165780",
+  "common": {
+    "exfgls": "1",
+    "gameid": "3165780",
+    "name": "HELLDIVERS™ 2 - Warbond Token",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_change_number": 40091617,
+  "_missing_token": false,
+  "_sha": "a970d80bf0ef1df3465e825e7b90b95362e159e8",
+  "_size": 342,
+  "appid": "3470720",
+  "common": {
+    "gameid": "3470720",
+    "name": "RoadCraft - Rebuild DLC",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2104890",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2104890",
+    "mustownapptopurchase": "2104890"
+  }
+}

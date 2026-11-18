@@ -1,0 +1,23 @@
+{
+  "_change_number": 33635662,
+  "_missing_token": false,
+  "_sha": "a4cadf9b8b8165271e934d610e1363ea3e500f73",
+  "_size": 362,
+  "appid": "4199890",
+  "common": {
+    "gameid": "4199890",
+    "name": "HELLDIVERS™ 2 - 中文 (Chinese)",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "",
+    "parent": "553850",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

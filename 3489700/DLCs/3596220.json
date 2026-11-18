@@ -1,0 +1,19 @@
+{
+  "_change_number": 29517247,
+  "_missing_token": false,
+  "_sha": "76b35d10bfaa708f6945bcd172502571916384c0",
+  "_size": 298,
+  "appid": "3596220",
+  "common": {
+    "gameid": "3596220",
+    "name": "Stellar Blade™ Pre-purchase Rewards",
+    "parent": "3489700",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3489700",
+    "mustownapptopurchase": "3489700"
+  }
+}

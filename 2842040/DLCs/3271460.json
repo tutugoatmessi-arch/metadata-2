@@ -1,0 +1,26 @@
+{
+  "_change_number": 32444623,
+  "_missing_token": false,
+  "_sha": "b9ad04d02df5ad7989c56268d2207f14c128872a",
+  "_size": 516,
+  "appid": "3271460",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3271460",
+    "name": "Star Wars Outlaws - Standard Edition - Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "2"
+  }
+}

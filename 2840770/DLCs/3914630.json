@@ -1,0 +1,27 @@
+{
+  "_change_number": 32886435,
+  "_missing_token": false,
+  "_sha": "86b722382ab4be83f852af916ebd032aca62befe",
+  "_size": 561,
+  "appid": "3914630",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3914630",
+    "name": "Avatar: Frontiers of Pandora - Valley of Mo'ara Starter pack Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

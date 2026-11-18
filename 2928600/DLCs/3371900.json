@@ -1,0 +1,30 @@
+{
+  "_change_number": 32974084,
+  "_missing_token": false,
+  "_sha": "4d168dff325cbf97bc6273ed1a4207362cc59b6f",
+  "_size": 1680,
+  "appid": "3371900",
+  "common": {
+    "gameid": "3371900",
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Character Unlock Keys: Mitsuri Kanroji and Muichiro Tokito",
+    "name_localized": {
+      "english": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Character Unlock Keys: Mitsuri Kanroji and Muichiro Tokito",
+      "french": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Clés de déblocage de personnages : Kanroji Mitsuri et Tokitô Muichirô",
+      "german": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Charakterfreischaltschlüssel: Kanroji Mitsuri und Tokitō Muichirō",
+      "italian": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Codici di sblocco personaggi: Kanroji Mitsuri e Tokito Muichiro",
+      "japanese": "鬼滅の刃 ヒノカミ血風譚2: プレイアブルキャラクター早期解放権「甘露寺蜜璃」「時透無一郎」",
+      "koreana": "귀멸의 칼날 히노카미 혈풍담2: 플레이어블 캐릭터 조기 해방권 '칸로지 미츠리' '토키토 무이치로'",
+      "schinese": "鬼灭之刃 火之神血风谭2: 可操作角色提前解锁权：“甘露寺蜜璃”“时透无一郎”。",
+      "spanish": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Claves de desbloqueo de personaje: Mitsuri Kanroji y Muichirō Tokitō",
+      "tchinese": "鬼滅之刃 火之神血風譚2: 可使用角色早期開放權「甘露寺蜜璃」、「時透無一郎」"
+    },
+    "parent": "2928600",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2928600",
+    "mustownapptopurchase": "2928600"
+  }
+}

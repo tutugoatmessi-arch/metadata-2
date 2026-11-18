@@ -1,0 +1,140 @@
+{
+  "_change_number": 39584006,
+  "_missing_token": false,
+  "_sha": "ce2505a48f848e14cb07e524759e7bf25f415080",
+  "_size": 3340,
+  "appid": "5149920",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "WWE 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_60": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "exfgls": "9",
+    "gameid": "5149920",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "45fde20f815d78f29d6438015a4eac83dce904da/header.jpg"
+    },
+    "name": "WWE 2K26 Persona Card Pack",
+    "name_localized": {
+      "brazilian": "Pacote de Cartas Persona WWE 2K26",
+      "czech": "Balíček karet Persona WWE 2K26",
+      "danish": "WWE 2K26 Persona-kortpakke",
+      "dutch": "WWE 2K26 Persona-kaartenpakket",
+      "finnish": "WWE 2K26 Persona -korttipaketti",
+      "french": "Pack de cartes Gimmick WWE 2K26",
+      "german": "WWE 2K26 Identitätskarten-Pack",
+      "italian": "Pacchetto Carta Personaggio WWE 2K26",
+      "japanese": "『WWE 2K26』ペルソナカード パック",
+      "koreana": "WWE 2K26 페르소나 카드 팩",
+      "latam": "Paquete de tarjetas de personaje de WWE 2K26",
+      "norwegian": "WWE 2K26 Persona-kortpakke",
+      "polish": "Pakiet kart WWE 2K26 Persona",
+      "russian": "Набор карт WWE 2K26 Persona",
+      "schinese": "《WWE 2K26》角色卡牌包",
+      "spanish": "Pack de cartas de personaje de WWE 2K26",
+      "swedish": "WWE 2K26-paket med personakort",
+      "tchinese": "《WWE 2K26》造型卡包",
+      "turkish": "WWE 2K26 Persona Kart Paketi",
+      "ukrainian": "Набір карт персонажів WWE 2K26"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3717070",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "9837e9903ca34b32862a5e5e6c5fbdf75b5fde5d/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1791392125",
+    "store_asset_mtime": "1790169798",
+    "store_screenshot": "b7c7e82c71130d35a06b82384f2b357673296208/ss_b7c7e82c71130d35a06b82384f2b357673296208.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "701",
+      "2": "6506",
+      "3": "47827",
+      "4": "3810",
+      "5": "3859",
+      "6": "1743",
+      "7": "4747"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3717070",
+    "homepage": "https://wwe.2k.com/",
+    "mustownapptopurchase": "3717070",
+    "publisher": "2K"
+  }
+}

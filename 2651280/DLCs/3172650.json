@@ -1,0 +1,22 @@
+{
+  "_change_number": 27316086,
+  "_missing_token": false,
+  "_sha": "0d584c8f07f12bea99d05c0050ca7bd023ef4f29",
+  "_size": 360,
+  "appid": "3172650",
+  "common": {
+    "gameid": "3172650",
+    "name": "Marvel's Spider-Man 2 - PC Purchase Perks",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2651280",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2651280",
+    "mustownapptopurchase": "2651280"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_change_number": 32886442,
+  "_missing_token": false,
+  "_sha": "8e9ea8538d18db461da8180e758c4c1dca96f44b",
+  "_size": 571,
+  "appid": "3914610",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3914610",
+    "name": "Avatar: Frontiers of Pandora - Starter pack - Jake Sully Toruk Makto Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

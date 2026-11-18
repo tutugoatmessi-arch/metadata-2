@@ -1,0 +1,48 @@
+{
+  "_change_number": 39278141,
+  "_missing_token": false,
+  "_sha": "5bd4512ede1c201d45bb185bf8c337c4cf90e675",
+  "_size": 1180,
+  "appid": "4168650",
+  "common": {
+    "clienticon": "3585b1481f28cf915563824fbbba109a5db28276",
+    "gameid": "4168650",
+    "icon": "3585b1481f28cf915563824fbbba109a5db28276",
+    "name": "Sinister Pack",
+    "name_localized": {
+      "brazilian": "Pacote Sinistro",
+      "danish": "Sinister Pakken",
+      "dutch": "Sinister-pakket",
+      "english": "Sinister Pack",
+      "finnish": "Sinister Pack",
+      "french": "Pack Sinistre",
+      "german": "Unheilvolles Paket",
+      "italian": "Pacchetto Sinistro",
+      "japanese": "シニスター パック",
+      "koreana": "시니스터 팩",
+      "latam": "Paquete Siniestro",
+      "norwegian": "Sinister Pack",
+      "polish": "Złowrogi Zestaw",
+      "portuguese": "Pack Sinister",
+      "russian": "Набор \"Жуть\"",
+      "schinese": "邪恶包",
+      "spanish": "Pack Siniestro",
+      "swedish": "Sinister Pack",
+      "tchinese": "邪惡包",
+      "turkish": "Sinister Paketi",
+      "ukrainian": "Набір «Лихоліття»"
+    },
+    "osarch": "",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2215200",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2215200",
+    "mustownapptopurchase": "2215200"
+  }
+}

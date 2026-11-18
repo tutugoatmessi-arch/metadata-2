@@ -1,0 +1,26 @@
+{
+  "_change_number": 28610308,
+  "_missing_token": false,
+  "_sha": "fcebf998830c180182526767778ebca6ad95ec20",
+  "_size": 504,
+  "appid": "3515960",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3515960",
+    "name": "Star Wars Outlaws Demo - Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

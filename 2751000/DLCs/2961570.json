@@ -1,0 +1,139 @@
+{
+  "_change_number": 26899750,
+  "_missing_token": false,
+  "_sha": "0424ec0778f51911823c8b490e472e9941b525e7",
+  "_size": 2571,
+  "appid": "2961570",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Ubisoft Montpellier",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Ubisoft",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Prince of Persia",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_28": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "exfgls": "9",
+    "gameid": "2961570",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "Prince of Persia The Lost Crown - Deluxe Pack",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2751000",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1723136580",
+    "store_asset_mtime": "1722950389",
+    "store_screenshot": "ss_370bf571f8adc12d44110652e8a8c0a6f2299821.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "4305",
+      "11": "4252",
+      "12": "4166",
+      "13": "3993",
+      "14": "4182",
+      "2": "3834",
+      "3": "1628",
+      "4": "3877",
+      "5": "3798",
+      "6": "5379",
+      "7": "4106",
+      "8": "4231",
+      "9": "7481"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Ubisoft Montpellier",
+    "dlcforappid": "2751000",
+    "homepage": "https://princeofpersia.com/thelostcrown/",
+    "mustownapptopurchase": "2751000",
+    "publisher": "Ubisoft"
+  }
+}

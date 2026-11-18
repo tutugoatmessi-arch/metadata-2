@@ -1,0 +1,30 @@
+{
+  "_change_number": 39173799,
+  "_missing_token": false,
+  "_sha": "ec9212d92cd07fb6c8ec89452c3a017e452934c2",
+  "_size": 1977,
+  "appid": "3371890",
+  "common": {
+    "gameid": "3371890",
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: VS Mode System Voice: Upper Rank Demons Set (Akaza, Daki, Gyutaro, Gyokko, Zohakuten)",
+    "name_localized": {
+      "english": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: VS Mode System Voice: Upper Rank Demons Set (Akaza, Daki, Gyutaro, Gyokko, Zohakuten)",
+      "french": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Voix système en mode VS : ensemble de lunes supérieures (Akaza, Daki, Gyûtarô, Gyokko, Zohakuten)",
+      "german": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Systemstimmen im VS-Modus: Zunehmender-Dämonenmond-Set (Akaza, Daki, Gyūtarō, Gyokko, Zohakuten)",
+      "italian": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Voci di sistema Modalità scontro: Set lune crescenti (Akaza, Daki, Gyutaro, Gyokko, Zohakuten)",
+      "japanese": "鬼滅の刃 ヒノカミ血風譚2: \"対戦\"内システムボイス「上弦の鬼セット（猗窩座、堕姫、妓夫太郎、玉壺、憎珀天）」",
+      "koreana": "귀멸의 칼날 히노카미 혈풍담2: \"대전\" 내 시스템 보이스 '상현 혈귀 세트(아카자, 다키, 규타로, 굣코, 조하쿠텐)'",
+      "schinese": "鬼灭之刃 火之神血风谭2: “对战”中的系统语音：“上弦之鬼组合（猗窝座、堕姬、妓夫太郎、玉壶、憎珀天）”。",
+      "spanish": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Voces del sistema del modo batalla: Lunas Superiores (Akaza, Daki, Gyūtarō, Gyokko, Zohakuten)",
+      "tchinese": "鬼滅之刃 火之神血風譚2: 「對戰」中系統語音「上弦之鬼套組（猗窩座、墮姬、妓夫太郎、玉壺、憎珀天）」"
+    },
+    "parent": "2928600",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2928600",
+    "mustownapptopurchase": "2928600"
+  }
+}

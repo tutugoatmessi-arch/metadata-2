@@ -1,0 +1,140 @@
+{
+  "_change_number": 39584024,
+  "_missing_token": false,
+  "_sha": "b7ca2effa5282472c0c7c836175014fe05bdf98c",
+  "_size": 3520,
+  "appid": "5149930",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "WWE 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_60": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "exfgls": "9",
+    "gameid": "5149930",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "a1ac59e3f929405996013fa943bbbe5097cb6f6a/header.jpg"
+    },
+    "name": "WWE 2K26 Premium Persona Card Pack",
+    "name_localized": {
+      "brazilian": "Pacote de Cartas Persona Premium WWE 2K26",
+      "czech": "Balíček karet Persona WWE 2K26 Premium",
+      "danish": "WWE 2K26 Premium Persona-kortpakke",
+      "dutch": "WWE 2K26 Premium Persona-kaartenpakket",
+      "finnish": "WWE 2K26 Premium Persona -korttipaketti",
+      "french": "Pack de cartes Gimmick Premium WWE 2K26",
+      "german": "WWE 2K26 Premium Identitätskarten-Pack",
+      "italian": "Pacchetto Carta Personaggio Premium WWE 2K26",
+      "japanese": "『WWE 2K26』プレミアム ペルソナカード パック",
+      "koreana": "WWE 2K26 프리미엄 페르소나 카드 팩",
+      "latam": "Pack de tarjetas de personaje Premium de WWE 2K26",
+      "norwegian": "WWE 2K26 Premium Persona-kortpakke",
+      "polish": "Pakiet kart WWE 2K26 Premium Persona",
+      "russian": "Набор карт WWE 2K26 Premium Persona",
+      "schinese": "《WWE 2K26》高级角色卡牌包",
+      "spanish": "Pack de cartas de personaje Prémium de WWE 2K26",
+      "swedish": "WWE 2K26 premiumpaket med personakort",
+      "tchinese": "《WWE 2K26》高級造型卡包",
+      "turkish": "WWE 2K26 Premium Persona Kart Paketi",
+      "ukrainian": "Преміумнабір карт персонажів WWE 2K26"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3717070",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "11347cc14f163f52ad2e4097ada30cabd67ca19c/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1791392146",
+    "store_asset_mtime": "1790169896",
+    "store_screenshot": "c72c6c20a7a687cb0e1cccb0cd6b91f26c3782a9/ss_c72c6c20a7a687cb0e1cccb0cd6b91f26c3782a9.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "701",
+      "2": "6506",
+      "3": "47827",
+      "4": "3810",
+      "5": "3859",
+      "6": "1743",
+      "7": "4747"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3717070",
+    "homepage": "https://wwe.2k.com/",
+    "mustownapptopurchase": "3717070",
+    "publisher": "2K"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_change_number": 33892496,
+  "_missing_token": false,
+  "_sha": "0602ae6450aed137314d2c119f6ad2510425d897",
+  "_size": 2386,
+  "appid": "3116950",
+  "common": {
+    "gameid": "3116950",
+    "name": "Monster Hunter Wilds - Hunter Layered Armor Set: Guild Knight",
+    "name_localized": {
+      "brazilian": "Monster Hunter Wilds - Conjunto de Armadura em Camadas: Cavaleiro da Guilda",
+      "danish": "Monster Hunter Wilds - Lagdelt jægerrustning: Guild Knight",
+      "dutch": "Monster Hunter Wilds - Hunter layered armor-set: Guild Knight",
+      "finnish": "Monster Hunter Wilds - Metsästäjän kerroshaarniskasarja: Guild Knight",
+      "french": "Monster Hunter Wilds - Set d'armure spéciale de chasseur : Chevalier de Guilde",
+      "german": "Monster Hunter Wilds - Jäger-Dekorrüstungsset: Gildenritter",
+      "italian": "Monster Hunter Wilds - Stile armatura (set): Cavaliere Gilda",
+      "japanese": "モンスターハンターワイルズ - ハンター重ね着装備「ギルドナイト」シリーズ",
+      "koreana": "Monster Hunter Wilds - 헌터 덧입는 장비 '길드나이트' 시리즈",
+      "latam": "Monster Hunter Wilds - Set de armadura superpuesta para cazadores: caballero del gremio",
+      "norwegian": "Monster Hunter Wilds - Lagdelt rustningssett for jeger: «Guild Knight»",
+      "polish": "Monster Hunter Wilds - Zestaw pancerza warstwowego łowcy: rycerz Gildii",
+      "portuguese": "Monster Hunter Wilds - Conjunto de layered armor para Hunter: Guild Knight",
+      "russian": "Monster Hunter Wilds - Комплект многослойных доспехов: рыцарь Гильдии",
+      "schinese": "Monster Hunter Wilds - 猎人外观装备“公会骑士系列”",
+      "spanish": "Monster Hunter Wilds - Set de armadura superpuesta: Caballero del gremio",
+      "swedish": "Monster Hunter Wilds - Rustningslagerset till jägare: Guild Knight",
+      "tchinese": "Monster Hunter Wilds - 獵人外觀裝備「公會騎士系列」",
+      "thai": "Monster Hunter Wilds - เซ็ตเกราะสวมทับฮันเตอร์: อัศวินกิลด์",
+      "turkish": "Monster Hunter Wilds - Avcı Katmanlı Zırh Seti: Lonca Şövalyesi",
+      "ukrainian": "Monster Hunter Wilds - Набір багатошарової броні мисливця «Лицар гільдії»"
+    },
+    "parent": "2246340",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2246340",
+    "mustownapptopurchase": "2246340"
+  }
+}

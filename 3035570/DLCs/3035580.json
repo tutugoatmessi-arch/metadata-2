@@ -1,0 +1,23 @@
+{
+  "_change_number": 30837892,
+  "_missing_token": false,
+  "_sha": "4cfe28a4ce457df53efba05abfcab86caa000048",
+  "_size": 445,
+  "appid": "3035580",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3035580",
+    "name": "Assassin's Creed Mirage Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_change_number": 33628164,
+  "_missing_token": false,
+  "_sha": "6c20ab33308b87e56d7dd545c327b37c89557bf8",
+  "_size": 896,
+  "appid": "3559230",
+  "common": {
+    "gameid": "3559230",
+    "name": "CODE VEIN II - CODE VEIN Character Costume Set",
+    "name_localized": {
+      "brazilian": "CODE VEIN II - Conjunto de Trajes dos Personagens de CODE VEIN",
+      "japanese": "CODE VEIN II - 『CODE VEIN』キャラクターコスチュームセット",
+      "koreana": "코드 베인 II - 「CODE VEIN」 캐릭터 코스튬 세트",
+      "latam": "CODE VEIN II - Set de traje de personaje de CODE VEIN",
+      "schinese": "CODE VEIN 噬血代码 II - 《CODE VEIN 噬血代码》角色服装套组",
+      "tchinese": "CODE VEIN 噬血代碼 II - 《CODE VEIN 噬血代碼》角色服裝套組"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2362060",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2362060",
+    "mustownapptopurchase": "2362060"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_change_number": 39278141,
+  "_missing_token": false,
+  "_sha": "4a31ede0e4ca94732a74a0c33a8d31e00bf6f848",
+  "_size": 1341,
+  "appid": "4168640",
+  "common": {
+    "clienticon": "2c6989c3aa1c57da680068c43a38eaab8237d69b",
+    "gameid": "4168640",
+    "icon": "2c6989c3aa1c57da680068c43a38eaab8237d69b",
+    "name": "Party Music Pack",
+    "name_localized": {
+      "brazilian": "Pacote de Música para Festa",
+      "danish": "Party Music Pack",
+      "dutch": "Feestmuziek-pakket",
+      "english": "Party Music Pack",
+      "finnish": "Party Music Pack",
+      "french": "Pack musique de fête",
+      "german": "„Party-Musik“-Paket",
+      "italian": "Pacchetto Musica della festa",
+      "japanese": "パーティー・ミュージック パック",
+      "koreana": "파티 음악 팩",
+      "latam": "Paquete de Música de fiesta",
+      "norwegian": "Party Music Pack",
+      "polish": "Zestaw Imprezowej Muzyki",
+      "portuguese": "Pack Party Music",
+      "russian": "Набор \"Музыка для вечеринки\"",
+      "schinese": "派对音乐包",
+      "spanish": "Pack Música de Fiesta",
+      "swedish": "Party Music Pack",
+      "tchinese": "派對音樂包",
+      "turkish": "Parti Müzikleri Paketi",
+      "ukrainian": "Набір «Музика для вечірок»"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2215200",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2215200",
+    "mustownapptopurchase": "2215200"
+  }
+}

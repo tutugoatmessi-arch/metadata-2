@@ -1,0 +1,23 @@
+{
+  "_change_number": 25846781,
+  "_missing_token": false,
+  "_sha": "646e55de7853955ec2e63d1681e5bbaa52578deb",
+  "_size": 463,
+  "appid": "3230740",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3230740",
+    "name": "Assassin's Creed Mirage - Fire Demon Pack Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

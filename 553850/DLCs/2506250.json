@@ -1,0 +1,23 @@
+{
+  "_change_number": 33614319,
+  "_missing_token": false,
+  "_sha": "9518534be0538b1dfe16eb46e51f169ad851c0b7",
+  "_size": 351,
+  "appid": "2506250",
+  "common": {
+    "gameid": "2506250",
+    "name": "HELLDIVERS™ 2 - Français (French)",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

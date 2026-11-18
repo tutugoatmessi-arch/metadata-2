@@ -1,0 +1,181 @@
+{
+  "_change_number": 41008155,
+  "_missing_token": false,
+  "_sha": "ccfdd9caffb926c5e557c6c69b6c97e21b6e8305",
+  "_size": 3962,
+  "appid": "4530440",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Sports Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "SEGA",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Football Manager",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_64": "1",
+      "category_68": "1",
+      "category_74": "1",
+      "category_79": "1",
+      "category_80": "1"
+    },
+    "clienticon": "61fcb7307dc7576cd1d480c5bd509d43b822822e",
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "gameid": "4530440",
+    "genres": {
+      "0": "28",
+      "1": "18",
+      "2": "2"
+    },
+    "header_image": {
+      "english": "aaca18219a2f9c5b28691f9e9dab915e19724ac5/header.jpg"
+    },
+    "icon": "03dea29d4ad8e4710637744886569691b5c6f55d",
+    "name": "Football Manager 27 In-Game Editor",
+    "name_localized": {
+      "brazilian": "Programa de Edição do Jogo Football Manager 27",
+      "french": "Éditeur de jeu Football Manager 27",
+      "german": "Football Manager 27 Ingame Editor",
+      "italian": "Editor di gioco Football Manager 27",
+      "japanese": "Football Manager 27 ゲーム内エディター",
+      "koreana": "Football Manager 27 게임 내 에디터",
+      "latam": "Editor del juego de Football Manager 27",
+      "polish": "Football Manager 27 – Edytor w grze",
+      "portuguese": "Editor de Jogo do Football Manager 27",
+      "russian": "Игровой редактор Football Manager 27",
+      "schinese": "足球经理27 游戏内编辑器",
+      "spanish": "Editor del juego de Football Manager 27",
+      "tchinese": "《Football Manager 27》遊戲內編輯器",
+      "turkish": "Football Manager 27 Oyun İçi Editörü"
+    },
+    "osarch": "",
+    "oscpu": "",
+    "osextended": "macos64",
+    "oslist": "windows,macos",
+    "parent": "4530370",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "review_percentage": "23",
+    "review_score": "4",
+    "small_capsule": {
+      "english": "3d60064706963dc41c70fff04751bb989657e555/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1794326667",
+    "store_asset_mtime": "1794826831",
+    "store_screenshot": "b9cdcb8e49e10028875f641a444edc9cf00fdb8a/ss_b9cdcb8e49e10028875f641a444edc9cf00fdb8a.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "701",
+      "10": "21725",
+      "11": "4191",
+      "12": "4747",
+      "13": "6426",
+      "14": "6730",
+      "15": "3859",
+      "16": "31275",
+      "17": "4182",
+      "2": "9",
+      "3": "5055",
+      "4": "17305",
+      "5": "1254546",
+      "6": "3813",
+      "7": "9204",
+      "8": "12472",
+      "9": "3871"
+    },
+    "supported_languages": {
+      "arabic": {
+        "supported": "true"
+      },
+      "danish": {
+        "supported": "true"
+      },
+      "dutch": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "greek": {
+        "supported": "true"
+      },
+      "indonesian": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "latam": {
+        "supported": "true"
+      },
+      "norwegian": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "portuguese": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "swedish": {
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Sports Interactive",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "4530370",
+    "homepage": "https://www.footballmanager.com/",
+    "mustownapptopurchase": "4530370",
+    "publisher": "SEGA"
+  }
+}

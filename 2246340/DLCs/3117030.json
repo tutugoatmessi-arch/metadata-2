@@ -1,0 +1,45 @@
+{
+  "_change_number": 37547829,
+  "_missing_token": false,
+  "_sha": "3eae374a92ad839c2ad46e4ccb346ce4b87702be",
+  "_size": 2260,
+  "appid": "3117030",
+  "common": {
+    "gameid": "3117030",
+    "name": "Monster Hunter Wilds - Hunter Layered Armor: Wyverian Ears",
+    "name_localized": {
+      "brazilian": "Monster Hunter Wilds - Armadura em Camadas: Orelhas Serperianas",
+      "danish": "Monster Hunter Wilds - Lagdelt jægerrustning: Wyverian Ears",
+      "dutch": "Monster Hunter Wilds - Hunter layered armor: Wyverian Ears",
+      "finnish": "Monster Hunter Wilds - Metsästäjän kerroshaarniska: Wyverian Ears",
+      "french": "Monster Hunter Wilds - Armure spéciale de chasseur : Oreilles wyvériennes",
+      "german": "Monster Hunter Wilds - Jäger-Dekorrüstung: Wyverianer-Ohren",
+      "italian": "Monster Hunter Wilds - Stile armatura: Orecchie wyverniane",
+      "japanese": "モンスターハンターワイルズ - ハンター重ね着装備「竜人族の耳」",
+      "koreana": "Monster Hunter Wilds - 헌터 덧입는 장비 '용인족 귀'",
+      "latam": "Monster Hunter Wilds - Armadura superpuesta para cazadores: orejas de wyveriano",
+      "norwegian": "Monster Hunter Wilds - Lagdelt rustning for jeger: «Wyverian Ears»",
+      "polish": "Monster Hunter Wilds - Pancerz warstwowy łowcy: wiweriańskie uszy",
+      "portuguese": "Monster Hunter Wilds - Layered armor para Hunter: Wyverian Ears",
+      "russian": "Monster Hunter Wilds - Многослойные доспехи: уши виверианца",
+      "schinese": "Monster Hunter Wilds - 猎人外观装备“龙人族之耳”",
+      "spanish": "Monster Hunter Wilds - Armadura superpuesta: Orejas wyverianas",
+      "swedish": "Monster Hunter Wilds - Rustningslager tilll jägare: Wyverian Ears",
+      "tchinese": "Monster Hunter Wilds - 獵人外觀裝備「龍人族之耳」",
+      "thai": "Monster Hunter Wilds - เซ็ตเกราะสวมทับฮันเตอร์: หูไววีเรียน",
+      "turkish": "Monster Hunter Wilds - Avcı Katmanlı Zırhı: Wyverialı Kulakları",
+      "ukrainian": "Monster Hunter Wilds - Багатошарова броня мисливця «Вуха віверианця»"
+    },
+    "parent": "2246340",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2246340",
+    "mustownapptopurchase": "2246340"
+  }
+}

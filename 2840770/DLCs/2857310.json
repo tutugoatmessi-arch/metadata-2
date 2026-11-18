@@ -1,0 +1,27 @@
+{
+  "_change_number": 24390118,
+  "_missing_token": false,
+  "_sha": "ef11fb66478e4ecfbd02ab6d70430f7f2f5d333c",
+  "_size": 546,
+  "appid": "2857310",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "2857310",
+    "name": "Avatar: Frontiers of Pandora Starter Pack Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

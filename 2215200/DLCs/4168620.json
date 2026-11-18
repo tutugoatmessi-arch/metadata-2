@@ -1,0 +1,47 @@
+{
+  "_change_number": 39278141,
+  "_missing_token": false,
+  "_sha": "073f8d6e385096b58b1df8f8d4e4a2e5425dd91d",
+  "_size": 1384,
+  "appid": "4168620",
+  "common": {
+    "clienticon": "1cddd18a2940f2537fa01765a3f318a70ece05ee",
+    "gameid": "4168620",
+    "icon": "1cddd18a2940f2537fa01765a3f318a70ece05ee",
+    "name": "Arkham Trilogy Pack",
+    "name_localized": {
+      "brazilian": "Pacote da Trilogia Arkham",
+      "danish": "Arkham Trilogy Pack",
+      "dutch": "Arkham Trilogy-pakket",
+      "english": "Arkham Trilogy Pack",
+      "finnish": "Arkham Trilogy Pack",
+      "french": "Pack Trilogie Arkham",
+      "german": "„Arkham-Trilogie“-Paket",
+      "italian": "Pacchetto Arkham Trilogy",
+      "japanese": "アーカム・トリロジー パック",
+      "koreana": "아캄 트릴로지 팩",
+      "latam": "Paquete de la Trilogía de Arkham",
+      "norwegian": "Arkham Trilogy Pack",
+      "polish": "Zestaw Trylogii Arkham",
+      "portuguese": "Pack Arkham Trilogy",
+      "russian": "Набор \"Трилогия об Аркхеме\"",
+      "schinese": "“阿卡姆三部曲”包",
+      "spanish": "Pack de la Trilogía de Arkham",
+      "swedish": "Arkham Trilogy Pack",
+      "tchinese": "阿卡漢三部曲包",
+      "turkish": "Arkham Üçlemesi Paketi",
+      "ukrainian": "Набір «Трилогія Аркгем»"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2215200",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2215200",
+    "mustownapptopurchase": "2215200"
+  }
+}

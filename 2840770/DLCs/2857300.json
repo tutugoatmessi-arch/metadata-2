@@ -1,0 +1,157 @@
+{
+  "_change_number": 32896210,
+  "_missing_token": false,
+  "_sha": "4e4109a8eb86c01453883f5b6d572d152c3e8335",
+  "_size": 4211,
+  "appid": "2857300",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Massive Entertainment – A Ubisoft Studio",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Ubisoft",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_38": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "controllertagwizard": "1",
+    "exfgls": "9",
+    "gameid": "2857300",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "Sky Rider Starter Pack – Avatar: Frontiers of Pandora™",
+    "name_localized": {
+      "brazilian": "Pacote de Iniciante Viajante do Céu – Avatar: Frontiers of Pandora™",
+      "danish": "Sky Rider-startpakke – Avatar: Frontiers of Pandora™",
+      "finnish": "Sky Rider -aloituspaketti – Avatar: Frontiers of Pandora™",
+      "french": "Pack de démarrage Chevaucheur céleste – Avatar: Frontiers of Pandora™",
+      "german": "Himmelsreiter-Starterpaket – Avatar: Frontiers of Pandora™",
+      "italian": "Pacchetto iniziale Cavaliere del cielo – Avatar: Frontiers of Pandora™",
+      "japanese": "「スカイライダー」スターターパック – 『アバター：フロンティア ・オブ・ パンドラ』",
+      "koreana": "하늘 기수 스타터 팩 – 아바타: 프론티어 오브 판도라",
+      "polish": "Pakiet startowy „Podniebny jeździec” – Avatar: Frontiers of Pandora™",
+      "portuguese": "Pacote de Iniciante Viajante do Céu – Avatar: Frontiers of Pandora™",
+      "russian": "Стартовый набор «Небесный наездник» для игры «Аватар: Рубежи Пандоры™»",
+      "schinese": "长空骑手新手包 - 《阿凡达：潘多拉边境™》",
+      "spanish": "Paquete de principiante Jinete de los cielos de Avatar: Frontiers of Pandora™",
+      "swedish": "Sky Rider-startpaket – Avatar: Frontiers of Pandora™",
+      "tchinese": "《阿凡達：潘朵拉邊境》天空騎手新手組合包",
+      "turkish": "Sky Rider Başlangıç Paketi - Avatar: Frontiers of Pandora™",
+      "ukrainian": "Набір Sky Rider Starter Pack для Avatar: Frontiers of Pandora™"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1718643448",
+    "store_asset_mtime": "1717539041",
+    "store_screenshot": "ss_3e6eda8fe26f4cbfc057d9d9788827463a156a22.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "1695",
+      "11": "1742",
+      "12": "3843",
+      "13": "4182",
+      "2": "1774",
+      "3": "3834",
+      "4": "9204",
+      "5": "4191",
+      "6": "3839",
+      "7": "4166",
+      "8": "3942",
+      "9": "4747"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Massive Entertainment – A Ubisoft Studio",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2840770",
+    "mustownapptopurchase": "2840770",
+    "publisher": "Ubisoft"
+  }
+}

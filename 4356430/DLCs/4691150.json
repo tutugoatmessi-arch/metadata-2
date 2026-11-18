@@ -1,0 +1,44 @@
+{
+  "_change_number": 38709881,
+  "_missing_token": false,
+  "_sha": "ee117e3077241c031928501b1ed50edc73918ce4",
+  "_size": 1790,
+  "appid": "4691150",
+  "common": {
+    "gameid": "4691150",
+    "name": "NBA 2K27 Limited-Time Offer Bonus Pack",
+    "name_localized": {
+      "brazilian": "Pacote bônus da oferta por tempo limitado do NBA 2K27",
+      "czech": "Časově omezený bonusový balíček NBA 2K27",
+      "danish": "NBA 2K27 Tidsbegrænset tilbudsbonuspakke",
+      "dutch": "NBA 2K27 Tijdelijke beperkte aanbieding Bonus Pack",
+      "finnish": "NBA 2K27 Ajallisesti rajoitettu bonuspakettitarjous",
+      "french": "Offre bonus à durée limitée NBA 2K27",
+      "german": "Zeitlich begrenztes NBA 2K27 Bonus-Pack",
+      "italian": "Pacchetto bonus Offerta a tempo limitato NBA 2K27",
+      "japanese": "『NBA 2K27』期間限定追加コンテンツパック",
+      "koreana": "NBA 2K27 기간 한정 특별 보너스 팩",
+      "latam": "Paquete de bonificación de oferta de tiempo limitado de NBA 2K27",
+      "norwegian": "Bonuspakke med tidsbegrenset tilbud for NBA 2K27",
+      "polish": "Oferta ograniczona czasowo: NBA 2K27 Limited-Time Offer Bonus Pack",
+      "portuguese": "Pack de Bónus de oferta por tempo limitado do NBA 2K27",
+      "russian": "Ограниченный по времени бонусный набор NBA 2K27",
+      "schinese": "《NBA 2K27》限时优惠奖励包",
+      "spanish": "Pack de bonificación de Oferta por tiempo limitado de NBA 2K27",
+      "swedish": "NBA 2K27 – Tidsbegränsat erbjudande – bonuspaket",
+      "tchinese": "《NBA 2K27》限時優惠特典包",
+      "turkish": "NBA 2K27 Süreli Teklif Bonus Paketi",
+      "ukrainian": "Бонусний набір NBA 2K27 (тимчасова пропозиція)"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4356430",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4356430"
+  }
+}

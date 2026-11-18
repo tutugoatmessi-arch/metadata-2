@@ -1,0 +1,36 @@
+{
+  "_change_number": 39361302,
+  "_missing_token": false,
+  "_sha": "6ffd8a9e5d2669db5ba68219aede49387de8f179",
+  "_size": 1023,
+  "appid": "3606500",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3606500",
+    "name": "Call of Duty®: Black Ops 7 - Zombies",
+    "name_localized": {
+      "brazilian": "Call of Duty®: Black Ops 7 - Zumbis",
+      "french": "Call of Duty®: Black Ops 7 - Zombies",
+      "german": "Call of Duty®: Black Ops 7 - Zombies",
+      "italian": "Call of Duty®: Black Ops 7 - Zombi",
+      "japanese": "Call of Duty®: Black Ops 7 - ゾンビモード",
+      "koreana": "콜 오브 듀티®: 블랙 옵스 7 - 좀비",
+      "latam": "Call of Duty®: Black Ops 7 - Zombis",
+      "polish": "Call of Duty®: Black Ops 7 - Zombie",
+      "russian": "Call of Duty®: Black Ops 7 - ЗОМБИ",
+      "spanish": "Call of Duty®: Black Ops 7 - Zombis",
+      "tchinese": "《決勝時刻®：黑色行動 7》－殭屍模式"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1938090",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1938090",
+    "mustownapptopurchase": "1938090"
+  }
+}

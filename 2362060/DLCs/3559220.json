@@ -1,0 +1,28 @@
+{
+  "_change_number": 38709881,
+  "_missing_token": false,
+  "_sha": "b0fd64aac50c2280b5fe802ee72f44b2bbf17c89",
+  "_size": 651,
+  "appid": "3559220",
+  "common": {
+    "gameid": "3559220",
+    "name": "CODE VEIN II - Mask of Idris",
+    "name_localized": {
+      "japanese": "CODE VEIN II - 拡張DLC 「Mask of Idris」",
+      "koreana": "코드 베인 II - 확장 DLC 「Mask of Idris」",
+      "schinese": "CODE VEIN 噬血代码 II - 扩充DLC “Mask of Idris”",
+      "tchinese": "CODE VEIN 噬血代碼 II - 擴充DLC「Mask of Idris」"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2362060",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2362060",
+    "mustownapptopurchase": "2362060"
+  }
+}

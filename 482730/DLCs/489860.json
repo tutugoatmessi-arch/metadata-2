@@ -1,0 +1,93 @@
+{
+  "_change_number": 32936622,
+  "_missing_token": false,
+  "_sha": "eebae288fb7755149dbd2bf7b23483e1263af967",
+  "_size": 1698,
+  "appid": "489860",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Sports Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "SEGA",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_2": "1"
+    },
+    "gameid": "489860",
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "metacritic_name": "Football Manager 2017 In-Game Editor",
+    "name": "Football Manager 2017 In-Game Editor",
+    "osarch": "",
+    "oslist": "windows,macos,linux",
+    "parent": "482730",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "review_percentage": "45",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1478215484",
+    "store_asset_mtime": "1478123273",
+    "store_screenshot": "ss_cad84c616d170d0a48ec5270df0df474a48b9e53.jpg",
+    "supported_languages": {
+      "czech": {
+        "supported": "true"
+      },
+      "danish": {
+        "supported": "true"
+      },
+      "dutch": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "greek": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "norwegian": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "portuguese": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "swedish": {
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Sports Interactive",
+    "dlcforappid": "482730",
+    "homepage": "http://www.footballmanager.com/",
+    "mustownapptopurchase": "482730",
+    "publisher": "SEGA"
+  }
+}

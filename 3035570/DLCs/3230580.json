@@ -1,0 +1,23 @@
+{
+  "_change_number": 25846781,
+  "_missing_token": false,
+  "_sha": "81bdeeb70b2ee6af8e8dafefd6651d4d33d00582",
+  "_size": 480,
+  "appid": "3230580",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3230580",
+    "name": "Assassin's Creed Mirage - Master Assassin Upgrade Bundle 2 Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

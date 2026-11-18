@@ -1,0 +1,162 @@
+{
+  "_change_number": 41137397,
+  "_missing_token": false,
+  "_sha": "2411dfbaf801b1df1e73f97fc76bbf36a6603aa4",
+  "_size": 3164,
+  "appid": "5075700",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Saber Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Focus Entertainment",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_74": "1",
+      "category_79": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "gameid": "5075700",
+    "genres": {
+      "0": "25",
+      "1": "28"
+    },
+    "header_image": {
+      "english": "7bde6b978821ea030faae5b593d7080f79458172/header.jpg"
+    },
+    "name": "RoadCraft - Foundations Expansion",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2104890",
+    "primary_genre": "25",
+    "releasestate": "released",
+    "review_percentage": "55",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "3c0e588e7c3e757c5da98a1c67c826609b6b975f/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1793699899",
+    "store_asset_mtime": "1793725414",
+    "store_screenshot": "f067a6123d7d52b564b687a7891d24d8ca00cccd/ss_f067a6123d7d52b564b687a7891d24d8ca00cccd.jpg",
+    "store_tags": {
+      "0": "599",
+      "1": "1643",
+      "10": "3834",
+      "11": "1685",
+      "12": "5363",
+      "13": "10383",
+      "14": "9204",
+      "15": "4175",
+      "16": "4191",
+      "17": "5673",
+      "18": "7332",
+      "19": "7481",
+      "2": "1644",
+      "3": "21",
+      "4": "3968",
+      "5": "3843",
+      "6": "1100687",
+      "7": "3859",
+      "8": "255534",
+      "9": "30358"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Saber Interactive",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "2104890",
+    "homepage": "https://www.focus-entmt.com/games/roadcraft",
+    "mustownapptopurchase": "2104890",
+    "publisher": "Focus Entertainment"
+  }
+}

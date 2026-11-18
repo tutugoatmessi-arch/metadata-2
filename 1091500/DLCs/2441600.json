@@ -1,0 +1,217 @@
+{
+  "_change_number": 26375805,
+  "_missing_token": false,
+  "_sha": "487ad2dd41690cd26194b52dfaf19e09792992b8",
+  "_size": 6537,
+  "appid": "2441600",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "CD PROJEKT RED",
+        "type": "developer"
+      },
+      "1": {
+        "name": "CD PROJEKT RED",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_45": "1",
+      "category_46": "1"
+    },
+    "controller_support": "partial",
+    "gameid": "2441600",
+    "genres": {
+      "0": "3"
+    },
+    "header_image": {
+      "brazilian": "header_brazilian.jpg",
+      "czech": "header_czech.jpg",
+      "danish": "header_danish.jpg",
+      "english": "header.jpg",
+      "finnish": "header_finnish.jpg",
+      "french": "header_french.jpg",
+      "german": "header_german.jpg",
+      "hungarian": "header_hungarian.jpg",
+      "italian": "header_italian.jpg",
+      "japanese": "header_japanese.jpg",
+      "koreana": "header_koreana.jpg",
+      "latam": "header_latam.jpg",
+      "norwegian": "header_norwegian.jpg",
+      "polish": "header_polish.jpg",
+      "portuguese": "header_portuguese.jpg",
+      "russian": "header_russian.jpg",
+      "schinese": "header_schinese.jpg",
+      "spanish": "header_spanish.jpg",
+      "swedish": "header_swedish.jpg",
+      "tchinese": "header_tchinese.jpg",
+      "thai": "header_thai.jpg",
+      "turkish": "header_turkish.jpg",
+      "ukrainian": "header_ukrainian.jpg"
+    },
+    "name": "Phantom Liberty: Quadra \"Vigilante\" Pre-Order Bonus",
+    "name_localized": {
+      "brazilian": "Bônus de reserva de Phantom Liberty: Quadra “Vigilante”",
+      "czech": "Phantom Liberty: Předobjednávkový bonus Quadra Vigilante",
+      "danish": "Phantom Liberty: Quadra Vigilante forudbestillingsbonus",
+      "dutch": "Phantom Liberty: Quadra Vigilante Pre-orderbonus",
+      "english": "Phantom Liberty: Quadra \"Vigilante\" Pre-Order Bonus",
+      "finnish": "Phantom Liberty: Quadra Vigilante - ennakkotilaajan bonus",
+      "french": "Phantom Liberty : Quadra Vigilante Bonus de précommande",
+      "german": "Phantom Liberty: Quadra Vigilante Vorbesteller-Bonus",
+      "hungarian": "Phantom Liberty: Quadra Vigilante előrendelési bónusz",
+      "italian": "Bonus preordine Quadra Vigilante per Phantom Liberty",
+      "japanese": "仮初めの自由：クアドラ Vigilante 予約特典",
+      "koreana": "팬텀 리버티: 쿼드라 비질랜티 사전 구매 보너스",
+      "latam": "Bonificación por reserva de Phantom Liberty: Quadra «Justiciero»",
+      "norwegian": "Phantom Liberty: Quadra Vigilante-bonus for forhåndsbestilling",
+      "polish": "Widmo wolności: Quadra \"Vigilante\" (bonus przedsprzedażowy)",
+      "portuguese": "Phantom Liberty: Bónus de pré-reserva Quadra Vigilante",
+      "russian": "«Призрачная свобода»: «Квадра „Мститель“» в подарок за предзаказ",
+      "schinese": "《往日之影》：古德拉义警预购奖励",
+      "spanish": "Bonificación por reserva de Phantom Liberty: Quadra «Justiciero»",
+      "swedish": "Phantom Liberty: Quadra Vigilante-förbeställningsbonus",
+      "tchinese": "《自由幻局》：Quadra 維安預購特典",
+      "thai": "Phantom Liberty: โบนัสการสั่งซื้อล่วงหน้า ควอดร้า วิจิลันเต้",
+      "turkish": "Phantom Liberty: Quadra Kelle Avcısı Ön Sipariş Bonusu",
+      "ukrainian": "«Ілюзія свободи»: «Квадра „Лінчувач“» у дарунок за замовлення  "
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1091500",
+    "primary_genre": "3",
+    "releasestate": "released",
+    "small_capsule": {
+      "arabic": "capsule_231x87_arabic.jpg",
+      "brazilian": "capsule_231x87_brazilian.jpg",
+      "czech": "capsule_231x87_czech.jpg",
+      "danish": "capsule_231x87_danish.jpg",
+      "english": "capsule_231x87.jpg",
+      "finnish": "capsule_231x87_finnish.jpg",
+      "french": "capsule_231x87_french.jpg",
+      "german": "capsule_231x87_german.jpg",
+      "hungarian": "capsule_231x87_hungarian.jpg",
+      "italian": "capsule_231x87_italian.jpg",
+      "japanese": "capsule_231x87_japanese.jpg",
+      "koreana": "capsule_231x87_koreana.jpg",
+      "latam": "capsule_231x87_latam.jpg",
+      "norwegian": "capsule_231x87_norwegian.jpg",
+      "polish": "capsule_231x87_polish.jpg",
+      "portuguese": "capsule_231x87_portuguese.jpg",
+      "russian": "capsule_231x87_russian.jpg",
+      "schinese": "capsule_231x87_schinese.jpg",
+      "spanish": "capsule_231x87_spanish.jpg",
+      "swedish": "capsule_231x87_swedish.jpg",
+      "tchinese": "capsule_231x87_tchinese.jpg",
+      "thai": "capsule_231x87_thai.jpg",
+      "turkish": "capsule_231x87_turkish.jpg",
+      "ukrainian": "capsule_231x87_ukrainian.jpg"
+    },
+    "steam_release_date": "1695682800",
+    "store_asset_mtime": "1686644269",
+    "store_screenshot": "ss_5c4b46c61d7d1d5903835a68eac6582b4e62367f.jpg",
+    "store_tags": {
+      "0": "122"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "hungarian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "CD PROJEKT RED",
+    "dlcforappid": "1091500",
+    "homepage": "https://www.cyberpunk.net",
+    "mustownapptopurchase": "1091500",
+    "publisher": "CD PROJEKT RED"
+  }
+}

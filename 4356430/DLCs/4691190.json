@@ -1,0 +1,41 @@
+{
+  "_change_number": 38709881,
+  "_missing_token": false,
+  "_sha": "12e90dd1c8d7bff6ed4a110854869d8277e9b858",
+  "_size": 1108,
+  "appid": "4691190",
+  "common": {
+    "gameid": "4691190",
+    "name": "NBA 2K27 Ultra Bonus",
+    "name_localized": {
+      "brazilian": "Bônus Ultra do NBA 2K27",
+      "czech": "Bonus pro NBA 2K27 Ultra",
+      "danish": "NBA 2K27 Ultra-bonus",
+      "dutch": "NBA 2K27 Ultra-bonus",
+      "french": "Bonus Ultra NBA 2K27",
+      "german": "NBA 2K27 Ultra-Bonus",
+      "italian": "Bonus Ultra di NBA 2K27",
+      "japanese": "『NBA 2K27』ウルトラ エディションの追加コンテンツ",
+      "koreana": "NBA 2K27 울트라 보너스",
+      "latam": "Bonificación de NBA 2K27 Ultra",
+      "norwegian": "NBA 2K27 Ultra-bonus",
+      "portuguese": "Bónus Ultra do NBA 2K27",
+      "russian": "Бонус NBA 2K27 Ultra",
+      "schinese": "NBA 2K27 巅峰版奖励",
+      "spanish": "Bonificación Ultra de NBA 2K27",
+      "swedish": "NBA 2K27 Ultra-bonus",
+      "tchinese": "《NBA 2K27》終極版特典"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "4356430",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "4356430",
+    "mustownapptopurchase": "4356430"
+  }
+}

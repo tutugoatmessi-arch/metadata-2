@@ -1,0 +1,26 @@
+{
+  "_change_number": 26882673,
+  "_missing_token": false,
+  "_sha": "f03e9bc3dcf4c76507b294e86cae20cd582dbd9e",
+  "_size": 534,
+  "appid": "3228830",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3228830",
+    "name": "Avatar: Frontiers of Pandora Secrets of the Spires DLC Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_change_number": 29091501,
+  "_missing_token": false,
+  "_sha": "82472412729ab845b959f3539d3dcafe3813e8b8",
+  "_size": 357,
+  "appid": "3363930",
+  "common": {
+    "gameid": "3363930",
+    "name": "DOOM: The Dark Ages - Preorder Content",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3017860",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3017860",
+    "mustownapptopurchase": "3017860"
+  }
+}

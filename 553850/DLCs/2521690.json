@@ -1,0 +1,51 @@
+{
+  "_change_number": 29863953,
+  "_missing_token": false,
+  "_sha": "af0aa9786f820ee2f92ac3fa554c18c7bae0eefc",
+  "_size": 2774,
+  "appid": "2521690",
+  "common": {
+    "gameid": "2521690",
+    "name": "HELLDIVERS™ 2 - ‘Steeled Veterans’ Premium Warbond",
+    "name_localized": {
+      "brazilian": "HELLDIVERS™ 2 - Bônus de guerra premium \"Veteranos de Aço\"",
+      "bulgarian": "HELLDIVERS™ 2 - Първокласна военна връзка ‘Закалени ветерани’",
+      "czech": "HELLDIVERS™ 2 - Prémiový dluhopis „Steeled Veterans“",
+      "danish": "HELLDIVERS™ 2 - ‘Steeled Veterans’ Premium-krigsobligation",
+      "dutch": "HELLDIVERS™ 2 - ‘Steeled Veterans’ Premium Warbond",
+      "finnish": "HELLDIVERS™ 2 - Steeled Veterans -premium-sotaobligaatio",
+      "french": "HELLDIVERS™ 2 - Des obligations de guerre premium « Vétéran émérite »",
+      "german": "HELLDIVERS™ 2 - \"Gestählte Veteranen\"-Premium-Kriegsanleihe",
+      "greek": "HELLDIVERS™ 2 - Premium δεσμός πολέμου «Steeled Veterans»",
+      "hungarian": "HELLDIVERS™ 2 - „Steeled Veterans” Premium Warbond fizetőeszköz",
+      "italian": "HELLDIVERS™ 2 - Titolo di guerra premium \"Veterani d'acciaio\"",
+      "japanese": "『HELLDIVERS™ 2』 - 「鋼の熟練兵」プレミアウォーボンド",
+      "koreana": "HELLDIVERS™ 2 - \"결연한 베테랑\" 프리미엄 전쟁 채권",
+      "latam": "HELLDIVERS™ 2 - Bono de guerra premium \"Veteranos templados\"",
+      "norwegian": "HELLDIVERS™ 2 - «Steeled Veterans» Premium Warbond",
+      "polish": "HELLDIVERS™ 2 - obligację wojenną premium „Zaprawieni weterani”",
+      "portuguese": "HELLDIVERS™ 2 - Obrigação de Guerra Excecional de ‘Veteranos Determinados’",
+      "romanian": "HELLDIVERS™ 2 - Obligațiunea de război premium „Steeled Veterans”",
+      "russian": "HELLDIVERS™ 2 - Премиальную заслугу «Закаленные ветераны»",
+      "schinese": "《HELLDIVERS™ 2》 - “铁血老兵”尊享战争债券",
+      "spanish": "HELLDIVERS™ 2 - Bono de guerra prémium \"Veteranos avezados\"",
+      "swedish": "HELLDIVERS™ 2 - ”Steeled Veterans” Premium Warbond",
+      "tchinese": "《HELLDIVERS™ 2》 - 「鋼鐵老兵」高級戰爭債券",
+      "thai": "HELLDIVERS™ 2 - พันธบัตรสงครามระดับพรีเมียม \"Steeled Veterans\"",
+      "turkish": "HELLDIVERS™ 2 - \"Çelik Gaziler\" Özel Savaş Tahvili",
+      "ukrainian": "HELLDIVERS™ 2 - Преміальна військова облігація Steeled Veterans",
+      "vietnamese": "HELLDIVERS™ 2 - Trái phiếu Chiến tranh Cao cấp ‘Steeled Veterans’"
+    },
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850"
+  }
+}

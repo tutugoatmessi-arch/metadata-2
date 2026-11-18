@@ -1,0 +1,27 @@
+{
+  "_change_number": 28172422,
+  "_missing_token": false,
+  "_sha": "cdf566a261f85349d62e5cf7a86d6109595ad7bf",
+  "_size": 425,
+  "appid": "3265140",
+  "common": {
+    "gameid": "3265140",
+    "name": "The First Berserker: Khazan Pre-Order Bonus",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2680010",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "2": "122"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2680010",
+    "mustownapptopurchase": "2680010"
+  }
+}

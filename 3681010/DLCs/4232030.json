@@ -1,0 +1,58 @@
+{
+  "_change_number": 33681258,
+  "_missing_token": false,
+  "_sha": "af690cc385cc1084693eab60292f4d121760557a",
+  "_size": 1320,
+  "appid": "4232030",
+  "common": {
+    "gameid": "4232030",
+    "name": "Nioh 3 - Lone Wolf's Armor",
+    "name_localized": {
+      "brazilian": "Nioh 3 - Armadura de Lobo Solitário",
+      "french": "Nioh 3 - Armure de loup solitaire",
+      "german": "Nioh 3 - Rüstung des einsamen Wolfes",
+      "italian": "Nioh 3 - Armatura del lupo solitario",
+      "japanese": "仁王３ - 無縁人の鎧",
+      "koreana": "Nioh 3 - 무연고인의 갑옷",
+      "latam": "Nioh 3 - Armadura de Lobo solitario",
+      "portuguese": "Nioh 3 - Armadura de Lobo Solitário",
+      "russian": "Nioh 3 - Броня одинокого волка",
+      "schinese": "仁王３ - 无缘人之铠",
+      "spanish": "Nioh 3 - Armadura de Lobo solitario",
+      "tchinese": "仁王３ - 無緣人之鎧"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3681010",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122",
+      "10": "1688",
+      "11": "4166",
+      "12": "3987",
+      "13": "1742",
+      "14": "4747",
+      "15": "4434",
+      "16": "7208",
+      "17": "4182",
+      "18": "3859",
+      "19": "1685",
+      "2": "4231",
+      "3": "29482",
+      "4": "1695",
+      "5": "1646",
+      "6": "4026",
+      "7": "1697",
+      "8": "4604",
+      "9": "1684"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3681010",
+    "mustownapptopurchase": "3681010"
+  }
+}

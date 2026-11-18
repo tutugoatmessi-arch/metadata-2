@@ -1,0 +1,24 @@
+{
+  "_change_number": 33614323,
+  "_missing_token": false,
+  "_sha": "951b707e974158dfa21eb2387e91523f717efb73",
+  "_size": 376,
+  "appid": "2506260",
+  "common": {
+    "associations": {},
+    "gameid": "2506260",
+    "name": "HELLDIVERS™ 2 - Italiano (Italian)",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_change_number": 33614309,
+  "_missing_token": false,
+  "_sha": "fe2964f7c0c004cc626b62a16d958fc5ee2d6e50",
+  "_size": 372,
+  "appid": "2506210",
+  "common": {
+    "gameid": "2506210",
+    "name": "HELLDIVERS™ 2 - Português-Brasil (Portuguese - Brazil)",
+    "parent": "553850",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "553850",
+    "mustownapptopurchase": "553850",
+    "optionaldlc": "1"
+  }
+}

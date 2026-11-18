@@ -1,0 +1,134 @@
+{
+  "_change_number": 40347477,
+  "_missing_token": false,
+  "_sha": "61cbabc5a858e4313862d5f952561f94a0f3d42d",
+  "_size": 3195,
+  "appid": "5109970",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Visual Concepts",
+        "type": "developer"
+      },
+      "1": {
+        "name": "2K",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "WWE 2K",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_57": "1",
+      "category_60": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "controller_support": "partial",
+    "exfgls": "9",
+    "gameid": "5109970",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "be8df97ec7494b4492db7c03e06c01847be3cdd9/header.jpg"
+    },
+    "name": "WWE 2K26 X Street Fighter Elite Pack",
+    "name_localized": {
+      "brazilian": "Pacote Elite WWE 2K26 X Street Fighter",
+      "finnish": "WWE 2K26 X Street Fighter Elite -paketti",
+      "french": "Pack Elite WWE 2K26 X Street Fighter",
+      "italian": "Pacchetto Elite X Street Fighter di WWE 2K26",
+      "japanese": "『WWE 2K26』×『ストリートファイター』エリート パック",
+      "koreana": "WWE 2K26 X 스트리트 파이터 엘리트 팩",
+      "latam": "Paquete Elite de WWE 2K26 X Street Fighter",
+      "norwegian": "WWE 2K26 X Street Fighter Elite-pakke",
+      "russian": "Набор WWE 2K26 X Street Fighter Elite",
+      "schinese": "《WWE 2K26》X 《Street Fighter》精英包",
+      "spanish": "Pack Elite de WWE 2K26 X Street Fighter",
+      "tchinese": "WWE 2K26 X Street Fighter菁英包",
+      "turkish": "WWE 2K26 X Street Fighter Elite Paketi",
+      "ukrainian": "Набір «Elite» WWE 2K26 X Street Fighter"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3717070",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "0d88c5233942245fd69e5acf5a82b43e217d47c3/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1793206742",
+    "store_asset_mtime": "1790597449",
+    "store_screenshot": "fb5a253c6bdd933d9849edce636116e4fc86b9df/ss_fb5a253c6bdd933d9849edce636116e4fc86b9df.jpg",
+    "store_tags": {
+      "0": "701",
+      "1": "599",
+      "2": "6506",
+      "3": "47827",
+      "4": "3810",
+      "5": "3859",
+      "6": "1743",
+      "7": "4747"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Visual Concepts",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3717070",
+    "homepage": "https://wwe.2k.com/",
+    "mustownapptopurchase": "3717070",
+    "publisher": "2K"
+  }
+}

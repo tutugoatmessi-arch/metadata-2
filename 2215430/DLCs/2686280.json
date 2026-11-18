@@ -1,0 +1,19 @@
+{
+  "_change_number": 23591175,
+  "_missing_token": false,
+  "_sha": "c212870d23fc42241ed1e3d7fa2703b3c0238dd1",
+  "_size": 321,
+  "appid": "2686280",
+  "common": {
+    "gameid": "2686280",
+    "name": "Ghost of Tsushima DIRECTOR'S CUT - Pre-purchase Entitlements",
+    "parent": "2215430",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2215430",
+    "mustownapptopurchase": "2215430"
+  }
+}

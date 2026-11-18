@@ -1,0 +1,45 @@
+{
+  "_change_number": 37547829,
+  "_missing_token": false,
+  "_sha": "2e05333beffffdf1ad1d3d089db192140e3cebda",
+  "_size": 2205,
+  "appid": "3117050",
+  "common": {
+    "gameid": "3117050",
+    "name": "Monster Hunter Wilds - Premium Bonus Hunter Profile Set",
+    "name_localized": {
+      "brazilian": "Monster Hunter Wilds - Bônus Premium: Conjunto de Perfil de Caçador",
+      "danish": "Monster Hunter Wilds - Jægerprofilsæt fra Premium-bonus",
+      "dutch": "Monster Hunter Wilds - Premiumbonus Hunter-profielset",
+      "finnish": "Monster Hunter Wilds - Premium-bonus: metsästäjän profiilisetti",
+      "french": "Monster Hunter Wilds - Bonus premium : Set de profil de chasseur",
+      "german": "Monster Hunter Wilds - Premium-Bonus: Jägerprofil-Set",
+      "italian": "Monster Hunter Wilds - Bonus premium: Profilo cacciatore (set)",
+      "japanese": "モンスターハンターワイルズ - プレミアム特典ハンタープロフィールセット",
+      "koreana": "Monster Hunter Wilds - 프리미엄 특전 헌터 프로필 세트",
+      "latam": "Monster Hunter Wilds - Bonificación prémium de Set de perfil de cazador",
+      "norwegian": "Monster Hunter Wilds - Eksklusiv bonus – Jegerprofil-sett",
+      "polish": "Monster Hunter Wilds - Zawartość dodatkowa premium: zestaw profilu łowcy",
+      "portuguese": "Monster Hunter Wilds - Premium Bonus Hunter Profile Set",
+      "russian": "Monster Hunter Wilds - Бонусный премиум-набор для профиля охотника",
+      "schinese": "Monster Hunter Wilds - 高级特典猎人资料组合",
+      "spanish": "Monster Hunter Wilds - Bonus prémium: Set de perfil de cazador",
+      "swedish": "Monster Hunter Wilds - Premium Bonus Hunter Profile Set",
+      "tchinese": "Monster Hunter Wilds - 高級特典獵人簡介組合",
+      "thai": "Monster Hunter Wilds - เซ็ตโปรไฟล์ฮันเตอร์โบนัสพรีเมียม",
+      "turkish": "Monster Hunter Wilds - Premium Bonus Avcı Profil Seti",
+      "ukrainian": "Monster Hunter Wilds - Бонусний преміальний набір для профілю мисливця"
+    },
+    "parent": "2246340",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2246340",
+    "mustownapptopurchase": "2246340"
+  }
+}

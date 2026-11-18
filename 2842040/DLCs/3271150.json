@@ -1,0 +1,26 @@
+{
+  "_change_number": 26899662,
+  "_missing_token": false,
+  "_sha": "d1e8ea9ffe40d1bfec9cddebe9e14893fac99dc9",
+  "_size": 511,
+  "appid": "3271150",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3271150",
+    "name": "Star Wars Outlaws - Season Pass - Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

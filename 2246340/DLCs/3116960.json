@@ -1,0 +1,45 @@
+{
+  "_change_number": 33892497,
+  "_missing_token": false,
+  "_sha": "b17b4444c04807334fc964f1a8c9ee2ad3fa9eef",
+  "_size": 1842,
+  "appid": "3116960",
+  "common": {
+    "gameid": "3116960",
+    "name": "Monster Hunter Wilds - Talisman: Hope Charm",
+    "name_localized": {
+      "brazilian": "Monster Hunter Wilds - Talismã: Amuleto da Esperança",
+      "danish": "Monster Hunter Wilds - Talisman: Hope Charm",
+      "dutch": "Monster Hunter Wilds - Talisman: Hope Charm",
+      "finnish": "Monster Hunter Wilds - Talismaani: Hope Charm",
+      "french": "Monster Hunter Wilds - Talisman d'espoir",
+      "german": "Monster Hunter Wilds - Talisman: Hoffnungsamulett",
+      "italian": "Monster Hunter Wilds - Amuleto: Amuleto della speranza",
+      "japanese": "モンスターハンターワイルズ - 護石「希望の護石」",
+      "koreana": "Monster Hunter Wilds - 호석 '희망의 호석'",
+      "latam": "Monster Hunter Wilds - Talismán: amuleto de la esperanza",
+      "norwegian": "Monster Hunter Wilds - Talisman: Hope Charm",
+      "polish": "Monster Hunter Wilds - Talizman: amulet nadziei",
+      "portuguese": "Monster Hunter Wilds - Talismã: Hope Charm",
+      "russian": "Monster Hunter Wilds - Талисман: оберег надежды",
+      "schinese": "Monster Hunter Wilds - 护石“希望护石”",
+      "spanish": "Monster Hunter Wilds - Talismán: Amuleto de esperanza",
+      "swedish": "Monster Hunter Wilds - Talisman: Hope Charm",
+      "tchinese": "Monster Hunter Wilds - 護石「希望護石」",
+      "thai": "Monster Hunter Wilds - เครื่องราง: เครื่องรางความหวัง",
+      "turkish": "Monster Hunter Wilds - Tılsım: Umut Büyüsü",
+      "ukrainian": "Monster Hunter Wilds - Талісман «Оберіг надії»"
+    },
+    "parent": "2246340",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2246340",
+    "mustownapptopurchase": "2246340"
+  }
+}

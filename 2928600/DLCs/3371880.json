@@ -1,0 +1,30 @@
+{
+  "_change_number": 39173799,
+  "_missing_token": false,
+  "_sha": "58053547c01581d77e159b31048cc724581c080d",
+  "_size": 1878,
+  "appid": "3371880",
+  "common": {
+    "gameid": "3371880",
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Character Unlock Keys: Sanemi Shinazugawa, Obanai Iguro, and Gyomei Himejima",
+    "name_localized": {
+      "english": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Character Unlock Keys: Sanemi Shinazugawa, Obanai Iguro, and Gyomei Himejima",
+      "french": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Clés de déblocage de personnages : Shinazugawa Sanemi, Iguro Obanai et Himejima Gyômei",
+      "german": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Charakterfreischaltschlüssel: Shinazugawa Sanemi, Iguro Obanai und Himejima Gyōmei",
+      "italian": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Codici di sblocco personaggi: Shinazugawa Sanemi, Iguro Obanai e Himejima Gyomei",
+      "japanese": "鬼滅の刃 ヒノカミ血風譚2: プレイアブルキャラクター早期解放権「不死川実弥」「伊黒小芭内」「悲鳴嶼行冥」",
+      "koreana": "귀멸의 칼날 히노카미 혈풍담2: 플레이어블 캐릭터 조기 해방권 '시나즈가와 사네미' '이구로 오바나이' '히메지마 교메이'",
+      "schinese": "鬼灭之刃 火之神血风谭2: 可操作角色提前解锁权：“不死川实弥”“伊黑小芭内”“悲鸣屿行冥”。",
+      "spanish": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Claves de desbloqueo de personaje: Sanemi Shinazugawa, Obanai Iguro y Gyōmei Himejima",
+      "tchinese": "鬼滅之刃 火之神血風譚2: 可使用角色早期開放權「不死川實彌」、「伊黑小芭內」、「悲鳴嶼行冥」"
+    },
+    "parent": "2928600",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2928600",
+    "mustownapptopurchase": "2928600"
+  }
+}

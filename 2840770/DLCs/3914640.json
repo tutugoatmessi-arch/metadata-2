@@ -1,0 +1,26 @@
+{
+  "_change_number": 31955461,
+  "_missing_token": false,
+  "_sha": "bf985a0ef63ffdf2e8b0102c2ae67f583625985a",
+  "_size": 531,
+  "appid": "3914640",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3914640",
+    "name": "Avatar: Frontiers of Pandora From the Ashes Edition Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2840770",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_change_number": 26517061,
+  "_missing_token": false,
+  "_sha": "3eba45d7f0258bcce252b24a9f9a65a7370b1c1b",
+  "_size": 457,
+  "appid": "3230680",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3230680",
+    "name": "Assassin's Creed Mirage - Jinn Pack Ubisoft Activation",
+    "parent": "3035570",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3035570",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "3035570",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

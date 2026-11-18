@@ -1,0 +1,23 @@
+{
+  "_change_number": 33823224,
+  "_missing_token": false,
+  "_sha": "a3db4d970bda071674416adcfcda6c2a459f3c5a",
+  "_size": 459,
+  "appid": "2857040",
+  "common": {
+    "exfgls": "9",
+    "gameid": "2857040",
+    "name": "Avatar: Frontiers of Pandora ULTIMATE Ubisoft Activation",
+    "parent": "2840770",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2840770",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2840770",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

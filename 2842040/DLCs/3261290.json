@@ -1,0 +1,30 @@
+{
+  "_change_number": 26370727,
+  "_missing_token": false,
+  "_sha": "24f36e33ac4b42098177c07391eb3f6982db80ee",
+  "_size": 561,
+  "appid": "3261290",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3261290",
+    "name": "Star Wars Outlaws - Gold Edition - Ubisoft Activation",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "2842040",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "2842040",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "2842040",
+    "proofofpurchaseticketrevision": "1"
+  }
+}
