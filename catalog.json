@@ -2379,8 +2379,8 @@
     "versions": [
       {
         "id": "26598277",
-        "branch": "public REKA Hotfix 2",
-        "label": "public REKA Hotfix 2 - Build 26598277 (11/12/2026)",
+        "branch": "public",
+        "label": "Public - Build 26598277 (11/12/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
