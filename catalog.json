@@ -2367,7 +2367,7 @@
     ],
     "launch_exe": "Reka.exe",
     "launch_exe_after_fix": "",
-    "build_id": "26298851",
+    "build_id": "26598277",
     "has_metadata": true,
     "depot_base": 1737871,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1737870/a69fecf015e6084fb3681a55c2f45699ff3f0f7c/library_capsule.jpg",
@@ -2378,11 +2378,33 @@
     ],
     "versions": [
       {
+        "id": "26598277",
+        "branch": "public REKA Hotfix 2",
+        "label": "public REKA Hotfix 2 - Build 26598277 (11/12/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1737871",
+          "3179551",
+          "3179552"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "26298851",
         "branch": "public REKA Hotfix 2",
         "label": "public REKA Hotfix 2 - Build 26298851 (10/29/2026)",
         "is_ready": true,
-        "is_recommended": true,
+        "is_recommended": false,
         "manifest_depots": [
           "1737871",
           "3179551",

@@ -1,5 +1,5 @@
 {
-  "updated_at": 1794979719,
+  "updated_at": 1795341229,
   "total_games": 72,
   "total_dlcs": 772,
   "games": {
@@ -7097,5 +7097,6 @@
       "store_visible": false,
       "metadata_file": "4530370/DLCs/5529860.json"
     }
-  }
+  },
+  "coverage": {}
 }

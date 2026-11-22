@@ -2,6 +2,29 @@
   "_lastChecked": 1793613259,
   "_history": [
     {
+      "buildId": "26598277",
+      "branch": "public REKA Hotfix 2",
+      "timeUpdated": 1794420590,
+      "firstSeen": 1795341188,
+      "manifests": {
+        "1737871": {
+          "gid": "2161016356776377728",
+          "size": 2534958667,
+          "download": 1966329824
+        },
+        "3179551": {
+          "gid": "1259016354274665427",
+          "size": 357096833,
+          "download": 356463840
+        },
+        "3179552": {
+          "gid": "1360781562696231134",
+          "size": 2526161215,
+          "download": 2473598368
+        }
+      }
+    },
+    {
       "buildId": "26298851",
       "branch": "public REKA Hotfix 2",
       "timeUpdated": 1793281691,
