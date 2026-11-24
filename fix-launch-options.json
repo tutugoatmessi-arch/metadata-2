@@ -5,6 +5,12 @@
       "exe": "PlayRDR2.exe"
     }
   ],
+  "4115450": [
+    {
+      "name": "Chơi offline",
+      "exe": "platform/steam/PBZ.exe"
+    }
+  ],
   "1245620": [
     {
       "name": "Chơi offline + Việt hóa",
