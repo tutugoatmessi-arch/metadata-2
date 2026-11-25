@@ -1,0 +1,156 @@
+{
+  "_change_number": 39547480,
+  "_missing_token": false,
+  "_sha": "05c911fde017ef4e9b248551995526bc9fe1aab2",
+  "_size": 3843,
+  "appid": "3493830",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Codemasters",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Electronic Arts",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "EA Sports",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_30": "1",
+      "category_35": "1",
+      "category_61": "1",
+      "category_62": "1"
+    },
+    "gameid": "3493830",
+    "genres": {
+      "0": "9",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "5d286305fede91b48e516e9fe48070f7e844ef2a/header.jpg"
+    },
+    "name": "F1® 25 Iconic Edition Upgrade",
+    "name_localized": {
+      "brazilian": "Melhoria para Iconic Edition do F1® 25",
+      "czech": "F1® 25 Iconic Edition Upgrade",
+      "danish": "F1® 25 Iconic Edition-opgradering",
+      "dutch": "F1® 25 Iconic Edition-upgrade",
+      "english": "F1® 25 Iconic Edition Upgrade",
+      "finnish": "F1® 25 Iconic Edition -päivitys",
+      "french": "Mise à niveau vers l'Édition emblématique de F1® 25",
+      "german": "F1® 25 Iconic Edition Upgrade",
+      "italian": "Aggiornamento F1® 25 Iconic Edition",
+      "japanese": "F1® 25アイコニックエディションアップグレード",
+      "koreana": "F1® 25 Iconic Edition Upgrade",
+      "latam": "Mejora a la F1® 25 Iconic Edition",
+      "norwegian": "F1® 25 Iconic Edition Upgrade",
+      "polish": "F1® 25 Ulepszenie do Edycji Ikonicznej",
+      "portuguese": "Atualização para F1® 25 Iconic Edition",
+      "russian": "Улучшение до издания Iconic F1® 25",
+      "schinese": "《F1® 25》传奇版升级",
+      "spanish": "Mejora de F1® 25 Iconic Edition",
+      "swedish": "F1® 25 Iconic Edition-uppgradering",
+      "tchinese": "《F1® 25》經典版升級",
+      "thai": "F1® 25 Iconic Edition Upgrade",
+      "turkish": "F1® 25 Iconic Edition Yükseltmesi",
+      "ukrainian": "Оновлення до F1® 25 Iconic Edition"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3059520",
+    "primary_genre": "9",
+    "releasestate": "released",
+    "review_percentage": "54",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "450521cae62233433c31165fd02f9f50b47e1df9/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1748357923",
+    "store_asset_mtime": "1747754239",
+    "store_screenshot": "41e2dc99ae68ff3f7628403fac109aa9b784fa8b/ss_41e2dc99ae68ff3f7628403fac109aa9b784fa8b.jpg",
+    "store_tags": {
+      "0": "699",
+      "1": "701",
+      "2": "599",
+      "3": "1644",
+      "4": "3859",
+      "5": "21978",
+      "6": "1100687"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Codemasters",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3059520",
+    "mustownapptopurchase": "3059520",
+    "publisher": "Electronic Arts"
+  }
+}

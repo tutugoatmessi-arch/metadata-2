@@ -1,0 +1,45 @@
+{
+  "_change_number": 29862278,
+  "_missing_token": false,
+  "_sha": "8624598506600c8747e9c9f78e4ca60ec923a25b",
+  "_size": 1498,
+  "appid": "3335200",
+  "common": {
+    "exfgls": "1",
+    "gameid": "3335200",
+    "name": "F1® 25 Iconic Bumper Pack",
+    "name_localized": {
+      "brazilian": "Pacote de Impacto de Ídolo do F1® 25",
+      "czech": "F1® 25 – Iconic Bumper Pack",
+      "danish": "F1® 25 Iconic Bumper Pack",
+      "dutch": "F1® 25 Iconish Bumper-pakket",
+      "english": "F1® 25 Iconic Bumper Pack",
+      "finnish": "F1® 25 Iconic Bumper -paketti",
+      "french": "F1® 25 Pack Boost emblématique",
+      "german": "Ikonisches F1® 25 Stoßfänger-Pack",
+      "italian": "Pacchetto paraurti iconico F1® 25",
+      "japanese": "F1® 25 アイコニックバンパーパック",
+      "koreana": "F1® 25 Iconic Bumper Pack",
+      "latam": "Pack de defensa icónico de F1® 25",
+      "norwegian": "F1® 25 Iconic Bumper-pakke",
+      "polish": "F1® 25 Ikoniczny pakiet ulepszeń",
+      "portuguese": "F1® 25 Pack Bumper Icónico",
+      "russian": "F1® 25 — набор Iconic Bumper",
+      "schinese": "F1® 25 传奇豪华组合包",
+      "spanish": "Pack de parachoques icónico de F1® 25",
+      "swedish": "F1® 25 Iconic Bumper Pack",
+      "tchinese": "《F1® 25》經典保險桿組合包",
+      "thai": "แพ็ก Iconic Bumper สำหรับ F1® 25",
+      "turkish": "F1® 25 Iconic Bumper Pack",
+      "ukrainian": "Культовий набір бамперів F1® 25"
+    },
+    "parent": "3059520",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3059520",
+    "mustownapptopurchase": "3059520"
+  }
+}

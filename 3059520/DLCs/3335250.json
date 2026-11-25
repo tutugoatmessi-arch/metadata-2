@@ -1,0 +1,45 @@
+{
+  "_change_number": 29293462,
+  "_missing_token": false,
+  "_sha": "0c8a4717fde61e263ccfeab0a96bc05d4556b5a0",
+  "_size": 1571,
+  "appid": "3335250",
+  "common": {
+    "exfgls": "1",
+    "gameid": "3335250",
+    "name": "F1® 25 Standard Starter Pack",
+    "name_localized": {
+      "brazilian": "Pacote de Iniciante Standard do F1® 25",
+      "czech": "F1® 25 – Standard Starter Pack",
+      "danish": "F1® 25 Standard Starter Pack",
+      "dutch": "F1® 25 Standard-starterspakket",
+      "english": "F1® 25 Standard Starter Pack",
+      "finnish": "F1® 25 Standard-aloituspaketti",
+      "french": "F1® 25 Pack de démarrage standard",
+      "german": "F1® 25 Standard-Starter-Pack",
+      "italian": "Pacchetto iniziale standard F1® 25",
+      "japanese": "F1® 25 スタンダードスターターパック",
+      "koreana": "F1® 25 Standard Starter Pack",
+      "latam": "Pack inicial estándar de F1® 25",
+      "norwegian": "F1® 25 Standard Starter-pakke",
+      "polish": "F1® 25 Standardowy pakiet startowy",
+      "portuguese": "F1® 25 Pack Inicial Standard",
+      "russian": "F1® 25 — стандартный стартовый набор",
+      "schinese": "F1® 25 标准新手组合包",
+      "spanish": "Pack de iniciación de la F1® 25 Standard Edition",
+      "swedish": "F1® 25 Standard Starter Pack",
+      "tchinese": "《F1® 25》標準新手組合包",
+      "thai": "แพ็ก Standard Starter สำหรับ F1® 25",
+      "turkish": "F1® 25 Standard Starter Pack",
+      "ukrainian": "Стандартний стартовий набір F1® 25"
+    },
+    "parent": "3059520",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3059520",
+    "mustownapptopurchase": "3059520"
+  }
+}

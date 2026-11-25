@@ -1,0 +1,45 @@
+{
+  "_change_number": 29293462,
+  "_missing_token": false,
+  "_sha": "97f788a72bd6f9a1c5c3b237355b969f06aac845",
+  "_size": 1567,
+  "appid": "3493790",
+  "common": {
+    "exfgls": "1",
+    "gameid": "3493790",
+    "name": "F1® TV Pro 1-Month Subscription",
+    "name_localized": {
+      "brazilian": "Assinatura de 1 mês do F1® TV Pro",
+      "czech": "Měsíční předplatné F1® TV Pro",
+      "danish": "F1® TV Pro 1-måneds abonnement",
+      "dutch": "Abonnement van 1 maand op F1® TV Pro",
+      "english": "F1® TV Pro 1-Month Subscription",
+      "finnish": "Yhden kuukauden F1® TV Pro -tilaus",
+      "french": "Abonnement de 1 mois à F1® TV Pro",
+      "german": "F1® TV-Pro-1-Monats-Abonnement",
+      "italian": "Abbonamento di 1 mese a F1® TV Pro",
+      "japanese": "F1® TV Pro 1ヶ月サブスクリプション",
+      "koreana": "F1® TV Pro 1개월 구독권",
+      "latam": "Suscripción de 1 mes a F1® TV Pro",
+      "norwegian": "F1® TV Pro – 1-måneds abonnement",
+      "polish": "1-miesięczny abonament F1® TV Pro",
+      "portuguese": "Subscrição de 1 mês da F1® TV Pro",
+      "russian": "Подписка F1® TV Pro на 1 месяц",
+      "schinese": "1 个月的 F1® TV Pro 订阅权限",
+      "spanish": "Suscripción de 1 mes a F1® TV Pro",
+      "swedish": "1 månads prenumeration på F1® TV Pro",
+      "tchinese": "F1® TV Pro 1 個月訂閱資格",
+      "thai": "สมาชิก F1® TV Pro 1 เดือน",
+      "turkish": "F1® TV Pro 1 Aylık Abonelik",
+      "ukrainian": "1-місячна підписка на F1® TV Pro"
+    },
+    "parent": "3059520",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3059520",
+    "mustownapptopurchase": "3059520"
+  }
+}
