@@ -1,0 +1,44 @@
+{
+  "_change_number": 29293462,
+  "_missing_token": false,
+  "_sha": "c80eebe4dfacfc32204385350efb43e5a2044b2e",
+  "_size": 1595,
+  "appid": "3335260",
+  "common": {
+    "gameid": "3335260",
+    "name": "F1® 25: F1® 75 Celebration Pack",
+    "name_localized": {
+      "brazilian": "F1® 25: Pacote de Comemoração F1® 75",
+      "czech": "F1® 25 – F1® 75 Celebration Pack",
+      "danish": "F1® 25: F1® 75 Celebration Pack",
+      "dutch": "F1® 25: F1® 75-feestpakket",
+      "english": "F1® 25: F1® 75 Celebration Pack",
+      "finnish": "F1® 25: F1® 75 Celebration -paketti",
+      "french": "F1® 25 : Pack de célébration 75 ans F1®",
+      "german": "F1® 25: Pack zum 75. F1®-Jubiläum",
+      "italian": "F1® 25: Pacchetto festeggiamenti F1® 75",
+      "japanese": "F1® 25: F1® 75 セレブレーションパック",
+      "koreana": "F1® 25: F1® 75 Celebration Pack",
+      "latam": "F1® 25: pack de celebración de F1® 75",
+      "norwegian": "F1® 25: F1® 75 Celebration-pakke",
+      "polish": "F1® 25: F1® Pakiet na 75-lecie",
+      "portuguese": "F1® 25 Pack de Celebração F1® 75",
+      "russian": "F1® 25: юбилейный набор F1® 75",
+      "schinese": "F1® 25：F1® 75 周年庆典组合包",
+      "spanish": "F1® 25: pack de celebración de 75 años de F1®",
+      "swedish": "F1® 25: F1® 75 Celebration Pack",
+      "tchinese": "《F1® 25》：F1® 75 週年紀念組合包",
+      "thai": "F1® 25: แพ็ก F1® 75 Celebration",
+      "turkish": "F1® 25: F1® 75 Celebration Pack",
+      "ukrainian": "F1® 25: святковий набір F1® 75"
+    },
+    "parent": "3059520",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3059520",
+    "mustownapptopurchase": "3059520"
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "updated_at": 1795341229,
-  "total_games": 72,
-  "total_dlcs": 772,
+  "updated_at": 1795578600,
+  "total_games": 73,
+  "total_dlcs": 783,
   "games": {
     "1030840": [
       "1316300"
@@ -641,6 +641,19 @@
       "4145500",
       "4145510",
       "4145520"
+    ],
+    "3059520": [
+      "3335200",
+      "3335210",
+      "3335220",
+      "3335250",
+      "3335260",
+      "3493790",
+      "3493820",
+      "3493830",
+      "3546340",
+      "3601380",
+      "4148930"
     ],
     "3357650": [
       "3859920",
@@ -5529,6 +5542,51 @@
       "store_visible": false,
       "metadata_file": "1149460/DLCs/3315290.json"
     },
+    "3335200": {
+      "appid": "3335200",
+      "name": "F1® 25 Iconic Bumper Pack",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3335200.json",
+      "metadata_status": "appinfo"
+    },
+    "3335210": {
+      "appid": "3335210",
+      "name": "F1® 25 Iconic Content Pack",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3335210.json",
+      "metadata_status": "appinfo"
+    },
+    "3335220": {
+      "appid": "3335220",
+      "name": "F1® 25: F1® The Movie - Chapter Scenarios",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3335220/f81f81bc1f5c382786d04c0e2b50e9e2e4c2cf65/header.jpg",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3335220.json",
+      "metadata_status": "appinfo"
+    },
+    "3335250": {
+      "appid": "3335250",
+      "name": "F1® 25 Standard Starter Pack",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3335250.json",
+      "metadata_status": "appinfo"
+    },
+    "3335260": {
+      "appid": "3335260",
+      "name": "F1® 25: F1® 75 Celebration Pack",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3335260.json",
+      "metadata_status": "appinfo"
+    },
     "3349320": {
       "appid": "3349320",
       "name": "ARK: Extinction Ascended",
@@ -5705,6 +5763,33 @@
       "store_visible": false,
       "metadata_file": "1971870/DLCs/3490300.json"
     },
+    "3493790": {
+      "appid": "3493790",
+      "name": "F1® TV Pro 1-Month Subscription",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3493790.json",
+      "metadata_status": "appinfo"
+    },
+    "3493820": {
+      "appid": "3493820",
+      "name": "F1® 25 Iconic Edition Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3493820/5d286305fede91b48e516e9fe48070f7e844ef2a/header.jpg",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3493820.json",
+      "metadata_status": "appinfo"
+    },
+    "3493830": {
+      "appid": "3493830",
+      "name": "F1® 25 Iconic Edition Upgrade",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3493830/5d286305fede91b48e516e9fe48070f7e844ef2a/header.jpg",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3493830.json",
+      "metadata_status": "appinfo"
+    },
     "3497710": {
       "appid": "3497710",
       "name": "MK1: MKT Skins",
@@ -5752,6 +5837,15 @@
       "parent": "2842040",
       "store_visible": false,
       "metadata_file": "2842040/DLCs/3541410.json"
+    },
+    "3546340": {
+      "appid": "3546340",
+      "name": "F1® 25 APXGP Team Pack",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3546340.json",
+      "metadata_status": "appinfo"
     },
     "3551410": {
       "appid": "3551410",
@@ -5888,6 +5982,15 @@
       "parent": "3489700",
       "store_visible": false,
       "metadata_file": "3489700/DLCs/3596220.json"
+    },
+    "3601380": {
+      "appid": "3601380",
+      "name": "F1 25 - EA Play Trial Key",
+      "image": "",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/3601380.json",
+      "metadata_status": "appinfo"
     },
     "3606490": {
       "appid": "3606490",
@@ -6497,6 +6600,15 @@
       "store_visible": false,
       "metadata_file": "3035570/DLCs/4145520.json"
     },
+    "4148930": {
+      "appid": "4148930",
+      "name": "F1® 25: 2026 Season Pack",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4148930/7d23eb2b94b90212971ab88b3ad0285897c6805f/header.jpg",
+      "parent": "3059520",
+      "store_visible": false,
+      "metadata_file": "3059520/DLCs/4148930.json",
+      "metadata_status": "appinfo"
+    },
     "4159460": {
       "appid": "4159460",
       "name": "RoadCraft - Reclaim Expansion",
@@ -7098,5 +7210,14 @@
       "metadata_file": "4530370/DLCs/5529860.json"
     }
   },
-  "coverage": {}
+  "coverage": {
+    "3059520": {
+      "discovered": 11,
+      "stored": 11,
+      "full_appinfo": 11,
+      "steam_store": 0,
+      "parent_appinfo": 0,
+      "missing_files": []
+    }
+  }
 }

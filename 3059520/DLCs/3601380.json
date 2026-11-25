@@ -1,0 +1,18 @@
+{
+  "_change_number": 29222913,
+  "_missing_token": false,
+  "_sha": "dff971c9e873b4a9c654a13083d855da14d56fe5",
+  "_size": 259,
+  "appid": "3601380",
+  "common": {
+    "gameid": "3601380",
+    "name": "F1 25 - EA Play Trial Key",
+    "parent": "3059520",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "3059520",
+    "mustownapptopurchase": "3059520"
+  }
+}
